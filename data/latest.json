@@ -1,12 +1,13 @@
 {
-  "last_updated": "2026-10-16T10:32:57+00:00",
+  "last_updated": "2026-10-16T18:55:05+00:00",
   "reports": {
     "daily-coach": {
       "title": "Daily Study Coach",
-      "updated_at": "2026-10-16T09:38:45+00:00",
-      "markdown": "# Daily Study Coach\n\nGenerated: 2026-10-16T09:38:45+00:00 UTC\n\n> Free fallback mode. OPENAI_API_KEY is not configured. This is a generated starter brief, not live job verification or a claim about completed progress.\n\n## Plan\n\nBuild a practical 60–90 minute Google-first plan: one Java DSA problem, complexity explanation, review of one weak concept, and a short reflection. Do not claim the user completed work unless they reported it.\n\n## Record actual progress\n\n- What did you complete?\n- How many focused minutes did you spend?\n- What blocked you or needs a re-solve?\n\n## Next action\n\nChoose one measurable next step and record the result in the dashboard.\n",
+      "updated_at": "2026-10-16T18:55:05+00:00",
+      "markdown": "# Daily Study Coach\n\nGenerated: 2026-10-16T18:55:05+00:00 UTC\n\n> Free deterministic coaching mode. No OpenAI API key is needed. Tasks and examples are prepared from a built-in curriculum; progress is only personalized when private Gist sync is configured.\n\n## Today's Java DSA challenge\n\n**Kth Largest Element in an Array** · Pattern: Heap / quickselect\n\nCompare heap and quickselect trade-offs.\n\nPractice link: https://leetcode.com/problems/kth-largest-element-in-an-array/\n\n## 90-minute plan\n\n1. **10 min — Recall:** write yesterday's pattern and one mistake from memory.\n2. **35 min — Solve:** attempt the challenge in Java without looking at a solution. State the brute-force approach first.\n3. **15 min — Explain:** give time and space complexity and justify the data structure.\n4. **15 min — Test:** write normal, boundary, empty/minimum and duplicate/adversarial cases.\n5. **10 min — Review:** compare with an editorial only after a genuine attempt; note why your approach works.\n6. **5 min — Log:** record minutes, outcome, blocker and whether you can re-solve unaided in 3–7 days.\n\n## Definition of done\n\n- Code compiles and passes edge cases.\n- You can explain the invariant and complexity without notes.\n- Add one mistake or lesson to the dashboard study log.\n\n## Progress snapshot\n\nNo private cloud progress was available to this run. Configure private Gist sync if you want scheduled reports to use your actual dashboard records. The plan above remains fully usable without it.\n\n## Next action\n\nStart a 35-minute timed attempt on [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/). Do not mark it complete until you have solved and tested it.\n",
       "path": "reports/daily-coach.md",
-      "mode": "free-fallback"
+      "mode": "free-curriculum",
+      "progress_synced": false
     },
     "system-design": {
       "title": "System Design Coach",
