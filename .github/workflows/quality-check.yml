@@ -40,4 +40,4 @@ jobs:
           python agents/run_agent.py --agent weekly-review
           python agents/run_agent.py --agent system-design
           python agents/run_agent.py --agent job-scout
-          python -c "import json; from pathlib import Path; d=json.loads(Path('data/latest.json').read_text()); keys=('daily-coach','weekly-review','system-design','job-scout'); assert all(d['reports'][k]['mode']=='free-curriculum' for k in keys); assert 'Today's Java DSA challenge' in d['reports']['daily-coach']['markdown']; assert 'Self-score' in d['reports']['system-design']['markdown']; print('Free coaching smoke tests passed')"
+          python -c "import json; from pathlib import Path; d=json.loads(Path('data/latest.json').read_text()); keys=('daily-coach','weekly-review','system-design','job-scout'); assert all(d['reports'][k]['mode']=='free-curriculum' for k in keys); assert 'Java DSA challenge' in d['reports']['daily-coach']['markdown']; assert 'Self-score' in d['reports']['system-design']['markdown']; print('Free coaching smoke tests passed')"
