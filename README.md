@@ -21,13 +21,13 @@ Schedules use UTC and GitHub may delay scheduled workflows during high load. You
 
 Without a repository secret named OPENAI_API_KEY, agents write clearly labeled fallback briefs. To enable AI-generated reports, open **Settings → Secrets and variables → Actions → New repository secret**, name it OPENAI_API_KEY, and paste your API key there. API use may incur charges. Never put keys in source files or the dashboard.
 
-Optional repository variable: OPENAI_MODEL = gpt-4.1-mini.
+Optional repository variable: `OPENAI_MODEL = gpt-4.1-mini`. AI-personalized coaching requires `OPENAI_API_KEY`; progress-aware scheduled coaching additionally requires `CAREER_GIST_TOKEN` and `CAREER_GIST_ID` configured as described above. The fallback mode is not an AI model and must be treated as a structured starter brief.
 
 ## Privacy and limitations
 
-The repository is public so the GitHub Pages site can be hosted on GitHub Free. Source files and reports are therefore public. Do not commit personal/private information or secrets. The dashboard's checklist, study sessions and application pipeline are stored in the current browser's local storage and do not automatically sync across devices.
+The repository is public so the GitHub Pages site can be hosted on GitHub Free. Source files and reports are therefore public. Do not commit personal/private information or secrets. The dashboard stores working data in the current browser and includes optional private GitHub Gist sync. In the dashboard, enter a GitHub Personal Access Token (classic) with only the `gist` scope and select Upload / update cloud backup. The dashboard creates a private Gist and remembers only its ID locally; the token is not saved by the page. On each device, enter the token and use the same Gist ID to sync. Treat the token as a password and revoke it in GitHub settings if exposed. To let scheduled agents read your progress, add repository secret `CAREER_GIST_TOKEN` with that same gist-scoped token and repository variable `CAREER_GIST_ID` with the private Gist ID. Without those settings, scheduled reports must not claim to know your personal progress.
 
-The job scout workflow does not have live web search. It provides official career-site links and a verification checklist; it does not claim current vacancies are open. Verify jobs on employers' official pages.
+The job scout now attempts a live fetch of the official Google Careers India software-engineering search page, records the check timestamp and extracted official links in `data/google-jobs.json`, and labels extraction failures explicitly. A successful page fetch is not a guarantee that a role remains open; open each official listing and reconfirm availability and eligibility before applying. Other employers' listings are not yet automatically verified.
 
 ## Workflows
 
