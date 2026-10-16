@@ -6,6 +6,9 @@ on:
       - main
     paths:
       - "agent-triggers/job-scout.txt"
+      - "agents/run_agent.py"
+      - "agents/google_job_scout.py"
+      - ".github/workflows/job-scout.yml"
   workflow_dispatch:
   schedule:
     - cron: "30 2 * * 1"
