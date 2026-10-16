@@ -1,6 +1,6 @@
 # Big Tech Job Scout
 
-Generated: 2026-10-16T10:15:35+00:00 UTC
+Generated: 2026-10-16T10:16:12+00:00 UTC
 
 > Free deterministic coaching mode. No OpenAI API key is needed. Tasks and examples are prepared from a built-in curriculum; progress is only personalized when private Gist sync is configured.
 
@@ -33,7 +33,7 @@ The scheduled checker can confirm that Google's search page responded, but if it
 
 ## Live Google Careers check
 
-Checked at: 2026-10-16T10:15:35+00:00 UTC
+Checked at: 2026-10-16T10:16:12+00:00 UTC
 
 Official source: https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer&location=India
 
