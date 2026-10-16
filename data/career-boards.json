@@ -1,0 +1,54 @@
+{
+  "checked_at": null,
+  "note": "These are official career search entry points, not confirmed vacancy records. Open the employer's own listing and verify role status, location, level, qualifications and eligibility before applying.",
+  "companies": [
+    {
+      "company": "Google",
+      "priority": 1,
+      "url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer&location=India",
+      "focus": "Software Engineer, backend, infrastructure, site reliability"
+    },
+    {
+      "company": "Microsoft",
+      "priority": 2,
+      "url": "https://jobs.careers.microsoft.com/global/en/search?q=software%20engineer&lc=India",
+      "focus": "Software Engineer, Azure, backend, platform"
+    },
+    {
+      "company": "Atlassian",
+      "priority": 3,
+      "url": "https://www.atlassian.com/company/careers/all-jobs",
+      "focus": "Software Engineer, platform, distributed systems"
+    },
+    {
+      "company": "Meta",
+      "priority": 4,
+      "url": "https://www.metacareers.com/jobs/",
+      "focus": "Software Engineer, infrastructure, product engineering"
+    },
+    {
+      "company": "Adobe",
+      "priority": 5,
+      "url": "https://careers.adobe.com/us/en/search-results",
+      "focus": "Software Development Engineer, backend, cloud"
+    },
+    {
+      "company": "Salesforce",
+      "priority": 6,
+      "url": "https://careers.salesforce.com/en/jobs/",
+      "focus": "Software Engineer, platform, cloud"
+    },
+    {
+      "company": "Intuit",
+      "priority": 7,
+      "url": "https://careers.intuit.com/search-jobs",
+      "focus": "Software Engineer, backend, full stack"
+    },
+    {
+      "company": "Walmart Global Tech",
+      "priority": 8,
+      "url": "https://careers.walmart.com/",
+      "focus": "Software Engineer, backend, platform, commerce"
+    }
+  ]
+}
