@@ -12,8 +12,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
   group: career-hq-pages
@@ -36,32 +34,57 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4.1-mini' }}
         run: python agents/run_agent.py --agent job-scout
-      - name: Commit generated report
+      - name: Commit generated report safely
+        env:
+          AGENT_KEY: job-scout
+          REPORT_FILE: reports/job-scout.md
+          COMMIT_MESSAGE: Update job-scout report
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add reports data/latest.json
-          if ! git diff --cached --quiet; then
-            git commit -m "Update job-scout report"
-            git push origin HEAD:main
-          fi
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
-        with:
-          enablement: true
-      - name: Prepare dashboard bundle
-        run: |
-          mkdir -p site/data site/reports
-          cp index.html manifest.webmanifest icon.svg sw.js site/
-          cp data/latest.json site/data/latest.json
-          cp reports/*.md site/reports/
-      - name: Upload dashboard artifact
-        uses: actions/upload-pages-artifact@v4
-        with:
-          path: site
-      - name: Deploy dashboard
-        id: deployment
-        uses: actions/deploy-pages@v4
+          cp "$REPORT_FILE" /tmp/agent-report.md
+          cp data/latest.json /tmp/generated-latest.json
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            cp /tmp/agent-report.md "$REPORT_FILE"
+            python - <<'PY'
+          import json, os
+          from datetime import datetime, timezone
+          from pathlib import Path
+          latest_path = Path("data/latest.json")
+          try:
+              latest = json.loads(latest_path.read_text(encoding="utf-8"))
+          except (OSError, json.JSONDecodeError):
+              latest = {}
+          try:
+              generated = json.loads(Path("/tmp/generated-latest.json").read_text(encoding="utf-8"))
+          except (OSError, json.JSONDecodeError):
+              generated = {}
+          if not isinstance(latest, dict):
+              latest = {}
+          if not isinstance(latest.get("reports"), dict):
+              latest["reports"] = {}
+          generated_reports = generated.get("reports", {}) if isinstance(generated, dict) else {}
+          key = os.environ["AGENT_KEY"]
+          if key not in generated_reports:
+              raise SystemExit(f"Generated report missing: {key}")
+          latest["reports"][key] = generated_reports[key]
+          latest["last_updated"] = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
+          latest_path.write_text(json.dumps(latest, indent=2, ensure_ascii=False) + "\\n", encoding="utf-8")
+          PY
+            git add "$REPORT_FILE" data/latest.json
+            if git diff --cached --quiet; then
+              exit 0
+            fi
+            git commit -m "$COMMIT_MESSAGE"
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            sleep "$attempt"
+          done
+          echo "Could not push report after five attempts" >&2
+          exit 1
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
