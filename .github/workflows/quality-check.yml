@@ -29,9 +29,28 @@ jobs:
       - name: Compile Python agents
         run: python -m compileall -q agents
       - name: Validate dashboard and interview lab JavaScript
-        run: python -c "from pathlib import Path; import re; files={'index.html':'/tmp/dashboard.js','interview-lab.html':'/tmp/interview-lab.js'}; [(lambda p,o: Path(o).write_text(re.search(r'<script>(.*?)</script>',Path(p).read_text(encoding='utf-8'),re.S).group(1),encoding='utf-8'))(p,o) for p,o in files.items()]; assert all(Path(p).exists() for p in files.values())" && node --check /tmp/dashboard.js && node --check /tmp/interview-lab.js
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          files = {"index.html": "/tmp/dashboard.js", "interview-lab.html": "/tmp/interview-lab.js"}
+          for source, target in files.items():
+              match = re.search(r"<script>(.*?)</script>", Path(source).read_text(encoding="utf-8"), re.S)
+              if not match:
+                  raise SystemExit(f"Script tag not found in {source}")
+              Path(target).write_text(match.group(1), encoding="utf-8")
+          PY
+          node --check /tmp/dashboard.js
+          node --check /tmp/interview-lab.js
       - name: Validate JSON data files
-        run: python -c "import json; from pathlib import Path; [json.loads(Path(p).read_text(encoding='utf-8')) for p in ('data/interview-bank.json','data/career-boards.json','data/current-opportunities.json','data/google-jobs.json')]; print('JSON data files passed')"
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          for path in ("data/interview-bank.json", "data/career-boards.json", "data/current-opportunities.json", "data/google-jobs.json"):
+              json.loads(Path(path).read_text(encoding="utf-8"))
+          print("JSON data files passed")
+          PY
       - name: Smoke-test free coaching agents
         env:
           OPENAI_API_KEY: ""
