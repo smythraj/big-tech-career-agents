@@ -1,0 +1,8 @@
+{
+  "checked_at": "2026-10-16T09:53:50+00:00",
+  "source": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer&location=India",
+  "status": "checked",
+  "http_status": 200,
+  "jobs": [],
+  "message": "The official Google Careers page returned HTTP 200, but no individual job links could be extracted. Page rendering may have changed; no vacancy is claimed."
+}
