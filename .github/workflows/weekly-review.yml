@@ -30,7 +30,6 @@ jobs:
         with:
           python-version: "3.12"
       - name: Run agent
-        env:
         run: python agents/run_agent.py --agent weekly-review
       - name: Commit generated report safely
         env:
