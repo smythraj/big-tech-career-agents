@@ -42,10 +42,12 @@ jobs:
           fi
       - name: Configure Pages
         uses: actions/configure-pages@v5
+        with:
+          enablement: true
       - name: Prepare dashboard bundle
         run: |
           mkdir -p site/data site/reports
-          cp index.html manifest.webmanifest site/
+          cp index.html manifest.webmanifest icon.svg sw.js site/
           cp data/latest.json site/data/latest.json
           cp reports/*.md site/reports/
       - name: Upload dashboard artifact
