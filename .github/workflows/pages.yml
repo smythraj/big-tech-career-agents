@@ -54,6 +54,8 @@ jobs:
           cp index.html manifest.webmanifest icon.svg sw.js site/
           cp reports/*.md site/reports/
           cp data/latest.json site/data/latest.json
+          cp data/google-jobs.json site/data/google-jobs.json
+          cp data/daily-research.json site/data/daily-research.json
           touch site/.nojekyll
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
