@@ -14,8 +14,14 @@ https://smythraj.github.io/big-tech-career-agents/
 - **Big Tech Job Scout:** provides official careers links and an application verification checklist. It never claims a role is open unless individual listings can be extracted and then manually reconfirmed.
 - **Daily Career Research:** collects recent news-search leads and free learning resources. News leads are not verified vacancies.
 - **Mock interview scorecards:** record problem solving, communication, complexity/trade-offs, and testing from 1–5 each. The dashboard shows the average score out of 20.
+- **Interactive Interview Lab:** a separate practice page with original worked answer outlines, follow-up questions, complexity guidance, searchable topic filters, and browser-local completion marks. It covers arrays, graphs, DP, Java/backend, distributed systems, system design, debugging, and behavioral stories.
+- **Official Big Tech career boards:** one-click search links for Google, Microsoft, Atlassian, Meta, Adobe, Salesforce, Intuit, and Walmart Global Tech. Google’s scheduled checker records its timestamp and only shows individual listings if it can extract them; career search links are not proof that a vacancy is open.
 - **Preparation execution score:** summarizes recent study consistency, completed DSA practice entries, mock scores, and application-pipeline hygiene. It is a progress indicator only, not a probability of getting hired.
 - **Study log, tasks, job pipeline, JSON backup, and optional private Gist sync:** keep your practice and next actions organized. Data remains in the current browser unless you export it or configure cloud sync.
+
+## Interview question accuracy
+
+The Interview Lab is an original practice bank based on enduring software-engineering patterns. It does not claim to reproduce Google's confidential interview questions or attribute a prompt to a specific historical year. Google's candidate guidance says its interview questions are considered intellectual property and should not be shared externally. Use the worked answers as learning outlines, then solve independently and explain trade-offs.
 
 ## Six-month roadmap
 
