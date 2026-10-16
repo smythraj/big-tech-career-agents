@@ -1,4 +1,5 @@
 import datetime as dt
+import email.utils
 import json
 import re
 import urllib.error
@@ -43,13 +44,27 @@ def read_feed(label, url):
         status, body = fetch(url)
         entry["http_status"] = status
         root = ET.fromstring(body)
-        for node in root.findall(".//item")[:8]:
+        cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=21)
+        blocked_terms = ("facebook", "instagram", "tiktok", "youtube shorts")
+        for node in root.findall(".//item"):
             title = clean(node.findtext("title", ""))
             link = (node.findtext("link", "") or "").strip()
             published = clean(node.findtext("pubDate", ""))
             description = clean(node.findtext("description", ""))
-            if title and link:
-                entry["items"].append({"title": title[:240], "url": link, "published": published, "summary": description[:300]})
+            if not title or not link or any(term in title.lower() for term in blocked_terms):
+                continue
+            try:
+                published_date = email.utils.parsedate_to_datetime(published)
+                if published_date.tzinfo is None:
+                    published_date = published_date.replace(tzinfo=dt.timezone.utc)
+                if published_date.astimezone(dt.timezone.utc) < cutoff:
+                    continue
+            except (TypeError, ValueError, OverflowError):
+                if not published:
+                    continue
+            entry["items"].append({"title": title[:240], "url": link, "published": published, "summary": description[:300]})
+            if len(entry["items"]) >= 5:
+                break
         entry["status"] = "checked"
     except Exception as exc:
         entry["error"] = type(exc).__name__
@@ -67,7 +82,7 @@ def main():
         result["google_careers_check"] = {"status": "unavailable", "message": "Official search page check failed: " + type(exc).__name__ + ". Open the official search URL directly."}
     result["news_item_count"] = sum(len(feed["items"]) for feed in result["feeds"])
     OUTPUT.write_text(json.dumps(result, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-    lines = ["# Daily Career Research", "", "Updated: " + now.isoformat() + " UTC", "", "> Daily research leads, not guaranteed vacancies. Verify roles and claims on the linked source before acting.", "", "## Google Careers", "", "[" + GOOGLE_CAREERS + "](" + GOOGLE_CAREERS + ")", "", result["google_careers_check"]["message"], ""]
+    lines = ["# Daily Career Research", "", "Updated: " + now.isoformat() + " UTC", "", "> Daily research leads from items published in the last 21 days, not guaranteed vacancies. Verify roles and claims on the linked source before acting.", "", "## Google Careers", "", "[" + GOOGLE_CAREERS + "](" + GOOGLE_CAREERS + ")", "", result["google_careers_check"]["message"], ""]
     for feed in result["feeds"]:
         lines.extend(["## " + feed["topic"], "", "Source: " + feed["source"], ""])
         if feed["items"]:
