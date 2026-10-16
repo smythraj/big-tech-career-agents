@@ -85,6 +85,3 @@ jobs:
           done
           echo "Could not push report after five attempts" >&2
           exit 1
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
