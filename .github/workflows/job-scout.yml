@@ -1,6 +1,11 @@
 name: Big Tech Job Scout
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - "agent-triggers/job-scout.txt"
   workflow_dispatch:
   schedule:
     - cron: "30 2 * * 1"
