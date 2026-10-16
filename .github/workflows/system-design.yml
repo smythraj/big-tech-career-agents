@@ -71,7 +71,7 @@ jobs:
               raise SystemExit(f"Generated report missing: {key}")
           latest["reports"][key] = generated_reports[key]
           latest["last_updated"] = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
-          latest_path.write_text(json.dumps(latest, indent=2, ensure_ascii=False) + "\\n", encoding="utf-8")
+          latest_path.write_text(json.dumps(latest, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
           PY
             git add "$REPORT_FILE" data/latest.json
             if git diff --cached --quiet; then
