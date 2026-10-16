@@ -31,8 +31,6 @@ jobs:
           python-version: "3.12"
       - name: Run agent
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4.1-mini' }}
           CAREER_GIST_TOKEN: ${{ secrets.CAREER_GIST_TOKEN }}
           CAREER_GIST_ID: ${{ vars.CAREER_GIST_ID }}
         run: python agents/run_agent.py --agent daily-coach
