@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T09:38:07+00:00",
+  "last_updated": "2026-10-16T09:38:27+00:00",
   "reports": {
     "daily-coach": {
       "title": "Daily Study Coach",
@@ -13,6 +13,13 @@
       "updated_at": "2026-10-16T09:38:07+00:00",
       "markdown": "# System Design Coach\n\nGenerated: 2026-10-16T09:38:07+00:00 UTC\n\n> Free fallback mode. OPENAI_API_KEY is not configured. This is a generated starter brief, not live job verification or a claim about completed progress.\n\n## Plan\n\nGive one mid/senior system-design interview exercise: clarify requirements, estimate scale, define APIs/data model, architecture, failure modes, observability and trade-offs. End with a 10-minute practice prompt and self-review rubric.\n\n## Record actual progress\n\n- What did you complete?\n- How many focused minutes did you spend?\n- What blocked you or needs a re-solve?\n\n## Next action\n\nChoose one measurable next step and record the result in the dashboard.\n",
       "path": "reports/system-design.md",
+      "mode": "free-fallback"
+    },
+    "job-scout": {
+      "title": "Big Tech Job Scout",
+      "updated_at": "2026-10-16T09:38:27+00:00",
+      "markdown": "# Big Tech Job Scout\n\nGenerated: 2026-10-16T09:38:27+00:00 UTC\n\n> Free fallback mode. OPENAI_API_KEY is not configured. This is a generated starter brief, not live job verification or a claim about completed progress.\n\n## Plan\n\nPrepare a focused India job-search brief for Google first, then Atlassian, Microsoft, Meta, Adobe, Salesforce, Intuit and Walmart Global Tech. Target SWE II/III, Senior SWE, Backend and Full Stack. Without live search access, provide official career links and verification steps; never claim a vacancy is open.\n\n## Record actual progress\n\n- What did you complete?\n- How many focused minutes did you spend?\n- What blocked you or needs a re-solve?\n\n## Next action\n\nChoose one measurable next step and record the result in the dashboard.\n",
+      "path": "reports/job-scout.md",
       "mode": "free-fallback"
     }
   }

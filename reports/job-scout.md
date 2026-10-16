@@ -1,14 +1,19 @@
 # Big Tech Job Scout
 
-Initial search brief; no live vacancy verification has been performed by this report.
+Generated: 2026-10-16T09:38:27+00:00 UTC
 
-- [Google Careers](https://www.google.com/about/careers/applications/)
-- [Atlassian Careers](https://www.atlassian.com/company/careers)
-- [Microsoft Careers](https://careers.microsoft.com/)
-- [Meta Careers](https://www.metacareers.com/)
-- [Adobe Careers](https://careers.adobe.com/)
-- [Salesforce Careers](https://careers.salesforce.com/)
-- [Intuit Careers](https://careers.intuit.com/)
-- [Walmart Careers](https://careers.walmart.com/)
+> Free fallback mode. OPENAI_API_KEY is not configured. This is a generated starter brief, not live job verification or a claim about completed progress.
 
-Filter for India-based Software Engineer, SWE II/III, Senior Software Engineer, Backend and Full Stack roles. Confirm status and requirements on the official job page before applying.
+## Plan
+
+Prepare a focused India job-search brief for Google first, then Atlassian, Microsoft, Meta, Adobe, Salesforce, Intuit and Walmart Global Tech. Target SWE II/III, Senior SWE, Backend and Full Stack. Without live search access, provide official career links and verification steps; never claim a vacancy is open.
+
+## Record actual progress
+
+- What did you complete?
+- How many focused minutes did you spend?
+- What blocked you or needs a re-solve?
+
+## Next action
+
+Choose one measurable next step and record the result in the dashboard.
