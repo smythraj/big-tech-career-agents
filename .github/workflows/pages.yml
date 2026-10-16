@@ -7,6 +7,8 @@ on:
     paths:
       - "index.html"
       - "manifest.webmanifest"
+      - "icon.svg"
+      - "sw.js"
       - "reports/**"
       - "data/**"
       - ".github/workflows/pages.yml"
@@ -32,10 +34,12 @@ jobs:
         uses: actions/checkout@v4
       - name: Configure Pages
         uses: actions/configure-pages@v5
+        with:
+          enablement: true
       - name: Build site
         run: |
           mkdir -p site/reports site/data
-          cp index.html manifest.webmanifest site/
+          cp index.html manifest.webmanifest icon.svg sw.js site/
           cp reports/*.md site/reports/
           cp data/latest.json site/data/latest.json
           touch site/.nojekyll
