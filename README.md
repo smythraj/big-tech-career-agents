@@ -1,34 +1,58 @@
 # Big Tech Career HQ
 
-A mobile-friendly personal dashboard and scheduled GitHub Actions career agents for Google-first preparation, daily career research, job checks, and progress reviews.
+A free, Google-first preparation dashboard hosted on GitHub Pages with scheduled Python agents. The core study curriculum, DSA challenges, system-design exercises, mock scorecards, progress tracking, and career-search checklists work without an OpenAI API key.
 
 ## Dashboard
 
-After enabling GitHub Pages with **Settings → Pages → Build and deployment → Source: GitHub Actions**, the dashboard should publish at:
-
 https://smythraj.github.io/big-tech-career-agents/
 
-## Six-month roadmap\n\nSee [ROADMAP.md](ROADMAP.md) for the 16 October 2026–16 April 2027 plan, monthly milestones, daily study rhythm, weekly scorecard, and readiness gates. This is a target plan, not a guarantee of a job offer.\n\n## Included workflows
+## What is useful without an API key
 
-- Daily Study Coach — daily at 9:00 PM India Standard Time.
-- Weekly Career Review — Sunday at 7:00 PM India Standard Time.
-- Big Tech Job Scout — daily at 8:00 AM India Standard Time.\n- Daily Career Research — daily at 8:30 AM India Standard Time; gathers news-search leads, checks the official Google Careers page, and publishes study resources.
-- System Design Coach — Wednesday at 8:30 PM India Standard Time.
+- **Daily Study Coach:** rotates through a built-in 30-problem Java DSA curriculum, links to the practice problem, and gives a timed 90-minute solve/explain/test/review plan.
+- **System Design Coach:** rotates through practical mid/senior interview scenarios with APIs, data models, architecture prompts, reliability risks, trade-offs, and a 20-point self-review rubric.
+- **Weekly Career Review:** gives three concrete weekly targets and a scorecard for actual study, re-solves, mock practice, and applications.
+- **Big Tech Job Scout:** provides official careers links and an application verification checklist. It never claims a role is open unless individual listings can be extracted and then manually reconfirmed.
+- **Daily Career Research:** collects recent news-search leads and free learning resources. News leads are not verified vacancies.
+- **Mock interview scorecards:** record problem solving, communication, complexity/trade-offs, and testing from 1–5 each. The dashboard shows the average score out of 20.
+- **Preparation execution score:** summarizes recent study consistency, completed DSA practice entries, mock scores, and application-pipeline hygiene. It is a progress indicator only, not a probability of getting hired.
+- **Study log, tasks, job pipeline, JSON backup, and optional private Gist sync:** keep your practice and next actions organized. Data remains in the current browser unless you export it or configure cloud sync.
 
-Schedules use UTC and GitHub may delay scheduled workflows during high load. You can manually run a workflow from the Actions tab.
+## Six-month roadmap
+
+See [ROADMAP.md](ROADMAP.md) for the plan from 16 October 2026 through 16 April 2027, monthly milestones, daily study rhythm, weekly scorecard, and readiness gates. An offer is a goal, not a guarantee.
+
+## Scheduled workflows
+
+- Daily Study Coach — 9:00 PM IST.
+- Big Tech Job Scout — 8:00 AM IST.
+- Daily Career Research — 8:30 AM IST.
+- System Design Coach — Wednesday at 8:30 PM IST.
+- Weekly Career Review — Sunday at 7:00 PM IST.
+
+GitHub may delay scheduled workflows. You can manually start any workflow from [Actions](https://github.com/smythraj/big-tech-career-agents/actions).
 
 ## Optional AI reports
 
-Without a repository secret named OPENAI_API_KEY, agents write clearly labeled fallback briefs. To enable AI-generated reports, open **Settings → Secrets and variables → Actions → New repository secret**, name it OPENAI_API_KEY, and paste your API key there. API use may incur charges. Never put keys in source files or the dashboard.
+The built-in curriculum does not require an API key. If you add a repository secret named `OPENAI_API_KEY`, the four coaching workflows can instead request AI-generated reports. API usage may incur charges. Never place keys in source files or the dashboard. The free curriculum remains available without this secret.
 
-Optional repository variable: `OPENAI_MODEL = gpt-4.1-mini`. AI-personalized coaching requires `OPENAI_API_KEY`; progress-aware scheduled coaching additionally requires `CAREER_GIST_TOKEN` and `CAREER_GIST_ID` configured as described above. The fallback mode is not an AI model and must be treated as a structured starter brief.
+## Optional progress-aware scheduled coaching
+
+The dashboard can sync tasks, study logs, mock scorecards and job pipeline data to a private GitHub Gist. To let scheduled agents read your progress, configure repository secret `CAREER_GIST_TOKEN` using a token with only the `gist` scope and repository variable `CAREER_GIST_ID` with your private Gist ID. Without this optional setup, scheduled agents use the built-in curriculum and do not claim to know your personal progress.
 
 ## Privacy and limitations
 
-The repository is public so the GitHub Pages site can be hosted on GitHub Free. Source files and reports are therefore public. Do not commit personal/private information or secrets. The dashboard stores working data in the current browser and includes optional private GitHub Gist sync. In the dashboard, enter a GitHub Personal Access Token (classic) with only the `gist` scope and select Upload / update cloud backup. The dashboard creates a private Gist and remembers only its ID locally; the token is not saved by the page. On each device, enter the token and use the same Gist ID to sync. Treat the token as a password and revoke it in GitHub settings if exposed. To let scheduled agents read your progress, add repository secret `CAREER_GIST_TOKEN` with that same gist-scoped token and repository variable `CAREER_GIST_ID` with the private Gist ID. Without those settings, scheduled reports must not claim to know your personal progress.
+GitHub Pages is hosted from a public repository, so repository source files and committed reports are public. Never commit personal data, job application notes, tokens, passwords, or API keys. Use the private Gist only for personal progress. A token entered in the dashboard is used for that page session and is not saved by the page; keep it private and revoke it if exposed.
 
-The job scout now attempts a live fetch of the official Google Careers India software-engineering search page, records the check timestamp and extracted official links in `data/google-jobs.json`, and labels extraction failures explicitly. A successful page fetch is not a guarantee that a role remains open; open each official listing and reconfirm availability and eligibility before applying. Other employers' listings are not yet automatically verified.
+A successful HTTP response from Google Careers only confirms that the search page responded. If the checker cannot extract individual listings, no vacancy has been verified. Open each employer's official listing to confirm current status, location, level, minimum qualifications, and eligibility before applying.
 
-## Workflows
+## Regular-use routine
 
-Open https://github.com/smythraj/big-tech-career-agents/actions to manually start any agent. Review the run logs if deployment fails.
+1. Open the dashboard and read the Daily Study Coach challenge.
+2. Attempt one problem in Java under a timer; explain the invariant and complexity.
+3. Test edge cases and record the real outcome and blocker.
+4. Complete one system-design or backend drill according to the weekly plan.
+5. Record a mock scorecard after timed practice.
+6. Review official roles and update each role's next action.
+7. On Sunday, review the weekly report and choose three measurable priorities.
+
+Consistency, deliberate practice, feedback, suitable applications, and interview performance can improve readiness, but no dashboard or routine can guarantee a 90% chance of receiving a Google offer.
