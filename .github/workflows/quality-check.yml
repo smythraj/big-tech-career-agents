@@ -1,0 +1,43 @@
+name: Career HQ Quality Checks
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Compile Python agents
+        run: python -m compileall -q agents
+      - name: Validate dashboard JavaScript syntax
+        run: python -c "from pathlib import Path; import re; h=Path('index.html').read_text(encoding='utf-8'); m=re.search(r'<script>(.*?)</script>', h, re.S); assert m, 'Dashboard script not found'; Path('/tmp/dashboard.js').write_text(m.group(1), encoding='utf-8')" && node --check /tmp/dashboard.js
+      - name: Smoke-test free coaching agents
+        env:
+          OPENAI_API_KEY: ""
+          CAREER_GIST_TOKEN: ""
+          CAREER_GIST_ID: ""
+        run: |
+          python agents/run_agent.py --agent daily-coach
+          python agents/run_agent.py --agent weekly-review
+          python agents/run_agent.py --agent system-design
+          python agents/run_agent.py --agent job-scout
+          python -c "import json; from pathlib import Path; d=json.loads(Path('data/latest.json').read_text()); keys=('daily-coach','weekly-review','system-design','job-scout'); assert all(d['reports'][k]['mode']=='free-curriculum' for k in keys); assert 'Today's Java DSA challenge' in d['reports']['daily-coach']['markdown']; assert 'Self-score' in d['reports']['system-design']['markdown']; print('Free coaching smoke tests passed')"
