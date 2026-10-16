@@ -34,6 +34,8 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4.1-mini' }}
         run: python agents/run_agent.py --agent job-scout
+      - name: Verify live Google Careers results
+        run: python agents/google_job_scout.py
       - name: Commit generated report safely
         env:
           AGENT_KEY: job-scout
@@ -73,7 +75,7 @@ jobs:
           latest["last_updated"] = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
           latest_path.write_text(json.dumps(latest, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
           PY
-            git add "$REPORT_FILE" data/latest.json
+            git add "$REPORT_FILE" data/latest.json data/google-jobs.json
             if git diff --cached --quiet; then
               exit 0
             fi
