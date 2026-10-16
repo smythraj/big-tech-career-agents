@@ -1,0 +1,51 @@
+{
+  "checked_at": "2026-10-16",
+  "verification_note": "These opportunities were found in official employer career search results during research on 2026-10-16. Search indexing and vacancy status can lag; open each official listing and confirm it still accepts applications before applying. This is not a guarantee of availability.",
+  "opportunities": [
+    {
+      "company": "Google",
+      "title": "Senior Software Engineer, Full Stack",
+      "location": "Hyderabad, Telangana, India",
+      "level": "Mid",
+      "fit": "Strong first review: official listing states 5 years software development, 3 years testing/maintaining/launching products, and 1 year software design/architecture. Confirm all requirements and role status.",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/137126335204991686-senior-software-engineer-full-stack?location=India&q=&sort_by=date&src=Online%2FJob+Board%2Findeed",
+      "checked_via": "Official Google Careers listing"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer III, Full Stack, Cloud",
+      "location": "Hyderabad, Telangana, India",
+      "level": "Mid",
+      "fit": "Potential match for Java + Angular/React experience: listing calls for Java software development and client-side JavaScript framework experience. Confirm role status and full requirements.",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/131572375555580614-software-engineer-iii-full-stack-cloud?hl=en&location=India&page=1&q=Software+Engineer+III",
+      "checked_via": "Official Google Careers listing"
+    },
+    {
+      "company": "Atlassian",
+      "title": "Backend Software Engineer, II",
+      "location": "Bengaluru, India; remote across India described in listing",
+      "level": "Experienced individual contributor",
+      "fit": "Potential fit: official listing describes 4+ years backend experience, scalable REST microservices, OOP, databases, and cloud architecture. Confirm current remote eligibility and status.",
+      "url": "https://www.atlassian.com/company/careers/details/25540",
+      "checked_via": "Official Atlassian job details"
+    },
+    {
+      "company": "Atlassian",
+      "title": "Senior Full Stack Software Engineer",
+      "location": "Bengaluru, India; remote across India described in listing",
+      "level": "Senior",
+      "fit": "Stretch option: listing asks for 7+ years, JavaScript/React, backend development, REST/GraphQL and testing. Apply only if experience requirements match.",
+      "url": "https://www.atlassian.com/company/careers/details/25700",
+      "checked_via": "Official Atlassian job details"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Software Engineer II / Software Engineering roles",
+      "location": "India; filter Noida, Hyderabad, Bengaluru",
+      "level": "Varies by role",
+      "fit": "Search the official India roles page. Inspect each role's coding language, level, worksite, and required years; some listed engineering roles require C/C++ or onsite/hybrid attendance.",
+      "url": "https://careers.microsoft.com/v2/global/en/locations/india.html",
+      "checked_via": "Official Microsoft India careers page"
+    }
+  ]
+}
