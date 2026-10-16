@@ -38,13 +38,11 @@ See [ROADMAP.md](ROADMAP.md) for the plan from 16 October 2026 through 16 April 
 
 GitHub may delay scheduled workflows. You can manually start any workflow from [Actions](https://github.com/smythraj/big-tech-career-agents/actions).
 
-## Optional AI reports
+## Free operation
 
-The built-in curriculum does not require an API key. If you add a repository secret named `OPENAI_API_KEY`, the four coaching workflows can instead request AI-generated reports. API usage may incur charges. Never place keys in source files or the dashboard. The free curriculum remains available without this secret.
+All scheduled agents run in built-in free-curriculum mode. They do not receive or require an OpenAI API key, GitHub token, Gist ID, or any other external credential. GitHub Actions runs the Python scripts on its hosted runners and publishes the generated reports to this site. Dashboard study logs, task status, mock scores, and job pipeline entries remain in your browser unless you explicitly export or sync them.
 
-## Optional progress-aware scheduled coaching
-
-The dashboard can sync tasks, study logs, mock scorecards and job pipeline data to a private GitHub Gist. To let scheduled agents read your progress, configure repository secret `CAREER_GIST_TOKEN` using a token with only the `gist` scope and repository variable `CAREER_GIST_ID` with your private Gist ID. Without this optional setup, scheduled agents use the built-in curriculum and do not claim to know your personal progress.
+Private Gist sync is optional for dashboard backup only; it is not required for the agents or daily reports.
 
 ## Privacy and limitations
 
