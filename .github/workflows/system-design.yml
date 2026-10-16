@@ -1,6 +1,11 @@
 name: System Design Coach
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - "agent-triggers/system-design.txt"
   workflow_dispatch:
   schedule:
     - cron: "0 15 * * 3"
