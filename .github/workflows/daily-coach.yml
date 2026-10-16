@@ -1,6 +1,11 @@
 name: Daily Study Coach
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - "agent-triggers/daily-coach.txt"
   workflow_dispatch:
   schedule:
     - cron: "30 15 * * *"
