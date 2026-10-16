@@ -19,6 +19,7 @@ on:
       - Weekly Career Review
       - Big Tech Job Scout
       - System Design Coach
+      - Daily Career Research
     types:
       - completed
     branches:
