@@ -1,6 +1,6 @@
 # Big Tech Career HQ
 
-A mobile-friendly personal dashboard and four GitHub Actions career-coaching workflows.
+A mobile-friendly personal dashboard and scheduled GitHub Actions career agents for Google-first preparation, daily career research, job checks, and progress reviews.
 
 ## Dashboard
 
@@ -8,11 +8,11 @@ After enabling GitHub Pages with **Settings → Pages → Build and deployment �
 
 https://smythraj.github.io/big-tech-career-agents/
 
-## Included workflows
+## Six-month roadmap\n\nSee [ROADMAP.md](ROADMAP.md) for the 16 October 2026–16 April 2027 plan, monthly milestones, daily study rhythm, weekly scorecard, and readiness gates. This is a target plan, not a guarantee of a job offer.\n\n## Included workflows
 
 - Daily Study Coach — daily at 9:00 PM India Standard Time.
 - Weekly Career Review — Sunday at 7:00 PM India Standard Time.
-- Big Tech Job Scout — Monday at 8:00 AM India Standard Time.
+- Big Tech Job Scout — daily at 8:00 AM India Standard Time.\n- Daily Career Research — daily at 8:30 AM India Standard Time; gathers news-search leads, checks the official Google Careers page, and publishes study resources.
 - System Design Coach — Wednesday at 8:30 PM India Standard Time.
 
 Schedules use UTC and GitHub may delay scheduled workflows during high load. You can manually run a workflow from the Actions tab.
