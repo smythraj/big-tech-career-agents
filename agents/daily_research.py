@@ -36,7 +36,7 @@ def fetch(url, timeout=18):
         return response.status, response.read().decode("utf-8", errors="replace")
 
 def clean(value):
-    return re.sub(r"\\s+", " ", unescape(re.sub(r"<[^>]+>", " ", value or ""))).strip()
+    return re.sub(r"\s+", " ", unescape(re.sub(r"<[^>]+>", " ", value or ""))).strip()
 
 def read_feed(label, url):
     entry = {"topic": label, "source": url, "status": "unavailable", "items": [], "error": ""}
