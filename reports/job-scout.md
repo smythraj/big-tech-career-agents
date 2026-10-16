@@ -1,6 +1,6 @@
 # Big Tech Job Scout
 
-Generated: 2026-10-16T09:53:50+00:00 UTC
+Generated: 2026-10-16T10:00:33+00:00 UTC
 
 > Free fallback mode. OPENAI_API_KEY is not configured.
 
@@ -18,7 +18,7 @@ Record the result of the next measurable task in Career HQ.
 
 ## Live Google Careers check
 
-Checked at: 2026-10-16T09:53:50+00:00 UTC
+Checked at: 2026-10-16T10:00:34+00:00 UTC
 
 Official source: https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer&location=India
 
