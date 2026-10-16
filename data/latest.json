@@ -1,1 +1,12 @@
-{"last_updated":null,"reports":{}}
+{
+  "last_updated": "2026-10-16T09:37:47+00:00",
+  "reports": {
+    "daily-coach": {
+      "title": "Daily Study Coach",
+      "updated_at": "2026-10-16T09:37:47+00:00",
+      "markdown": "# Daily Study Coach\n\nGenerated: 2026-10-16T09:37:47+00:00 UTC\n\n> Free fallback mode. OPENAI_API_KEY is not configured. This is a generated starter brief, not live job verification or a claim about completed progress.\n\n## Plan\n\nBuild a practical 60–90 minute Google-first plan: one Java DSA problem, complexity explanation, review of one weak concept, and a short reflection. Do not claim the user completed work unless they reported it.\n\n## Record actual progress\n\n- What did you complete?\n- How many focused minutes did you spend?\n- What blocked you or needs a re-solve?\n\n## Next action\n\nChoose one measurable next step and record the result in the dashboard.\n",
+      "path": "reports/daily-coach.md",
+      "mode": "free-fallback"
+    }
+  }
+}
