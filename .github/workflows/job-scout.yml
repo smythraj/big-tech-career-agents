@@ -53,10 +53,14 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           cp "$REPORT_FILE" /tmp/agent-report.md
           cp data/latest.json /tmp/generated-latest.json
+          cp data/google-jobs.json /tmp/generated-google-jobs.json
+          cp data/current-opportunities.json /tmp/generated-current-opportunities.json
           for attempt in 1 2 3 4 5; do
             git fetch origin main
             git reset --hard origin/main
             cp /tmp/agent-report.md "$REPORT_FILE"
+            cp /tmp/generated-google-jobs.json data/google-jobs.json
+            cp /tmp/generated-current-opportunities.json data/current-opportunities.json
             python - <<'PY'
           import json, os
           from datetime import datetime, timezone
