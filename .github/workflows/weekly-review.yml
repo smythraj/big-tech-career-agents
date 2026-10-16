@@ -1,6 +1,11 @@
 name: Weekly Career Review
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - "agent-triggers/weekly-review.txt"
   workflow_dispatch:
   schedule:
     - cron: "30 13 * * 0"
