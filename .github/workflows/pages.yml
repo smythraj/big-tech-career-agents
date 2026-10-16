@@ -13,6 +13,16 @@ on:
       - "data/**"
       - ".github/workflows/pages.yml"
   workflow_dispatch:
+  workflow_run:
+    workflows:
+      - Daily Study Coach
+      - Weekly Career Review
+      - Big Tech Job Scout
+      - System Design Coach
+    types:
+      - completed
+    branches:
+      - main
 
 permissions:
   contents: read
@@ -25,6 +35,7 @@ concurrency:
 
 jobs:
   deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
