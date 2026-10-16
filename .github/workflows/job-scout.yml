@@ -34,8 +34,6 @@ jobs:
           python-version: "3.12"
       - name: Run agent
         env:
-          CAREER_GIST_TOKEN: ${{ secrets.CAREER_GIST_TOKEN }}
-          CAREER_GIST_ID: ${{ vars.CAREER_GIST_ID }}
         run: python agents/run_agent.py --agent job-scout
       - name: Verify live Google Careers results
         run: python agents/google_job_scout.py
