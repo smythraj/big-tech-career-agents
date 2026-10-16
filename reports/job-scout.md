@@ -1,24 +1,39 @@
 # Big Tech Job Scout
 
-Generated: 2026-10-16T10:00:33+00:00 UTC
+Generated: 2026-10-16T10:05:59+00:00 UTC
 
-> Free fallback mode. OPENAI_API_KEY is not configured.
+> Free deterministic coaching mode. No OpenAI API key is needed. Tasks and examples are prepared from a built-in curriculum; progress is only personalized when private Gist sync is configured.
 
-## Plan
+## Official careers search links
 
-Prepare a focused India job-search brief for Google first, then Atlassian, Microsoft, Meta, Adobe, Salesforce, Intuit and Walmart Global Tech. Target SWE II/III, Senior SWE, Backend and Full Stack. Without live search access, provide official career links and verification steps; never claim a vacancy is open.
+- [Google](https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer&location=India)
+- [Microsoft](https://jobs.careers.microsoft.com/global/en/search?q=software%20engineer&lc=India)
+- [Atlassian](https://www.atlassian.com/company/careers/all-jobs)
+- [Meta](https://www.metacareers.com/jobs/)
+- [Adobe](https://careers.adobe.com/us/en/search-results)
+- [Salesforce](https://careers.salesforce.com/en/jobs/)
+- [Intuit](https://careers.intuit.com/)
+- [Walmart Global Tech](https://careers.walmart.com/technology)
 
-## Progress data available to this run
+## 20-minute application workflow
 
-No synced personal progress was available. Do not imply personalization to unprovided history.
+1. Open Google first and search India roles in SWE, backend, full-stack and infrastructure.
+2. Open each listing and confirm it is active, location-compatible, level-appropriate and meets minimum qualifications.
+3. Save the exact job URL and ID, date checked, location, level, key requirements and application deadline if shown.
+4. Match each requirement to a truthful resume bullet with scope, ownership, technical decision and measurable impact.
+5. Apply only when the fit is reasonable; record the next follow-up date. Do not claim a vacancy is open based only on a search page response.
 
-## Next action
+## Progress snapshot
 
-Record the result of the next measurable task in Career HQ.
+No private cloud progress was available to this run. Configure private Gist sync if you want scheduled reports to use your actual dashboard records. The plan above remains fully usable without it.
+
+## Important verification note
+
+The scheduled checker can confirm that Google's search page responded, but if it cannot extract individual listing links, it has not verified a vacancy. Use the official pages above and manually reconfirm before applying.
 
 ## Live Google Careers check
 
-Checked at: 2026-10-16T10:00:34+00:00 UTC
+Checked at: 2026-10-16T10:05:59+00:00 UTC
 
 Official source: https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer&location=India
 
