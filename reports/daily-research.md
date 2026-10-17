@@ -1,6 +1,6 @@
 # Daily Career Research
 
-Updated: 2026-10-16T10:06:41+00:00 UTC
+Updated: 2026-10-17T07:15:11+00:00 UTC
 
 > Daily research leads from items published in the last 21 days, not guaranteed vacancies. Verify roles and claims on the linked source before acting.
 
@@ -40,19 +40,21 @@ Source: https://news.google.com/rss/search?q=software%20engineering%20interview%
 
 - [Nvidia Interview Questions and Answers for 2027 - Simplilearn.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE1uN19iMllKZ2JhZFZ5aXBtbW84elR3V3F4Uy1YakJ4MUdGbE0yU0FXWWVVSkhvLVVkX3MzRzBCVnB3aTRPa2tna0RndUtvOTh0QUZZdXZsSFB5NHd6SWw0d1JwUVBfaFNfRDlrRnlMSQ?oc=5) — Mon, 12 Oct 2026 07:00:00 GMT
   Nvidia Interview Questions and Answers for 2027 Simplilearn.com
+- [Top 55+ C# Interview Questions and Answers 2027 - Simplilearn.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxOczJVVTdISjBPWGpSWDRIOUxUMmQ2X2JPMEIxSEc4UjVmaFdWOXNkazVPc1FheFZNa3hwM25aazJZOTdJemdLbldaM1o2WERvanFFRm9sclJBb0ZMSVVFYVkwMmRSWmNYbmo3Si1QN1AtbWJQMUZNcm5CRlBwQ0xuUmlRaUFwckcyX3c?oc=5) — Wed, 14 Oct 2026 07:00:00 GMT
+  Top 55+ C# Interview Questions and Answers 2027 Simplilearn.com
 
 ## India software engineering openings
 
 Source: https://news.google.com/rss/search?q=software%20engineer%20backend%20full%20stack%20jobs%20India&hl=en-IN&gl=IN&ceid=IN:en
 
-- [What is a Software Engineering job? - Nexford University](https://news.google.com/rss/articles/CBMifkFVX3lxTE1nTmh1ZjZvbUttOW53T2swcFdCT2NjYVU0bUhwMU55bDA3bDlvdWpmTS02T2VGa1FJbXowX2JoOERTeENtbk80aXlqQkFUd1lfQXluSFNMRkRsQ1NUdFpnbVhJQmoxX0piUHhoMnlPb2MzZmU2aGgtQTlUbU9Jd9IBjgFBVV95cUxNeVplWmJCdTJPZnFYSkZYdjJxZHNGcDlCa0NSTnZkLW9RY2k4OFlwOVlCV192NExESzcwdWFHZWJzR0s3bVEtRzhrVUVNd2lTRE1JS00xZDFRMmhsVU9NTHFqaGduRUM2RXpxdUxwOTVSNmdsaUZHNnFoV3FpaTQ0eXhUTFRVT1dzMU1tQnd3?oc=5) — Tue, 06 Oct 2026 07:00:00 GMT
-  What is a Software Engineering job? Nexford University
+- [Swiggy opens SDE-1 roles for freshers in Bangalore - TechGig](https://news.google.com/rss/articles/CBMinwFBVV95cUxOWk9hX3ZVeHF0aXhjZk0zaTEtSk1XMThER00zVzBHM0U5dWk3U2pJajhsZ3VYdlgxbDFySFdkaXV2alhOY2hfcDd5TWwycWp1TEc1bzU2cGxEcXdyell0aTVTYmVtcVZ2TkJpZGtaUnM5d1JjRXNfc0dGWEUzRTBfSTRSV3JIOWQ4LVFHYnI3Y1JDeFgwcnhWTERSVjVzZzjSAaQBQVVfeXFMTzA0TFNBb2pPMndmTG1EZk1tMnNIRDNpZW9iUTBZRGhPVFRJM21UaG9mRDlEV25Ia1JQSURKZnYxWFRrdWJrSU91SDF0dG14My1HVWVrdkJpMHBTNFNwNGFCNFFmeW5wVFQ1WVdLT25iNURpUjFFeFM5WDRMZ09kcW1Cd0xwdHpUNnhQNkZ4bFVlcGlqNXUtVkJCdTR0Ul93MlNPaUw?oc=5) — Mon, 28 Sep 2026 07:00:00 GMT
+  Swiggy opens SDE-1 roles for freshers in Bangalore TechGig
 - [Best laptop for programming 2026: Top picks for coders - TechRadar](https://news.google.com/rss/articles/CBMiakFVX3lxTFAzSFRjUFNxRFJpdVZPWUNVR3FJUWN6MVp2NklTTmJIVUhLN3lLVVJUMW9SREpGcXZlQ2RiMFZBTEp4SFlZcXFTV0p0dEQwTUI5dTEwX1VTcGhrYTNUMW9aZ0pfZV9fYzk1VlE?oc=5) — Mon, 28 Sep 2026 07:00:00 GMT
   Best laptop for programming 2026: Top picks for coders TechRadar
-- [Emmes Associate Software Engineer 2026 in Bengaluru, India (Full-Time Graduate Opportunity) - Global South Opportunities](https://news.google.com/rss/articles/CBMiakFVX3lxTFBEN1Q5M2d6dmQ5a1dxblJtU3FveEJDOEFHb2YtT0padFBkRVhGWW5RZ1Rra2VQSG1nOUJ5TkxvN1RfdTM3LTZaU09tYWZaWVFoTldBb3gySEdQVHV0dURxUnpMeW5ONXZudXc?oc=5) — Mon, 28 Sep 2026 05:47:23 GMT
+- [What is a Software Engineering job? - Nexford University](https://news.google.com/rss/articles/CBMifkFVX3lxTE1nTmh1ZjZvbUttOW53T2swcFdCT2NjYVU0bUhwMU55bDA3bDlvdWpmTS02T2VGa1FJbXowX2JoOERTeENtbk80aXlqQkFUd1lfQXluSFNMRkRsQ1NUdFpnbVhJQmoxX0piUHhoMnlPb2MzZmU2aGgtQTlUbU9Jd9IBjgFBVV95cUxNeVplWmJCdTJPZnFYSkZYdjJxZHNGcDlCa0NSTnZkLW9RY2k4OFlwOVlCV192NExESzcwdWFHZWJzR0s3bVEtRzhrVUVNd2lTRE1JS00xZDFRMmhsVU9NTHFqaGduRUM2RXpxdUxwOTVSNmdsaUZHNnFoV3FpaTQ0eXhUTFRVT1dzMU1tQnd3?oc=5) — Tue, 06 Oct 2026 07:00:00 GMT
+  What is a Software Engineering job? Nexford University
+- [Emmes Associate Software Engineer 2026 in Bengaluru, India (Full-Time Graduate Opportunity) - Global South Opportunities](https://news.google.com/rss/articles/CBMiakFVX3lxTFBEN1Q5M2d6dmQ5a1dxblJtU3FveEJDOEFHb2YtT0padFBkRVhGWW5RZ1Rra2VQSG1nOUJ5TkxvN1RfdTM3LTZaU09tYWZaWVFoTldBb3gySEdQVHV0dURxUnpMeW5ONXZudXc?oc=5) — Mon, 28 Sep 2026 07:00:00 GMT
   Emmes Associate Software Engineer 2026 in Bengaluru, India (Full-Time Graduate Opportunity) Global South Opportunities
-- [Jobs in Singapore: “How I went from building apps in the classroom to software development at a global IT firm” - Singapore Economic Development Board (EDB)](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeUl4WE0xWjFVcmF2cGxzaDlybDhXVVJKTGU0MGVrdjJTNHo5QkVJbDVlNnZFSldFNGN2X0loMURyUTNxMVlva3FnczNsOVhnNnlDeVRhLWZNWWNuWnlUSl9UYWhKZXRpRWx6N0JmazVOWlp1NXo4WGV0QWZXZ3lHTjZDai1kZVpZdXRqM2oxQWU0TjY4RWd6X3pLRTlJcmZlSkxfOU1oTzBXVU9zU25NQVE4N3VuTHRObzJWU01ubHBGWVkwa3NlZms4STBnNWROR2FIQlBoeGoxaXFvMEtBbFlNX2V1MkU?oc=5) — Thu, 01 Oct 2026 07:00:00 GMT
-  Jobs in Singapore: “How I went from building apps in the classroom to software development at a global IT firm” Singapore Economic Development Board (EDB)
 - [5 Leading Full-Stack Development Companies Worldwide in 2026 - Techloy](https://news.google.com/rss/articles/CBMijgFBVV95cUxQTTZzd1hvRjNrUnNiU1FxZ283VzhtZ3FaN2NEaFJ5SFZGVi1iQkRNX3BuX3BmYUgtNUxQbzBOSnoyTFh5MEpHYjZ1M2hQZEFTQWdFQmFMa2FWMERURlp0VXI3c1Fpd1VzVEZ0MFZuZG5kRXpCVWJrTG50TG41bWU4dHUyaXAwdl93RlRBN3Zn?oc=5) — Wed, 07 Oct 2026 07:30:54 GMT
   5 Leading Full-Stack Development Companies Worldwide in 2026 Techloy
 
