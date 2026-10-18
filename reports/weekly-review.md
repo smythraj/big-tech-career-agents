@@ -1,19 +1,25 @@
 # Weekly Career Review
 
-Generated: 2026-10-16T09:47:22+00:00 UTC
+Generated: 2026-10-18T16:46:02+00:00 UTC
 
-> Free fallback mode. OPENAI_API_KEY is not configured. This is a generated starter brief, not live job verification or a claim about completed progress.
+> Free deterministic coaching mode. No OpenAI API key is needed. Tasks and examples are prepared from a built-in curriculum; progress is only personalized when private Gist sync is configured.
 
-## Plan
+## Evidence-based weekly review
 
-Review DSA solved and re-solved, weak topics, Java/backend, system design, mock interviews, behavioral stories, applications and referrals. Do not invent progress. End with three measurable priorities for next week.
+No private cloud progress was available to this run. Configure private Gist sync if you want scheduled reports to use your actual dashboard records. The plan above remains fully usable without it.
 
-## Record actual progress
+## Three priorities for the next seven days
 
-- What did you complete?
-- How many focused minutes did you spend?
-- What blocked you or needs a re-solve?
+1. **DSA:** complete 4 focused problems and re-solve 2 older misses without hints.
+2. **Interview communication:** complete one 45-minute mock; explain approach, complexity and edge cases aloud.
+3. **Career pipeline:** verify 3 suitable official listings, tailor one resume version, and make 2 thoughtful referral requests if relevant.
 
-## Next action
+## Sunday scorecard
 
-Choose one measurable next step and record the result in the dashboard.
+- Study sessions and minutes recorded.
+- Problems solved independently vs with hints; re-solves passed.
+- Top two recurring mistakes and the corrective drill.
+- One mock score and communication improvement.
+- Official roles verified, applications/referrals, and dated next actions.
+
+Use recorded data, not memory or assumed progress. If no sessions are logged, first log the real baseline rather than claiming a missed week.
