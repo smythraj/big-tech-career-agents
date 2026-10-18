@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-17T07:15:11+00:00",
+  "checked_at": "2026-10-18T07:29:17+00:00",
   "timezone": "UTC",
   "google_careers_url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer&location=India",
   "feeds": [
@@ -25,6 +25,12 @@
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZR2dmbGI3eUhWN1JuMDJqU09MMV9MLVdaRERVS2N5dVZVR0VGNDRxLWVNcVlHdm1tS2JnUHJpZkk5VDFFMjU1bkpDUFBuRDcweldqZkRkWFZFeE5kYzdlSHAwMFhpRW1KYnFwMmJfZExUQQ?oc=5",
           "published": "Wed, 07 Oct 2026 07:00:00 GMT",
           "summary": "Highest Paying Jobs in India: Roles, Salaries, and How to Become Simplilearn.com"
+        },
+        {
+          "title": "IIIT Jabalpur Graduate's Google Journey: 2 Internships, One Big Career Leap - NDTV",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZWFyOER4VE5KdnZ6ZTVQbXdfdndwNGVvSm9SOF84ZU5FV3VpdTBINlRqbHNaaTc3TnpGYW96QTN5aVo5dFRfVW45SEVJM0RZejctWlF5NEtSbDlTMEppakNaOUswU0pBcmo5NXdfUFVvaE5uT3Yxa0FydzJrLVB3QnpJUDJINTh5N0ZreW9JSXcwYlZJSGYtb2pqM2FaSjBwMUt4UWRaQWFsU19tdVdpMUctZzlLUG94emJpVkFn0gHGAUFVX3lxTE51LWJuT0RnZHJqYXVGcy1HVXh2RTk1QXNWT2MzV3R6NGp5RmExVG00QXNmeGZ2NkZiTnI4MlFrS3k1b2VSTTJidFZiaUVxbjV5SVR6NWlWWDE3LWhyUGE5XzA1X0ZYZFR6WWdDd25SWS1wSkRob1hWMnFlenBsLV82YjhzOExhS0E2VDVTQXhqeGdxSHVtbk5BYno0SFpvdW1KaEhZcWhMSnRPMElNVE1rMlFPa0ZhZ2Y2LUF2N1lUajU3MnYxdw?oc=5",
+          "published": "Sat, 10 Oct 2026 12:24:14 GMT",
+          "summary": "IIIT Jabalpur Graduate's Google Journey: 2 Internships, One Big Career Leap NDTV"
         },
         {
           "title": "What happens when a Google data centre comes to town? Southern India is finding out - CBC",
@@ -96,16 +102,16 @@
           "summary": "Swiggy opens SDE-1 roles for freshers in Bangalore TechGig"
         },
         {
-          "title": "Best laptop for programming 2026: Top picks for coders - TechRadar",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzSFRjUFNxRFJpdVZPWUNVR3FJUWN6MVp2NklTTmJIVUhLN3lLVVJUMW9SREpGcXZlQ2RiMFZBTEp4SFlZcXFTV0p0dEQwTUI5dTEwX1VTcGhrYTNUMW9aZ0pfZV9fYzk1VlE?oc=5",
-          "published": "Mon, 28 Sep 2026 07:00:00 GMT",
-          "summary": "Best laptop for programming 2026: Top picks for coders TechRadar"
-        },
-        {
           "title": "What is a Software Engineering job? - Nexford University",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nTmh1ZjZvbUttOW53T2swcFdCT2NjYVU0bUhwMU55bDA3bDlvdWpmTS02T2VGa1FJbXowX2JoOERTeENtbk80aXlqQkFUd1lfQXluSFNMRkRsQ1NUdFpnbVhJQmoxX0piUHhoMnlPb2MzZmU2aGgtQTlUbU9Jd9IBjgFBVV95cUxNeVplWmJCdTJPZnFYSkZYdjJxZHNGcDlCa0NSTnZkLW9RY2k4OFlwOVlCV192NExESzcwdWFHZWJzR0s3bVEtRzhrVUVNd2lTRE1JS00xZDFRMmhsVU9NTHFqaGduRUM2RXpxdUxwOTVSNmdsaUZHNnFoV3FpaTQ0eXhUTFRVT1dzMU1tQnd3?oc=5",
           "published": "Tue, 06 Oct 2026 07:00:00 GMT",
           "summary": "What is a Software Engineering job? Nexford University"
+        },
+        {
+          "title": "Best laptop for programming 2026: Top picks for coders - TechRadar",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzSFRjUFNxRFJpdVZPWUNVR3FJUWN6MVp2NklTTmJIVUhLN3lLVVJUMW9SREpGcXZlQ2RiMFZBTEp4SFlZcXFTV0p0dEQwTUI5dTEwX1VTcGhrYTNUMW9aZ0pfZV9fYzk1VlE?oc=5",
+          "published": "Mon, 28 Sep 2026 07:00:00 GMT",
+          "summary": "Best laptop for programming 2026: Top picks for coders TechRadar"
         },
         {
           "title": "Emmes Associate Software Engineer 2026 in Bengaluru, India (Full-Time Graduate Opportunity) - Global South Opportunities",
@@ -157,5 +163,5 @@
     "page_title_detected": "careers",
     "message": "Official search page responded. This does not confirm that any specific role is open."
   },
-  "news_item_count": 14
+  "news_item_count": 15
 }
