@@ -1,6 +1,6 @@
 # Daily Career Research
 
-Updated: 2026-10-18T07:29:17+00:00 UTC
+Updated: 2026-10-19T08:10:56+00:00 UTC
 
 > Daily research leads from items published in the last 21 days, not guaranteed vacancies. Verify roles and claims on the linked source before acting.
 
@@ -20,10 +20,6 @@ Source: https://news.google.com/rss/search?q=Google%20software%20engineer%20jobs
   How he turned his interest in cybersecurity into a security engineering job at Google India Today
 - [Highest Paying Jobs in India: Roles, Salaries, and How to Become - Simplilearn.com](https://news.google.com/rss/articles/CBMickFVX3lxTE9ZR2dmbGI3eUhWN1JuMDJqU09MMV9MLVdaRERVS2N5dVZVR0VGNDRxLWVNcVlHdm1tS2JnUHJpZkk5VDFFMjU1bkpDUFBuRDcweldqZkRkWFZFeE5kYzdlSHAwMFhpRW1KYnFwMmJfZExUQQ?oc=5) — Wed, 07 Oct 2026 07:00:00 GMT
   Highest Paying Jobs in India: Roles, Salaries, and How to Become Simplilearn.com
-- [IIIT Jabalpur Graduate's Google Journey: 2 Internships, One Big Career Leap - NDTV](https://news.google.com/rss/articles/CBMivgFBVV95cUxNZWFyOER4VE5KdnZ6ZTVQbXdfdndwNGVvSm9SOF84ZU5FV3VpdTBINlRqbHNaaTc3TnpGYW96QTN5aVo5dFRfVW45SEVJM0RZejctWlF5NEtSbDlTMEppakNaOUswU0pBcmo5NXdfUFVvaE5uT3Yxa0FydzJrLVB3QnpJUDJINTh5N0ZreW9JSXcwYlZJSGYtb2pqM2FaSjBwMUt4UWRaQWFsU19tdVdpMUctZzlLUG94emJpVkFn0gHGAUFVX3lxTE51LWJuT0RnZHJqYXVGcy1HVXh2RTk1QXNWT2MzV3R6NGp5RmExVG00QXNmeGZ2NkZiTnI4MlFrS3k1b2VSTTJidFZiaUVxbjV5SVR6NWlWWDE3LWhyUGE5XzA1X0ZYZFR6WWdDd25SWS1wSkRob1hWMnFlenBsLV82YjhzOExhS0E2VDVTQXhqeGdxSHVtbk5BYno0SFpvdW1KaEhZcWhMSnRPMElNVE1rMlFPa0ZhZ2Y2LUF2N1lUajU3MnYxdw?oc=5) — Sat, 10 Oct 2026 12:24:14 GMT
-  IIIT Jabalpur Graduate's Google Journey: 2 Internships, One Big Career Leap NDTV
-- [What happens when a Google data centre comes to town? Southern India is finding out - CBC](https://news.google.com/rss/articles/CBMidkFVX3lxTFBEaThjOGlkVkVsWnM2Y1FDcWplUjlremxYMUxnM2l2dWotLU5XOXZ6SERRLVNEM2FEc081NVpXdU5xcnV0b0JWeHdLZHN4elhIcWdyUEg2amR2NFNqSjdicFJ6aDdTSXRCeE1kZEtSREVNMzkzdXc?oc=5) — Sun, 11 Oct 2026 08:00:00 GMT
-  What happens when a Google data centre comes to town? Southern India is finding out CBC
 
 ## Google engineering and hiring updates
 
@@ -49,16 +45,12 @@ Source: https://news.google.com/rss/search?q=software%20engineering%20interview%
 
 Source: https://news.google.com/rss/search?q=software%20engineer%20backend%20full%20stack%20jobs%20India&hl=en-IN&gl=IN&ceid=IN:en
 
-- [Swiggy opens SDE-1 roles for freshers in Bangalore - TechGig](https://news.google.com/rss/articles/CBMinwFBVV95cUxOWk9hX3ZVeHF0aXhjZk0zaTEtSk1XMThER00zVzBHM0U5dWk3U2pJajhsZ3VYdlgxbDFySFdkaXV2alhOY2hfcDd5TWwycWp1TEc1bzU2cGxEcXdyell0aTVTYmVtcVZ2TkJpZGtaUnM5d1JjRXNfc0dGWEUzRTBfSTRSV3JIOWQ4LVFHYnI3Y1JDeFgwcnhWTERSVjVzZzjSAaQBQVVfeXFMTzA0TFNBb2pPMndmTG1EZk1tMnNIRDNpZW9iUTBZRGhPVFRJM21UaG9mRDlEV25Ia1JQSURKZnYxWFRrdWJrSU91SDF0dG14My1HVWVrdkJpMHBTNFNwNGFCNFFmeW5wVFQ1WVdLT25iNURpUjFFeFM5WDRMZ09kcW1Cd0xwdHpUNnhQNkZ4bFVlcGlqNXUtVkJCdTR0Ul93MlNPaUw?oc=5) — Mon, 28 Sep 2026 07:00:00 GMT
-  Swiggy opens SDE-1 roles for freshers in Bangalore TechGig
 - [What is a Software Engineering job? - Nexford University](https://news.google.com/rss/articles/CBMifkFVX3lxTE1nTmh1ZjZvbUttOW53T2swcFdCT2NjYVU0bUhwMU55bDA3bDlvdWpmTS02T2VGa1FJbXowX2JoOERTeENtbk80aXlqQkFUd1lfQXluSFNMRkRsQ1NUdFpnbVhJQmoxX0piUHhoMnlPb2MzZmU2aGgtQTlUbU9Jd9IBjgFBVV95cUxNeVplWmJCdTJPZnFYSkZYdjJxZHNGcDlCa0NSTnZkLW9RY2k4OFlwOVlCV192NExESzcwdWFHZWJzR0s3bVEtRzhrVUVNd2lTRE1JS00xZDFRMmhsVU9NTHFqaGduRUM2RXpxdUxwOTVSNmdsaUZHNnFoV3FpaTQ0eXhUTFRVT1dzMU1tQnd3?oc=5) — Tue, 06 Oct 2026 07:00:00 GMT
   What is a Software Engineering job? Nexford University
-- [Best laptop for programming 2026: Top picks for coders - TechRadar](https://news.google.com/rss/articles/CBMiakFVX3lxTFAzSFRjUFNxRFJpdVZPWUNVR3FJUWN6MVp2NklTTmJIVUhLN3lLVVJUMW9SREpGcXZlQ2RiMFZBTEp4SFlZcXFTV0p0dEQwTUI5dTEwX1VTcGhrYTNUMW9aZ0pfZV9fYzk1VlE?oc=5) — Mon, 28 Sep 2026 07:00:00 GMT
-  Best laptop for programming 2026: Top picks for coders TechRadar
-- [Emmes Associate Software Engineer 2026 in Bengaluru, India (Full-Time Graduate Opportunity) - Global South Opportunities](https://news.google.com/rss/articles/CBMiakFVX3lxTFBEN1Q5M2d6dmQ5a1dxblJtU3FveEJDOEFHb2YtT0padFBkRVhGWW5RZ1Rra2VQSG1nOUJ5TkxvN1RfdTM3LTZaU09tYWZaWVFoTldBb3gySEdQVHV0dURxUnpMeW5ONXZudXc?oc=5) — Mon, 28 Sep 2026 07:00:00 GMT
-  Emmes Associate Software Engineer 2026 in Bengaluru, India (Full-Time Graduate Opportunity) Global South Opportunities
 - [5 Leading Full-Stack Development Companies Worldwide in 2026 - Techloy](https://news.google.com/rss/articles/CBMijgFBVV95cUxQTTZzd1hvRjNrUnNiU1FxZ283VzhtZ3FaN2NEaFJ5SFZGVi1iQkRNX3BuX3BmYUgtNUxQbzBOSnoyTFh5MEpHYjZ1M2hQZEFTQWdFQmFMa2FWMERURlp0VXI3c1Fpd1VzVEZ0MFZuZG5kRXpCVWJrTG50TG41bWU4dHUyaXAwdl93RlRBN3Zn?oc=5) — Wed, 07 Oct 2026 07:30:54 GMT
   5 Leading Full-Stack Development Companies Worldwide in 2026 Techloy
+- [IIT Delhi Recruitment 2026 – Walk-in for Project Scientist and Project Assistant Posts - FreeJobAlert.Com](https://news.google.com/rss/articles/CBMiygFBVV95cUxPZGhXc196T0JjeHhEMjlIMEZTd3VIWjhweUVkTUxjVXEzVTV3aExoTFZFSDVuTlFiQmVBd3BMUjZMWldTeWdETGJieEFLT0FzVk1lMmUzaFh1dGl5UEkydVVrT1hKdGFVb09yWjBVSGU0dUM4YVRqd2RGNmJ5VHdrT2dPeWloN2lya29LNjBZMVlxUkdQdi1vX1F0T0hPMGNDZVI5c2w4SkJGYjBVLUVPMEU4eHlyYUFNOENzcmpWeXY3YzdaSHJPUzdn?oc=5) — Fri, 09 Oct 2026 07:00:00 GMT
+  IIT Delhi Recruitment 2026 – Walk-in for Project Scientist and Project Assistant Posts FreeJobAlert.Com
 
 ## Stable study resources
 
