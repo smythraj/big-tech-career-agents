@@ -1,16 +1,16 @@
 # Daily Study Coach
 
-Generated: 2026-10-19T20:40:54+00:00 UTC
+Generated: 2026-10-20T19:29:33+00:00 UTC
 
 > Free deterministic coaching mode. No OpenAI API key is needed. Tasks and examples are prepared from a built-in curriculum; progress is only personalized when private Gist sync is configured.
 
 ## Today's Java DSA challenge
 
-**Course Schedule** · Pattern: Topological sort
+**Merge Intervals** · Pattern: Intervals
 
-Detect cycles using indegrees or DFS colors.
+Sort by start and prove the merge condition.
 
-Practice link: https://leetcode.com/problems/course-schedule/
+Practice link: https://leetcode.com/problems/merge-intervals/
 
 ## 90-minute plan
 
@@ -33,4 +33,4 @@ No private cloud progress was available to this run. Configure private Gist sync
 
 ## Next action
 
-Start a 35-minute timed attempt on [Course Schedule](https://leetcode.com/problems/course-schedule/). Do not mark it complete until you have solved and tested it.
+Start a 35-minute timed attempt on [Merge Intervals](https://leetcode.com/problems/merge-intervals/). Do not mark it complete until you have solved and tested it.
