@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19T08:10:56+00:00",
+  "checked_at": "2026-10-20T07:59:10+00:00",
   "timezone": "UTC",
   "google_careers_url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer&location=India",
   "feeds": [
@@ -11,7 +11,7 @@
         {
           "title": "You don't need a perfect career plan: Google engineer's message to young graduates - India Today",
           "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOGVERlRXcEJYYTdlN2ViNGF4NDVaM1M4NTZCcFNNbUlaRVhBNVNYekpvSEFqZ0pDZFZoSENHSlE5UE1xZlpKLXJaY2lnT0lkOTQ1RW9LRHZMRmZkQ3ZEa3gzNFZsU3VyWkdaUms1MlJRcFNkQ09TbjFqclpxSU5ZVW40Wk1nLWZleEtpT3ZLT0xnaUppYzlRQTlvWmFxVUI1a1FaQlluRDZGQjU5dUF0bFQ5TFdoWnpWUHZCb0YtZ1ZHZWcxMUhJVDJld1NhOEM5eWNCaTNpNjBxdU5JN2lNaXlLbTJJbGQ1Ry16QzZPRVBWbG5teXlN0gH8AUFVX3lxTE9QWHZ1MnZCeWpiRnhSaE9ZMEpQTHZiWldUOU04dUxKSmVrcjlORmsyYmk0ZnhDLXRucThFRjFGNkhOSUg2VVFRN05ia1NzZG5XLS0tcFJKZTkxYnR6RWpmazNTNjNLU2Y1bjhaTE15YjM5d1RVRXBxRV9WNDUwRUd0aVpYbm5JNTdEX3E5YTM2SWlHdnBFdDV1eVZnUi1BbnpzeWVWOTV1Qlg3elZKUnBVaks0WDd3OFJuYng0cWhCbWhOT0FWaGlURFM4OXBwbkNHYmM1blFuYnBuMlZUN1BIYzF4WEFDMms2QVVseW1QM1NRWUpJTGtHRmZlMA?oc=5",
-          "published": "Sun, 11 Oct 2026 10:39:14 GMT",
+          "published": "Sun, 11 Oct 2026 07:00:00 GMT",
           "summary": "You don't need a perfect career plan: Google engineer's message to young graduates India Today"
         },
         {
@@ -25,6 +25,12 @@
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZR2dmbGI3eUhWN1JuMDJqU09MMV9MLVdaRERVS2N5dVZVR0VGNDRxLWVNcVlHdm1tS2JnUHJpZkk5VDFFMjU1bkpDUFBuRDcweldqZkRkWFZFeE5kYzdlSHAwMFhpRW1KYnFwMmJfZExUQQ?oc=5",
           "published": "Wed, 07 Oct 2026 07:00:00 GMT",
           "summary": "Highest Paying Jobs in India: Roles, Salaries, and How to Become Simplilearn.com"
+        },
+        {
+          "title": "What happens when a Google data centre comes to town? Southern India is finding out - CBC",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEaThjOGlkVkVsWnM2Y1FDcWplUjlremxYMUxnM2l2dWotLU5XOXZ6SERRLVNEM2FEc081NVpXdU5xcnV0b0JWeHdLZHN4elhIcWdyUEg2amR2NFNqSjdicFJ6aDdTSXRCeE1kZEtSREVNMzkzdXc?oc=5",
+          "published": "Sun, 11 Oct 2026 07:00:00 GMT",
+          "summary": "What happens when a Google data centre comes to town? Southern India is finding out CBC"
         }
       ],
       "error": "",
@@ -139,5 +145,5 @@
     "page_title_detected": "careers",
     "message": "Official search page responded. This does not confirm that any specific role is open."
   },
-  "news_item_count": 11
+  "news_item_count": 12
 }
