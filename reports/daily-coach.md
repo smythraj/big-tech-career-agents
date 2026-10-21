@@ -1,16 +1,16 @@
 # Daily Study Coach
 
-Generated: 2026-10-20T19:29:33+00:00 UTC
+Generated: 2026-10-21T19:28:29+00:00 UTC
 
 > Free deterministic coaching mode. No OpenAI API key is needed. Tasks and examples are prepared from a built-in curriculum; progress is only personalized when private Gist sync is configured.
 
 ## Today's Java DSA challenge
 
-**Merge Intervals** · Pattern: Intervals
+**Coin Change** · Pattern: Dynamic programming
 
-Sort by start and prove the merge condition.
+Define state, base case, transition and unreachable result.
 
-Practice link: https://leetcode.com/problems/merge-intervals/
+Practice link: https://leetcode.com/problems/coin-change/
 
 ## 90-minute plan
 
@@ -33,4 +33,4 @@ No private cloud progress was available to this run. Configure private Gist sync
 
 ## Next action
 
-Start a 35-minute timed attempt on [Merge Intervals](https://leetcode.com/problems/merge-intervals/). Do not mark it complete until you have solved and tested it.
+Start a 35-minute timed attempt on [Coin Change](https://leetcode.com/problems/coin-change/). Do not mark it complete until you have solved and tested it.
