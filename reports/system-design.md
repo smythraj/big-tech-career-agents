@@ -1,19 +1,36 @@
 # System Design Coach
 
-Generated: 2026-10-16T09:38:07+00:00 UTC
+Generated: 2026-10-21T19:09:59+00:00 UTC
 
-> Free fallback mode. OPENAI_API_KEY is not configured. This is a generated starter brief, not live job verification or a claim about completed progress.
+> Free deterministic coaching mode. No OpenAI API key is needed. Tasks and examples are prepared from a built-in curriculum; progress is only personalized when private Gist sync is configured.
 
-## Plan
+## Interview exercise: Design a news feed
 
-Give one mid/senior system-design interview exercise: clarify requirements, estimate scale, define APIs/data model, architecture, failure modes, observability and trade-offs. End with a 10-minute practice prompt and self-review rubric.
+**Requirements:** Serve personalized feeds with fresh posts and predictable latency.
 
-## Record actual progress
+## 45-minute interview structure
 
-- What did you complete?
-- How many focused minutes did you spend?
-- What blocked you or needs a re-solve?
+1. **5 min — Clarify:** functional and non-functional requirements, scope, traffic, latency and availability targets.
+2. **5 min — Estimate:** requests/second, storage growth, bandwidth and hot-key risks. State assumptions.
+3. **8 min — API and data model:** define core endpoints, identifiers, indexes, partition keys and consistency needs.
+4. **12 min — Architecture:** draw clients, load balancer, services, database, cache, queue and dependencies.
+5. **10 min — Deep dive:** choose one bottleneck and describe failure handling, scaling and operational visibility.
+6. **5 min — Trade-offs:** state what you chose, alternatives, and why.
 
-## Next action
+## Starting design
 
-Choose one measurable next step and record the result in the dashboard.
+Create post, follow, read feed; post store, graph, fan-out, cache, ranking.
+
+## Risks you must discuss
+
+Compare fan-out-on-write/read, celebrity accounts, freshness, pagination and cache invalidation.
+
+## Self-score (0–4 each)
+
+- Requirements and assumptions: __ / 4
+- API and data model: __ / 4
+- Architecture and scale: __ / 4
+- Reliability, security and observability: __ / 4
+- Trade-offs and communication: __ / 4
+
+**Readiness target:** 16/20 or higher on two different designs, with no category below 2. Record the score and the one weakest category in your dashboard.
