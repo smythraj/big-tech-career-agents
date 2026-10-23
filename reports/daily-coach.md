@@ -1,16 +1,16 @@
 # Daily Study Coach
 
-Generated: 2026-10-22T19:21:40+00:00 UTC
+Generated: 2026-10-23T19:27:54+00:00 UTC
 
 > Free deterministic coaching mode. No OpenAI API key is needed. Tasks and examples are prepared from a built-in curriculum; progress is only personalized when private Gist sync is configured.
 
 ## Today's Java DSA challenge
 
-**House Robber** · Pattern: Dynamic programming
+**Longest Increasing Subsequence** · Pattern: Dynamic programming
 
-Explain the take-or-skip recurrence.
+Compare O(n^2) DP with O(n log n) tails.
 
-Practice link: https://leetcode.com/problems/house-robber/
+Practice link: https://leetcode.com/problems/longest-increasing-subsequence/
 
 ## 90-minute plan
 
@@ -33,4 +33,4 @@ No private cloud progress was available to this run. Configure private Gist sync
 
 ## Next action
 
-Start a 35-minute timed attempt on [House Robber](https://leetcode.com/problems/house-robber/). Do not mark it complete until you have solved and tested it.
+Start a 35-minute timed attempt on [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/). Do not mark it complete until you have solved and tested it.
