@@ -1,6 +1,6 @@
 # Daily Career Research
 
-Updated: 2026-10-22T08:02:00+00:00 UTC
+Updated: 2026-10-23T08:01:31+00:00 UTC
 
 > Daily research leads from items published in the last 21 days, not guaranteed vacancies. Verify roles and claims on the linked source before acting.
 
@@ -31,12 +31,12 @@ Source: https://news.google.com/rss/search?q=Google%20engineering%20hiring%20sof
 
 - [Google overhauls software engineer interviews with AI fluency checks - TechGig](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOVpiM3NMU1pQaGJ1UG9na0RhY2ZUSkxaX0FZd3I1Sl9zS2ZiUTduQUtpcjQ5N0UzbnFjajhUZzhEZUxYazRaQ1BTR0ljNXgwRmQ1Y2JIZWJGeWljbFB0MGRFWlB6V3pVLVJqdHB2bmZhay1QVEV4QnZYdC1WMWlUUW1tRl9tbkI0NVNMby1JTlQtWDRYSF9aRFc5dXdBYS1jZUVsUzEwcXYwT1VLc2pKdzQtNG1QSmRSc1R0OFREdC1oYmtvbjg1MEpFQjVBaGZvM21YSjR2bF95U19mcXliNnRLMmdXTmw3RHFxVngzaHR5ekVGdk12d2dBZ9IBvAFBVV95cUxOclUyNjJleVZGQ09LUVVsX29iNHIxaXl6Q1B4R3Q5bjU4dkRqNTdPaFRQcmVVRHN1SHAtN2c0c1ZoYmxweUkyOWx2MDJCSVpneFc1UmpSTElBUlJkS2lNMFd3UnpPbW9QLXNYcVN4U0V6d25LNVd1UGp1dTJrV1F3R192SWFJRGhQS3pvQ3l0dVZhNjljZjlmYlJSQnJyZnd2clEyNFc3OXY2bUdoRDhDZ2cwUGFRZ3NSRHlWTA?oc=5) — Wed, 21 Oct 2026 00:01:24 GMT
   Google overhauls software engineer interviews with AI fluency checks TechGig
-- [Prompt Engineering Jobs: Your 2026 Career Guide - Coursera](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OR0tGcWQwVm5Ec2ZrYlF2dnZjdjN1YmQtakloMm5lbl9MUG51ai1ya3lhalFmQnJhWHRNU1lMaERraWpwZlMwSWxlYUZaVVdaT0ZsQVhkRGo0cVBSYWNMT19icDMzUTRV?oc=5) — Wed, 14 Oct 2026 18:30:00 GMT
-  Prompt Engineering Jobs: Your 2026 Career Guide Coursera
+- [Internal docs reveal how Google is shaking up its interview process with AI - Business Insider Africa](https://news.google.com/rss/articles/CBMixAFBVV95cUxNZjU2cUNGVWdZcHcxaGpUSHBjODgxRG5YNjh2aXpSNThCOUQ2c2MxTklDWGJNNGxOb3gyMllGd0NTWS1tUUg0Vk53Y1drZDRndlJHZEFwZXdDRDdWc1V4V1o5NHBsQ0xYWk1qVTdnU2V0dVVMZHlHQXdKaDJpRVpQMDl3NlJZUHV5MUxyVDc2alh3S1VWazVhMGtVOUdyaDM3RTd4bklobzNESXprODVsOFJhalU2cnV4OWFKekJuSno4S3dZ?oc=5) — Tue, 20 Oct 2026 09:58:44 GMT
+  Internal docs reveal how Google is shaking up its interview process with AI Business Insider Africa
 - [How he turned his interest in cybersecurity into a security engineering job at Google - India Today](https://news.google.com/rss/articles/CBMi9wFBVV95cUxONEhwXzBUakpSOG94N25fZUdmN0djZDBGOUFTN0pmQVF1RmxZVlVxaTBlLXhaSkRsR0tVYWwyZ3lPLW1ZbEZPSU9uY0szSmNCb3FiZ1UxZXlHcllRMkN5OWZrTS1KVXNXSzAzOGFQNHgtVWtRODlORDRMdUJjNVI3WjFKRjRFUFFPNVR6Q1pmcXR1X0hOcHpGSUtodEdOX0ZNbmROZnlUcGl6WjU1UlZrLVVZTkl5YlZXalFKeGQyTDk3VVRRRWZqeFVTcWlLOUhLaV9kWjBDTlZ5aGlMYlZua0Q2cEdGd2h3bmZHOC1JNW5DZEd0MjdR0gH8AUFVX3lxTFBFTTh6RC1QZEJta2JlczAxSkRsbUFnRTJEaVgwN1dMSmJTMElxbnRXOTR3MDJ4d0Y0R2lnUEMzSEJjRGR6amlETU94NGViV09vUzRyMVZldmxLUHFQRzJFU05xVDdPUldyVU03eDlhUG91UXpINmVpU3hISURTdDNwakFaUmlaSmpRcnhxQ3pid3V3aWhTZzFVTUc0MndVNDFwdEZpa3JzdzE5ZDg1eXBUejVOOGE3aks5czVhaEx3SmNITHlYMkt3dnVzcjJKZXYyRmdwVVl0a2syaWFNRk9iekxDblZQUmNwMC15bzRobFVqZlZWVFlERWJWdA?oc=5) — Sat, 03 Oct 2026 07:00:00 GMT
   How he turned his interest in cybersecurity into a security engineering job at Google India Today
-- [The Job Seeker’s Guide to Entry-Level Software Engineer Jobs - Coursera](https://news.google.com/rss/articles/CBMid0FVX3lxTE9odXV6ZEZMQnR2SEExY2ZMTEdrZVZzWnF6TThwYVJpcElkLVpyQzlVWFdrT2hUSzdYZVJIWnBTalF3MEtxRXVnVHlYQjFpcnZJNWpnV1BFdmMzRnRuWnEweXUwTFlETGRHMzFiZlk5M1Bwam50bkhF?oc=5) — Fri, 02 Oct 2026 07:00:00 GMT
-  The Job Seeker’s Guide to Entry-Level Software Engineer Jobs Coursera
+- [Prompt Engineering Jobs: Your 2026 Career Guide - Coursera](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OR0tGcWQwVm5Ec2ZrYlF2dnZjdjN1YmQtakloMm5lbl9MUG51ai1ya3lhalFmQnJhWHRNU1lMaERraWpwZlMwSWxlYUZaVVdaT0ZsQVhkRGo0cVBSYWNMT19icDMzUTRV?oc=5) — Wed, 14 Oct 2026 07:00:00 GMT
+  Prompt Engineering Jobs: Your 2026 Career Guide Coursera
 - [Google Job Interviews Are Getting an AI Twist: What Candidates Need to Know - Mashable India](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeVhwM0o1RXd3VHg1ZDlMMEJBV0dfVWZnUjIwTzZ4UFdsTEQ0RUZodHVrTktOX0d6SzMwUkFQZnVabHhfdGxVbHF3WGZhNkpYejdzeGZmSnhKdHZaTzhNR0RWeGRyYlhyaHpUS3BoV1FRSU5fSHQyTHBXeUNKOTJsb3JfM0NEaElWbURQdEVjVVl4ay1XNFhRRm5McFhVV2Q0NjhrblpONGZxLXlYLUZr?oc=5) — Wed, 21 Oct 2026 08:17:58 GMT
   Google Job Interviews Are Getting an AI Twist: What Candidates Need to Know Mashable India
 
@@ -53,6 +53,8 @@ Source: https://news.google.com/rss/search?q=software%20engineering%20interview%
 
 Source: https://news.google.com/rss/search?q=software%20engineer%20backend%20full%20stack%20jobs%20India&hl=en-IN&gl=IN&ceid=IN:en
 
+- [Jobs in Singapore: “How I went from building apps in the classroom to software development at a global IT firm” - Singapore Economic Development Board (EDB)](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeUl4WE0xWjFVcmF2cGxzaDlybDhXVVJKTGU0MGVrdjJTNHo5QkVJbDVlNnZFSldFNGN2X0loMURyUTNxMVlva3FnczNsOVhnNnlDeVRhLWZNWWNuWnlUSl9UYWhKZXRpRWx6N0JmazVOWlp1NXo4WGV0QWZXZ3lHTjZDai1kZVpZdXRqM2oxQWU0TjY4RWd6X3pLRTlJcmZlSkxfOU1oTzBXVU9zU25NQVE4N3VuTHRObzJWU01ubHBGWVkwa3NlZms4STBnNWROR2FIQlBoeGoxaXFvMEtBbFlNX2V1MkU?oc=5) — Thu, 22 Oct 2026 07:14:12 GMT
+  Jobs in Singapore: “How I went from building apps in the classroom to software development at a global IT firm” Singapore Economic Development Board (EDB)
 - [5 Leading Full-Stack Development Companies Worldwide in 2026 - Techloy](https://news.google.com/rss/articles/CBMijgFBVV95cUxQTTZzd1hvRjNrUnNiU1FxZ283VzhtZ3FaN2NEaFJ5SFZGVi1iQkRNX3BuX3BmYUgtNUxQbzBOSnoyTFh5MEpHYjZ1M2hQZEFTQWdFQmFMa2FWMERURlp0VXI3c1Fpd1VzVEZ0MFZuZG5kRXpCVWJrTG50TG41bWU4dHUyaXAwdl93RlRBN3Zn?oc=5) — Wed, 07 Oct 2026 07:00:00 GMT
   5 Leading Full-Stack Development Companies Worldwide in 2026 Techloy
 - [What is a Software Engineering job? - Nexford University](https://news.google.com/rss/articles/CBMifkFVX3lxTE1nTmh1ZjZvbUttOW53T2swcFdCT2NjYVU0bUhwMU55bDA3bDlvdWpmTS02T2VGa1FJbXowX2JoOERTeENtbk80aXlqQkFUd1lfQXluSFNMRkRsQ1NUdFpnbVhJQmoxX0piUHhoMnlPb2MzZmU2aGgtQTlUbU9Jd9IBjgFBVV95cUxNeVplWmJCdTJPZnFYSkZYdjJxZHNGcDlCa0NSTnZkLW9RY2k4OFlwOVlCV192NExESzcwdWFHZWJzR0s3bVEtRzhrVUVNd2lTRE1JS00xZDFRMmhsVU9NTHFqaGduRUM2RXpxdUxwOTVSNmdsaUZHNnFoV3FpaTQ0eXhUTFRVT1dzMU1tQnd3?oc=5) — Tue, 06 Oct 2026 07:00:00 GMT
