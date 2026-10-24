@@ -1,6 +1,6 @@
 # Daily Career Research
 
-Updated: 2026-10-23T08:01:31+00:00 UTC
+Updated: 2026-10-24T07:40:50+00:00 UTC
 
 > Daily research leads from items published in the last 21 days, not guaranteed vacancies. Verify roles and claims on the linked source before acting.
 
@@ -18,12 +18,12 @@ Source: https://news.google.com/rss/search?q=Google%20software%20engineer%20jobs
   Google overhauls software engineer interviews with AI fluency checks TechGig
 - [You don't need a perfect career plan: Google engineer's message to young graduates - India Today](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOGVERlRXcEJYYTdlN2ViNGF4NDVaM1M4NTZCcFNNbUlaRVhBNVNYekpvSEFqZ0pDZFZoSENHSlE5UE1xZlpKLXJaY2lnT0lkOTQ1RW9LRHZMRmZkQ3ZEa3gzNFZsU3VyWkdaUms1MlJRcFNkQ09TbjFqclpxSU5ZVW40Wk1nLWZleEtpT3ZLT0xnaUppYzlRQTlvWmFxVUI1a1FaQlluRDZGQjU5dUF0bFQ5TFdoWnpWUHZCb0YtZ1ZHZWcxMUhJVDJld1NhOEM5eWNCaTNpNjBxdU5JN2lNaXlLbTJJbGQ1Ry16QzZPRVBWbG5teXlN0gH8AUFVX3lxTE9QWHZ1MnZCeWpiRnhSaE9ZMEpQTHZiWldUOU04dUxKSmVrcjlORmsyYmk0ZnhDLXRucThFRjFGNkhOSUg2VVFRN05ia1NzZG5XLS0tcFJKZTkxYnR6RWpmazNTNjNLU2Y1bjhaTE15YjM5d1RVRXBxRV9WNDUwRUd0aVpYbm5JNTdEX3E5YTM2SWlHdnBFdDV1eVZnUi1BbnpzeWVWOTV1Qlg3elZKUnBVaks0WDd3OFJuYng0cWhCbWhOT0FWaGlURFM4OXBwbkNHYmM1blFuYnBuMlZUN1BIYzF4WEFDMms2QVVseW1QM1NRWUpJTGtHRmZlMA?oc=5) — Sun, 11 Oct 2026 07:00:00 GMT
   You don't need a perfect career plan: Google engineer's message to young graduates India Today
-- [How he turned his interest in cybersecurity into a security engineering job at Google - India Today](https://news.google.com/rss/articles/CBMi9wFBVV95cUxONEhwXzBUakpSOG94N25fZUdmN0djZDBGOUFTN0pmQVF1RmxZVlVxaTBlLXhaSkRsR0tVYWwyZ3lPLW1ZbEZPSU9uY0szSmNCb3FiZ1UxZXlHcllRMkN5OWZrTS1KVXNXSzAzOGFQNHgtVWtRODlORDRMdUJjNVI3WjFKRjRFUFFPNVR6Q1pmcXR1X0hOcHpGSUtodEdOX0ZNbmROZnlUcGl6WjU1UlZrLVVZTkl5YlZXalFKeGQyTDk3VVRRRWZqeFVTcWlLOUhLaV9kWjBDTlZ5aGlMYlZua0Q2cEdGd2h3bmZHOC1JNW5DZEd0MjdR0gH8AUFVX3lxTFBFTTh6RC1QZEJta2JlczAxSkRsbUFnRTJEaVgwN1dMSmJTMElxbnRXOTR3MDJ4d0Y0R2lnUEMzSEJjRGR6amlETU94NGViV09vUzRyMVZldmxLUHFQRzJFU05xVDdPUldyVU03eDlhUG91UXpINmVpU3hISURTdDNwakFaUmlaSmpRcnhxQ3pid3V3aWhTZzFVTUc0MndVNDFwdEZpa3JzdzE5ZDg1eXBUejVOOGE3aks5czVhaEx3SmNITHlYMkt3dnVzcjJKZXYyRmdwVVl0a2syaWFNRk9iekxDblZQUmNwMC15bzRobFVqZlZWVFlERWJWdA?oc=5) — Sat, 03 Oct 2026 07:00:00 GMT
-  How he turned his interest in cybersecurity into a security engineering job at Google India Today
 - [Highest Paying Jobs in India: Roles, Salaries, and How to Become - Simplilearn.com](https://news.google.com/rss/articles/CBMickFVX3lxTE9ZR2dmbGI3eUhWN1JuMDJqU09MMV9MLVdaRERVS2N5dVZVR0VGNDRxLWVNcVlHdm1tS2JnUHJpZkk5VDFFMjU1bkpDUFBuRDcweldqZkRkWFZFeE5kYzdlSHAwMFhpRW1KYnFwMmJfZExUQQ?oc=5) — Wed, 07 Oct 2026 07:00:00 GMT
   Highest Paying Jobs in India: Roles, Salaries, and How to Become Simplilearn.com
 - [7 High-Income Skills Worth Learning in 2026 - Coursera](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yTHdtWWlTdl80Z0szUGZDenBZcDN4U2VUWmJzbDFqSEQ5b2lmYVMyWVphQzMxQnJZTEJwM1lPUExEQm41TnFUaTJvTmhOR1ptX2RRdnNkSXpybEJCSWQwcV9VdGVmZw?oc=5) — Mon, 19 Oct 2026 16:21:00 GMT
   7 High-Income Skills Worth Learning in 2026 Coursera
+- [What happens when a Google data centre comes to town? Southern India is finding out - CBC](https://news.google.com/rss/articles/CBMidkFVX3lxTFBEaThjOGlkVkVsWnM2Y1FDcWplUjlremxYMUxnM2l2dWotLU5XOXZ6SERRLVNEM2FEc081NVpXdU5xcnV0b0JWeHdLZHN4elhIcWdyUEg2amR2NFNqSjdicFJ6aDdTSXRCeE1kZEtSREVNMzkzdXc?oc=5) — Sun, 11 Oct 2026 07:00:00 GMT
+  What happens when a Google data centre comes to town? Southern India is finding out CBC
 
 ## Google engineering and hiring updates
 
@@ -33,8 +33,6 @@ Source: https://news.google.com/rss/search?q=Google%20engineering%20hiring%20sof
   Google overhauls software engineer interviews with AI fluency checks TechGig
 - [Internal docs reveal how Google is shaking up its interview process with AI - Business Insider Africa](https://news.google.com/rss/articles/CBMixAFBVV95cUxNZjU2cUNGVWdZcHcxaGpUSHBjODgxRG5YNjh2aXpSNThCOUQ2c2MxTklDWGJNNGxOb3gyMllGd0NTWS1tUUg0Vk53Y1drZDRndlJHZEFwZXdDRDdWc1V4V1o5NHBsQ0xYWk1qVTdnU2V0dVVMZHlHQXdKaDJpRVpQMDl3NlJZUHV5MUxyVDc2alh3S1VWazVhMGtVOUdyaDM3RTd4bklobzNESXprODVsOFJhalU2cnV4OWFKekJuSno4S3dZ?oc=5) — Tue, 20 Oct 2026 09:58:44 GMT
   Internal docs reveal how Google is shaking up its interview process with AI Business Insider Africa
-- [How he turned his interest in cybersecurity into a security engineering job at Google - India Today](https://news.google.com/rss/articles/CBMi9wFBVV95cUxONEhwXzBUakpSOG94N25fZUdmN0djZDBGOUFTN0pmQVF1RmxZVlVxaTBlLXhaSkRsR0tVYWwyZ3lPLW1ZbEZPSU9uY0szSmNCb3FiZ1UxZXlHcllRMkN5OWZrTS1KVXNXSzAzOGFQNHgtVWtRODlORDRMdUJjNVI3WjFKRjRFUFFPNVR6Q1pmcXR1X0hOcHpGSUtodEdOX0ZNbmROZnlUcGl6WjU1UlZrLVVZTkl5YlZXalFKeGQyTDk3VVRRRWZqeFVTcWlLOUhLaV9kWjBDTlZ5aGlMYlZua0Q2cEdGd2h3bmZHOC1JNW5DZEd0MjdR0gH8AUFVX3lxTFBFTTh6RC1QZEJta2JlczAxSkRsbUFnRTJEaVgwN1dMSmJTMElxbnRXOTR3MDJ4d0Y0R2lnUEMzSEJjRGR6amlETU94NGViV09vUzRyMVZldmxLUHFQRzJFU05xVDdPUldyVU03eDlhUG91UXpINmVpU3hISURTdDNwakFaUmlaSmpRcnhxQ3pid3V3aWhTZzFVTUc0MndVNDFwdEZpa3JzdzE5ZDg1eXBUejVOOGE3aks5czVhaEx3SmNITHlYMkt3dnVzcjJKZXYyRmdwVVl0a2syaWFNRk9iekxDblZQUmNwMC15bzRobFVqZlZWVFlERWJWdA?oc=5) — Sat, 03 Oct 2026 07:00:00 GMT
-  How he turned his interest in cybersecurity into a security engineering job at Google India Today
 - [Prompt Engineering Jobs: Your 2026 Career Guide - Coursera](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OR0tGcWQwVm5Ec2ZrYlF2dnZjdjN1YmQtakloMm5lbl9MUG51ai1ya3lhalFmQnJhWHRNU1lMaERraWpwZlMwSWxlYUZaVVdaT0ZsQVhkRGo0cVBSYWNMT19icDMzUTRV?oc=5) — Wed, 14 Oct 2026 07:00:00 GMT
   Prompt Engineering Jobs: Your 2026 Career Guide Coursera
 - [Google Job Interviews Are Getting an AI Twist: What Candidates Need to Know - Mashable India](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeVhwM0o1RXd3VHg1ZDlMMEJBV0dfVWZnUjIwTzZ4UFdsTEQ0RUZodHVrTktOX0d6SzMwUkFQZnVabHhfdGxVbHF3WGZhNkpYejdzeGZmSnhKdHZaTzhNR0RWeGRyYlhyaHpUS3BoV1FRSU5fSHQyTHBXeUNKOTJsb3JfM0NEaElWbURQdEVjVVl4ay1XNFhRRm5McFhVV2Q0NjhrblpONGZxLXlYLUZr?oc=5) — Wed, 21 Oct 2026 08:17:58 GMT
@@ -46,6 +44,8 @@ Source: https://news.google.com/rss/search?q=software%20engineering%20interview%
 
 - [Nvidia Interview Questions and Answers for 2027 - Simplilearn.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE1uN19iMllKZ2JhZFZ5aXBtbW84elR3V3F4Uy1YakJ4MUdGbE0yU0FXWWVVSkhvLVVkX3MzRzBCVnB3aTRPa2tna0RndUtvOTh0QUZZdXZsSFB5NHd6SWw0d1JwUVBfaFNfRDlrRnlMSQ?oc=5) — Mon, 12 Oct 2026 07:00:00 GMT
   Nvidia Interview Questions and Answers for 2027 Simplilearn.com
+- [Top 65+ HCL Interview Questions and Answers for 2027 - Simplilearn.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE90RXVYOG52c2dwSWlmR01pQWh5bTAyemhuMXJBMjBpR0F1djRubmRmbl96Vm9HZTRSeC14VWxiZ3NPVHVpcXdXaENuZzBQYWRxUWNnVHF5eEdxNTJvdS0zQ29WMy1MYkp2N2Q0?oc=5) — Mon, 19 Oct 2026 07:00:00 GMT
+  Top 65+ HCL Interview Questions and Answers for 2027 Simplilearn.com
 - [20+ Best AI Project Ideas for 2027: Trending AI Projects - Simplilearn.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZTM1SDVPY1R6UW9wLWFjNnYyZEF1U1BEYjRIOWp5THFYY0UwODRyeXdVdTZYaVJJUE5QUUR2c09DSlE5ZHNFVDVWU29ENDVQTGFpcktpSEo1a21mTjJoOGptencwWmNxUS1tSGZCZFUwNnQxN0o4WG5Ndm9ZQjBDa0pvR0JQR29RZURuWlZGQ1I?oc=5) — Wed, 14 Oct 2026 07:00:00 GMT
   20+ Best AI Project Ideas for 2027: Trending AI Projects Simplilearn.com
 
