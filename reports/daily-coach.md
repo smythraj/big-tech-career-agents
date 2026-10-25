@@ -1,16 +1,16 @@
 # Daily Study Coach
 
-Generated: 2026-10-24T18:18:09+00:00 UTC
+Generated: 2026-10-25T18:31:22+00:00 UTC
 
 > Free deterministic coaching mode. No OpenAI API key is needed. Tasks and examples are prepared from a built-in curriculum; progress is only personalized when private Gist sync is configured.
 
 ## Today's Java DSA challenge
 
-**Implement Trie** · Pattern: Data structures
+**LRU Cache** · Pattern: Hash map + doubly linked list
 
-Design insert, search and startsWith; discuss memory.
+Design O(1) get and put and explain eviction.
 
-Practice link: https://leetcode.com/problems/implement-trie-prefix-tree/
+Practice link: https://leetcode.com/problems/lru-cache/
 
 ## 90-minute plan
 
@@ -33,4 +33,4 @@ No private cloud progress was available to this run. Configure private Gist sync
 
 ## Next action
 
-Start a 35-minute timed attempt on [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/). Do not mark it complete until you have solved and tested it.
+Start a 35-minute timed attempt on [LRU Cache](https://leetcode.com/problems/lru-cache/). Do not mark it complete until you have solved and tested it.
