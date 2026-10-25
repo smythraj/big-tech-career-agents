@@ -1,6 +1,6 @@
 # Weekly Career Review
 
-Generated: 2026-10-18T16:46:02+00:00 UTC
+Generated: 2026-10-25T17:10:56+00:00 UTC
 
 > Free deterministic coaching mode. No OpenAI API key is needed. Tasks and examples are prepared from a built-in curriculum; progress is only personalized when private Gist sync is configured.
 
