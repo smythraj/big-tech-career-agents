@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T07:52:28+00:00",
+  "checked_at": "2026-10-26T08:12:26+00:00",
   "timezone": "UTC",
   "google_careers_url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer&location=India",
   "feeds": [
@@ -21,6 +21,12 @@
           "summary": "You don't need a perfect career plan: Google engineer's message to young graduates India Today"
         },
         {
+          "title": "Google DeepMind is hiring AI engineers for its new team with salary of up to $1.1 million, no degree requ - The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQcjBNZDRRcWJtTFYyUkJBOVFvYkpNR1lzdnNPY1ZDVjFocExDZUpMeEdIbTJmQ3A4ZTRfX1p5MEhuTkUtcE9KbURWYkttMmdhb2NXWGsydVRzWnM3ZkllRktoMzRVVGlheDRscnM1V1BHTnQyeko2N3VWSVFCNS1pN1FvUEZ0THhIWjQxcnAzdkNkMXF1R1NQOTJUUjFjbDIyMlRKWG9RMk45Qk9vSDVoZFlWZWtjR1MyVWpnemZRejBlM0tsc2hDZVNqNHlXRlhGWk1CYnBibXZZZVZ2b1lpNEV4Z05ieDJUS0pObnNVbnZPWlYxcTBmVzhmbWQ1X2VqQlVNbWNOaXR5MFptNG5yMFlxRHhDdWd4c19qWXVNbXBMeFVoM3V2bTNFZzB3OHJWVDBuNlVYZTVNU0RZ0gHCAkFVX3lxTFBqU0ZyTFJxdFhzci01UU1wUmNkQ3I3MTVtNEZIOHNRODhsZkN5aVVIbTh2RFBJdHNLc1MtYWQxcWlmanBYOFl5N2V3b3JrTGIwUTU0SFJ6UXZYWFJuS0JXVmtjV3NpOGs3UGJYaFVwZGdzd2hyRHJvUHgwMEdtN1JSa251TjJvbzlUdS1QZEdkV3RzQUI3YjRMejVXd2JEMVBKR0J0V0ZpRXZQa2x6c1ZjR2h4VWFDbHI1ZFdUX3JHSE1YUWc3MXFjTzg4ZFF4TGhtUV9PNFF0WDZLYnZXZVlURmx4b2Rjc256TklUcjRCci1XdXRmT1F4YlJQdV90eGlEdkRxSjRNbUE0amdDX3JjS2lWenFWWmJuQmZPeEQ4NUVWeFJpbDVsT00yMWpZdzJxRmQtNjg2ODd4eFRBRjRIeXc?oc=5",
+          "published": "Mon, 12 Oct 2026 07:00:00 GMT",
+          "summary": "Google DeepMind is hiring AI engineers for its new team with salary of up to $1.1 million, no degree requ The Times of India"
+        },
+        {
           "title": "Highest Paying Jobs in India: Roles, Salaries, and How to Become - Simplilearn.com",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZR2dmbGI3eUhWN1JuMDJqU09MMV9MLVdaRERVS2N5dVZVR0VGNDRxLWVNcVlHdm1tS2JnUHJpZkk5VDFFMjU1bkpDUFBuRDcweldqZkRkWFZFeE5kYzdlSHAwMFhpRW1KYnFwMmJfZExUQQ?oc=5",
           "published": "Wed, 07 Oct 2026 07:00:00 GMT",
@@ -31,12 +37,6 @@
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yTHdtWWlTdl80Z0szUGZDenBZcDN4U2VUWmJzbDFqSEQ5b2lmYVMyWVphQzMxQnJZTEJwM1lPUExEQm41TnFUaTJvTmhOR1ptX2RRdnNkSXpybEJCSWQwcV9VdGVmZw?oc=5",
           "published": "Mon, 19 Oct 2026 16:21:00 GMT",
           "summary": "7 High-Income Skills Worth Learning in 2026 Coursera"
-        },
-        {
-          "title": "What happens when a Google data centre comes to town? Southern India is finding out - CBC",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEaThjOGlkVkVsWnM2Y1FDcWplUjlremxYMUxnM2l2dWotLU5XOXZ6SERRLVNEM2FEc081NVpXdU5xcnV0b0JWeHdLZHN4elhIcWdyUEg2amR2NFNqSjdicFJ6aDdTSXRCeE1kZEtSREVNMzkzdXc?oc=5",
-          "published": "Sun, 11 Oct 2026 07:00:00 GMT",
-          "summary": "What happens when a Google data centre comes to town? Southern India is finding out CBC"
         }
       ],
       "error": "",
@@ -49,9 +49,15 @@
       "items": [
         {
           "title": "Google overhauls software engineer interviews with AI fluency checks - TechGig",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLVlmZFBWcTZWMWN3SkUwWFRNWkZHWWN0V2RLVHo1ck56SnpucmpialpBeEU0QWRmaG5aN2hWMzFpdmI5VndibEJYUGVtLV85V0F6RXNqNWYxS19ta3BQcnkyd3l1MzRGZEVzZkZVWVBpZ3F6dGF2R19mUVB6N3h4TW5zRDVZTEs2UC1CQlRuY21NU1NpY1Qzdmc3UV81bHBxMGQ3YXNtTXRaWjBDcVo0c0NfWGtBbzVISl9aeEFlUUxsSGFMUXZ5TVJGLWjSAbwBQVVfeXFMTnJVMjYyZXlWRkNPS1FVbF9vYjRyMWl5ekNQeEd0OW41OHZEajU3T2hUUHJlVURzdUhwLTdnNHNWaGJscHlJMjlsdjAyQklaZ3hXNVJqUkxJQVJSZEtpTTBXd1J6T21vUC1zWHFTeFNFenduSzVXdVBqdXUya1dRd0dfdklhSURoUEt6b0N5dHVWYTY5Y2Y5ZmJSUkJycmZ3dnJRMjRXNzl2Nm1HaEQ4Q2dnMFBhUWdzUkR5Vkw?oc=5",
-          "published": "Wed, 21 Oct 2026 03:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTDQzR3JLYUZjeTQ0Vk55UFhlcU04ZUVEczhMYU9MXzR1YTdJaU51T0dURGpTQmFnaEZtcjd3MDRzQTE0UDZJVi02X2J3bkxhcG1lWkFONU1RblotMkNnVE85cVVWalNFa1FaRVZIWVUzLTJCbnNyYlV5cHpINUh5T1QyUm1iMklLR0Zzb0hiT28wN2xNenFPTS1FUlAtS1JZX2Q4TE02OC1iUVlkV3lqNEVsWXoxLXBIb3I5MmJrQ3JQdEFnak5jSFpRNlZrVndKdU04cGJPYWkwTmg2d0JUXzlyQVhkb1JKZlNPUDlKSTQ2NjjSAbwBQVVfeXFMTnJVMjYyZXlWRkNPS1FVbF9vYjRyMWl5ekNQeEd0OW41OHZEajU3T2hUUHJlVURzdUhwLTdnNHNWaGJscHlJMjlsdjAyQklaZ3hXNVJqUkxJQVJSZEtpTTBXd1J6T21vUC1zWHFTeFNFenduSzVXdVBqdXUya1dRd0dfdklhSURoUEt6b0N5dHVWYTY5Y2Y5ZmJSUkJycmZ3dnJRMjRXNzl2Nm1HaEQ4Q2dnMFBhUWdzUkR5Vkw?oc=5",
+          "published": "Wed, 21 Oct 2026 02:32:40 GMT",
           "summary": "Google overhauls software engineer interviews with AI fluency checks TechGig"
+        },
+        {
+          "title": "You don't need a perfect career plan: Google engineer's message to young graduates - India Today",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOGVERlRXcEJYYTdlN2ViNGF4NDVaM1M4NTZCcFNNbUlaRVhBNVNYekpvSEFqZ0pDZFZoSENHSlE5UE1xZlpKLXJaY2lnT0lkOTQ1RW9LRHZMRmZkQ3ZEa3gzNFZsU3VyWkdaUms1MlJRcFNkQ09TbjFqclpxSU5ZVW40Wk1nLWZleEtpT3ZLT0xnaUppYzlRQTlvWmFxVUI1a1FaQlluRDZGQjU5dUF0bFQ5TFdoWnpWUHZCb0YtZ1ZHZWcxMUhJVDJld1NhOEM5eWNCaTNpNjBxdU5JN2lNaXlLbTJJbGQ1Ry16QzZPRVBWbG5teXlN0gH8AUFVX3lxTE9QWHZ1MnZCeWpiRnhSaE9ZMEpQTHZiWldUOU04dUxKSmVrcjlORmsyYmk0ZnhDLXRucThFRjFGNkhOSUg2VVFRN05ia1NzZG5XLS0tcFJKZTkxYnR6RWpmazNTNjNLU2Y1bjhaTE15YjM5d1RVRXBxRV9WNDUwRUd0aVpYbm5JNTdEX3E5YTM2SWlHdnBFdDV1eVZnUi1BbnpzeWVWOTV1Qlg3elZKUnBVaks0WDd3OFJuYng0cWhCbWhOT0FWaGlURFM4OXBwbkNHYmM1blFuYnBuMlZUN1BIYzF4WEFDMms2QVVseW1QM1NRWUpJTGtHRmZlMA?oc=5",
+          "published": "Sun, 11 Oct 2026 07:00:00 GMT",
+          "summary": "You don't need a perfect career plan: Google engineer's message to young graduates India Today"
         },
         {
           "title": "Prompt Engineering Jobs: Your 2026 Career Guide - Coursera",
@@ -169,5 +175,5 @@
     "page_title_detected": "careers",
     "message": "Official search page responded. This does not confirm that any specific role is open."
   },
-  "news_item_count": 16
+  "news_item_count": 17
 }
