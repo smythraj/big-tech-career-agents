@@ -1,16 +1,16 @@
 # Daily Study Coach
 
-Generated: 2026-10-26T20:40:22+00:00 UTC
+Generated: 2026-10-27T20:11:36+00:00 UTC
 
 > Free deterministic coaching mode. No OpenAI API key is needed. Tasks and examples are prepared from a built-in curriculum; progress is only personalized when private Gist sync is configured.
 
 ## Today's Java DSA challenge
 
-**Find Median from Data Stream** · Pattern: Two heaps
+**Word Break** · Pattern: Dynamic programming
 
-Maintain heap sizes and ordering invariant.
+Define reachable prefixes and discuss optimization.
 
-Practice link: https://leetcode.com/problems/find-median-from-data-stream/
+Practice link: https://leetcode.com/problems/word-break/
 
 ## 90-minute plan
 
@@ -33,4 +33,4 @@ No private cloud progress was available to this run. Configure private Gist sync
 
 ## Next action
 
-Start a 35-minute timed attempt on [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/). Do not mark it complete until you have solved and tested it.
+Start a 35-minute timed attempt on [Word Break](https://leetcode.com/problems/word-break/). Do not mark it complete until you have solved and tested it.
