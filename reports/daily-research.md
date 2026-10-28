@@ -1,6 +1,6 @@
 # Daily Career Research
 
-Updated: 2026-10-27T08:26:55+00:00 UTC
+Updated: 2026-10-28T09:03:55+00:00 UTC
 
 > Daily research leads from items published in the last 21 days, not guaranteed vacancies. Verify roles and claims on the linked source before acting.
 
@@ -14,22 +14,22 @@ Official search page responded. This does not confirm that any specific role is 
 
 Source: https://news.google.com/rss/search?q=Google%20software%20engineer%20jobs%20India&hl=en-IN&gl=IN&ceid=IN:en
 
+- [Google overhauls software engineer interviews with AI fluency checks - TechGig](https://news.google.com/rss/articles/CBMitwFBVV95cUxPanIxN3JHTHRiSENvMzgzSFMxWEhubHYtR0xGaXpCN21rUHlURGtlMEJfRzdGcDktdGJnODNrSmxoSnFRUTNXRUV3R0Z3QUp5Ylp4aFhKV1NrWnpHbGw2UExwMk1FWGVEdWYtYVAyMVdNU2dBU3pWZ1IyRm8xOVFnSXY3Y2o3YXlnQnh1cm54Z0duc2VlU2kyMUlTckxJbktwTUxkYkZGUnNxcE44Z05jTmJEaV9qVlHSAbwBQVVfeXFMTnJVMjYyZXlWRkNPS1FVbF9vYjRyMWl5ekNQeEd0OW41OHZEajU3T2hUUHJlVURzdUhwLTdnNHNWaGJscHlJMjlsdjAyQklaZ3hXNVJqUkxJQVJSZEtpTTBXd1J6T21vUC1zWHFTeFNFenduSzVXdVBqdXUya1dRd0dfdklhSURoUEt6b0N5dHVWYTY5Y2Y5ZmJSUkJycmZ3dnJRMjRXNzl2Nm1HaEQ4Q2dnMFBhUWdzUkR5Vkw?oc=5) — Wed, 21 Oct 2026 00:01:24 GMT
+  Google overhauls software engineer interviews with AI fluency checks TechGig
 - [You don't need a perfect career plan: Google engineer's message to young graduates - India Today](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOGVERlRXcEJYYTdlN2ViNGF4NDVaM1M4NTZCcFNNbUlaRVhBNVNYekpvSEFqZ0pDZFZoSENHSlE5UE1xZlpKLXJaY2lnT0lkOTQ1RW9LRHZMRmZkQ3ZEa3gzNFZsU3VyWkdaUms1MlJRcFNkQ09TbjFqclpxSU5ZVW40Wk1nLWZleEtpT3ZLT0xnaUppYzlRQTlvWmFxVUI1a1FaQlluRDZGQjU5dUF0bFQ5TFdoWnpWUHZCb0YtZ1ZHZWcxMUhJVDJld1NhOEM5eWNCaTNpNjBxdU5JN2lNaXlLbTJJbGQ1Ry16QzZPRVBWbG5teXlN0gH8AUFVX3lxTE9QWHZ1MnZCeWpiRnhSaE9ZMEpQTHZiWldUOU04dUxKSmVrcjlORmsyYmk0ZnhDLXRucThFRjFGNkhOSUg2VVFRN05ia1NzZG5XLS0tcFJKZTkxYnR6RWpmazNTNjNLU2Y1bjhaTE15YjM5d1RVRXBxRV9WNDUwRUd0aVpYbm5JNTdEX3E5YTM2SWlHdnBFdDV1eVZnUi1BbnpzeWVWOTV1Qlg3elZKUnBVaks0WDd3OFJuYng0cWhCbWhOT0FWaGlURFM4OXBwbkNHYmM1blFuYnBuMlZUN1BIYzF4WEFDMms2QVVseW1QM1NRWUpJTGtHRmZlMA?oc=5) — Sun, 11 Oct 2026 07:00:00 GMT
   You don't need a perfect career plan: Google engineer's message to young graduates India Today
-- [Highest Paying Jobs in India: Roles, Salaries, and How to Become - Simplilearn.com](https://news.google.com/rss/articles/CBMickFVX3lxTE9ZR2dmbGI3eUhWN1JuMDJqU09MMV9MLVdaRERVS2N5dVZVR0VGNDRxLWVNcVlHdm1tS2JnUHJpZkk5VDFFMjU1bkpDUFBuRDcweldqZkRkWFZFeE5kYzdlSHAwMFhpRW1KYnFwMmJfZExUQQ?oc=5) — Wed, 07 Oct 2026 07:00:00 GMT
-  Highest Paying Jobs in India: Roles, Salaries, and How to Become Simplilearn.com
-- [7 High-Income Skills Worth Learning in 2026 - Coursera](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yTHdtWWlTdl80Z0szUGZDenBZcDN4U2VUWmJzbDFqSEQ5b2lmYVMyWVphQzMxQnJZTEJwM1lPUExEQm41TnFUaTJvTmhOR1ptX2RRdnNkSXpybEJCSWQwcV9VdGVmZw?oc=5) — Mon, 19 Oct 2026 16:21:00 GMT
+- [7 High-Income Skills Worth Learning in 2026 - Coursera](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yTHdtWWlTdl80Z0szUGZDenBZcDN4U2VUWmJzbDFqSEQ5b2lmYVMyWVphQzMxQnJZTEJwM1lPUExEQm41TnFUaTJvTmhOR1ptX2RRdnNkSXpybEJCSWQwcV9VdGVmZw?oc=5) — Mon, 19 Oct 2026 07:00:00 GMT
   7 High-Income Skills Worth Learning in 2026 Coursera
 
 ## Google engineering and hiring updates
 
 Source: https://news.google.com/rss/search?q=Google%20engineering%20hiring%20software%20careers&hl=en-IN&gl=IN&ceid=IN:en
 
-- [You don't need a perfect career plan: Google engineer's message to young graduates - India Today](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOGVERlRXcEJYYTdlN2ViNGF4NDVaM1M4NTZCcFNNbUlaRVhBNVNYekpvSEFqZ0pDZFZoSENHSlE5UE1xZlpKLXJaY2lnT0lkOTQ1RW9LRHZMRmZkQ3ZEa3gzNFZsU3VyWkdaUms1MlJRcFNkQ09TbjFqclpxSU5ZVW40Wk1nLWZleEtpT3ZLT0xnaUppYzlRQTlvWmFxVUI1a1FaQlluRDZGQjU5dUF0bFQ5TFdoWnpWUHZCb0YtZ1ZHZWcxMUhJVDJld1NhOEM5eWNCaTNpNjBxdU5JN2lNaXlLbTJJbGQ1Ry16QzZPRVBWbG5teXlN0gH8AUFVX3lxTE9QWHZ1MnZCeWpiRnhSaE9ZMEpQTHZiWldUOU04dUxKSmVrcjlORmsyYmk0ZnhDLXRucThFRjFGNkhOSUg2VVFRN05ia1NzZG5XLS0tcFJKZTkxYnR6RWpmazNTNjNLU2Y1bjhaTE15YjM5d1RVRXBxRV9WNDUwRUd0aVpYbm5JNTdEX3E5YTM2SWlHdnBFdDV1eVZnUi1BbnpzeWVWOTV1Qlg3elZKUnBVaks0WDd3OFJuYng0cWhCbWhOT0FWaGlURFM4OXBwbkNHYmM1blFuYnBuMlZUN1BIYzF4WEFDMms2QVVseW1QM1NRWUpJTGtHRmZlMA?oc=5) — Sun, 11 Oct 2026 07:00:00 GMT
-  You don't need a perfect career plan: Google engineer's message to young graduates India Today
+- [Google overhauls software engineer interviews with AI fluency checks - TechGig](https://news.google.com/rss/articles/CBMitwFBVV95cUxPanIxN3JHTHRiSENvMzgzSFMxWEhubHYtR0xGaXpCN21rUHlURGtlMEJfRzdGcDktdGJnODNrSmxoSnFRUTNXRUV3R0Z3QUp5Ylp4aFhKV1NrWnpHbGw2UExwMk1FWGVEdWYtYVAyMVdNU2dBU3pWZ1IyRm8xOVFnSXY3Y2o3YXlnQnh1cm54Z0duc2VlU2kyMUlTckxJbktwTUxkYkZGUnNxcE44Z05jTmJEaV9qVlHSAbwBQVVfeXFMTnJVMjYyZXlWRkNPS1FVbF9vYjRyMWl5ekNQeEd0OW41OHZEajU3T2hUUHJlVURzdUhwLTdnNHNWaGJscHlJMjlsdjAyQklaZ3hXNVJqUkxJQVJSZEtpTTBXd1J6T21vUC1zWHFTeFNFenduSzVXdVBqdXUya1dRd0dfdklhSURoUEt6b0N5dHVWYTY5Y2Y5ZmJSUkJycmZ3dnJRMjRXNzl2Nm1HaEQ4Q2dnMFBhUWdzUkR5Vkw?oc=5) — Wed, 21 Oct 2026 00:01:24 GMT
+  Google overhauls software engineer interviews with AI fluency checks TechGig
 - [Top 22 Highest Paying Software Engineer Jobs - Simplilearn.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE5fdDlHUXZCNHBZSzRQRXM0V25TcDdpMzVXNmtpdHZfX2ZqTTVWS2c5SUpkNkFsMmlNT2FBRXlUcWxoLVFQX3E5aFlfNk5vMVFtc1o2V0g5M1B4SXJUWHZWN2RLQTJ4MzZNWGNxY0o1SFN0bHZGSXU5S0dMTEMwUQ?oc=5) — Thu, 08 Oct 2026 07:00:00 GMT
   Top 22 Highest Paying Software Engineer Jobs Simplilearn.com
-- [7 High-Income Skills Worth Learning in 2026 - Coursera](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yTHdtWWlTdl80Z0szUGZDenBZcDN4U2VUWmJzbDFqSEQ5b2lmYVMyWVphQzMxQnJZTEJwM1lPUExEQm41TnFUaTJvTmhOR1ptX2RRdnNkSXpybEJCSWQwcV9VdGVmZw?oc=5) — Mon, 19 Oct 2026 16:21:00 GMT
+- [7 High-Income Skills Worth Learning in 2026 - Coursera](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yTHdtWWlTdl80Z0szUGZDenBZcDN4U2VUWmJzbDFqSEQ5b2lmYVMyWVphQzMxQnJZTEJwM1lPUExEQm41TnFUaTJvTmhOR1ptX2RRdnNkSXpybEJCSWQwcV9VdGVmZw?oc=5) — Mon, 19 Oct 2026 07:00:00 GMT
   7 High-Income Skills Worth Learning in 2026 Coursera
 
 ## Software engineering interview preparation
@@ -49,10 +49,6 @@ Source: https://news.google.com/rss/search?q=software%20engineer%20backend%20ful
 
 - [Cardboard Hiring 2026: Six Full-Time Design, Engineering and AI Jobs in Bengaluru, India - Global South Opportunities](https://news.google.com/rss/articles/CBMickFVX3lxTFBMVTBGN19GeFZZUlBlS001ZHhYZHRnY0d1SDAxY1Z3WXZ3YU13V2dxSm40cE15RVBNSVFCejR2akdwbm4zVU4zdkRweWtpXzNvX3lIQmZUR2dTRFhvUGoybEgwbWFMUUVQbmJjX0NyZHctQQ?oc=5) — Sat, 24 Oct 2026 15:11:45 GMT
   Cardboard Hiring 2026: Six Full-Time Design, Engineering and AI Jobs in Bengaluru, India Global South Opportunities
-- [Jobs in Singapore: “How I went from building apps in the classroom to software development at a global IT firm” - Singapore Economic Development Board (EDB)](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeUl4WE0xWjFVcmF2cGxzaDlybDhXVVJKTGU0MGVrdjJTNHo5QkVJbDVlNnZFSldFNGN2X0loMURyUTNxMVlva3FnczNsOVhnNnlDeVRhLWZNWWNuWnlUSl9UYWhKZXRpRWx6N0JmazVOWlp1NXo4WGV0QWZXZ3lHTjZDai1kZVpZdXRqM2oxQWU0TjY4RWd6X3pLRTlJcmZlSkxfOU1oTzBXVU9zU25NQVE4N3VuTHRObzJWU01ubHBGWVkwa3NlZms4STBnNWROR2FIQlBoeGoxaXFvMEtBbFlNX2V1MkU?oc=5) — Thu, 22 Oct 2026 07:14:12 GMT
-  Jobs in Singapore: “How I went from building apps in the classroom to software development at a global IT firm” Singapore Economic Development Board (EDB)
-- [5 Leading Full-Stack Development Companies Worldwide in 2026 - Techloy](https://news.google.com/rss/articles/CBMijgFBVV95cUxQTTZzd1hvRjNrUnNiU1FxZ283VzhtZ3FaN2NEaFJ5SFZGVi1iQkRNX3BuX3BmYUgtNUxQbzBOSnoyTFh5MEpHYjZ1M2hQZEFTQWdFQmFMa2FWMERURlp0VXI3c1Fpd1VzVEZ0MFZuZG5kRXpCVWJrTG50TG41bWU4dHUyaXAwdl93RlRBN3Zn?oc=5) — Wed, 07 Oct 2026 07:00:00 GMT
-  5 Leading Full-Stack Development Companies Worldwide in 2026 Techloy
 
 ## Stable study resources
 
