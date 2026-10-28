@@ -1,16 +1,16 @@
 # Daily Study Coach
 
-Generated: 2026-10-27T20:11:36+00:00 UTC
+Generated: 2026-10-28T20:28:09+00:00 UTC
 
 > Free deterministic coaching mode. No OpenAI API key is needed. Tasks and examples are prepared from a built-in curriculum; progress is only personalized when private Gist sync is configured.
 
 ## Today's Java DSA challenge
 
-**Word Break** · Pattern: Dynamic programming
+**Rotting Oranges** · Pattern: Multi-source BFS
 
-Define reachable prefixes and discuss optimization.
+Start BFS from all rotten cells and count minutes.
 
-Practice link: https://leetcode.com/problems/word-break/
+Practice link: https://leetcode.com/problems/rotting-oranges/
 
 ## 90-minute plan
 
@@ -33,4 +33,4 @@ No private cloud progress was available to this run. Configure private Gist sync
 
 ## Next action
 
-Start a 35-minute timed attempt on [Word Break](https://leetcode.com/problems/word-break/). Do not mark it complete until you have solved and tested it.
+Start a 35-minute timed attempt on [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/). Do not mark it complete until you have solved and tested it.
