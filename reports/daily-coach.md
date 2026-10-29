@@ -1,16 +1,16 @@
 # Daily Study Coach
 
-Generated: 2026-10-28T20:28:09+00:00 UTC
+Generated: 2026-10-29T20:27:29+00:00 UTC
 
 > Free deterministic coaching mode. No OpenAI API key is needed. Tasks and examples are prepared from a built-in curriculum; progress is only personalized when private Gist sync is configured.
 
 ## Today's Java DSA challenge
 
-**Rotting Oranges** · Pattern: Multi-source BFS
+**Daily Temperatures** · Pattern: Monotonic stack
 
-Start BFS from all rotten cells and count minutes.
+Explain why unresolved indices stay on the stack.
 
-Practice link: https://leetcode.com/problems/rotting-oranges/
+Practice link: https://leetcode.com/problems/daily-temperatures/
 
 ## 90-minute plan
 
@@ -33,4 +33,4 @@ No private cloud progress was available to this run. Configure private Gist sync
 
 ## Next action
 
-Start a 35-minute timed attempt on [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/). Do not mark it complete until you have solved and tested it.
+Start a 35-minute timed attempt on [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/). Do not mark it complete until you have solved and tested it.
