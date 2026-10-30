@@ -1,16 +1,16 @@
 # Daily Study Coach
 
-Generated: 2026-10-29T20:27:29+00:00 UTC
+Generated: 2026-10-30T19:59:32+00:00 UTC
 
 > Free deterministic coaching mode. No OpenAI API key is needed. Tasks and examples are prepared from a built-in curriculum; progress is only personalized when private Gist sync is configured.
 
 ## Today's Java DSA challenge
 
-**Daily Temperatures** · Pattern: Monotonic stack
+**Subarray Sum Equals K** · Pattern: Prefix sum + hash map
 
-Explain why unresolved indices stay on the stack.
+Count prior prefix sums, including the initial zero prefix.
 
-Practice link: https://leetcode.com/problems/daily-temperatures/
+Practice link: https://leetcode.com/problems/subarray-sum-equals-k/
 
 ## 90-minute plan
 
@@ -33,4 +33,4 @@ No private cloud progress was available to this run. Configure private Gist sync
 
 ## Next action
 
-Start a 35-minute timed attempt on [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/). Do not mark it complete until you have solved and tested it.
+Start a 35-minute timed attempt on [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/). Do not mark it complete until you have solved and tested it.
