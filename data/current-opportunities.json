@@ -11,7 +11,7 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/137126335204991686-senior-software-engineer-full-stack?location=India&q=&sort_by=date&src=Online%2FJob+Board%2Findeed",
       "checked_via": "Official Google Careers listing",
       "automated_check": {
-        "checked_at": "2026-10-29T08:48:38+00:00",
+        "checked_at": "2026-10-30T08:53:15+00:00",
         "http_status": 200,
         "status": "title_found",
         "detail": "The official page contains the role title. Confirm the Apply option and eligibility manually."
@@ -26,7 +26,7 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/131572375555580614-software-engineer-iii-full-stack-cloud?hl=en&location=India&page=1&q=Software+Engineer+III",
       "checked_via": "Official Google Careers listing",
       "automated_check": {
-        "checked_at": "2026-10-29T08:48:38+00:00",
+        "checked_at": "2026-10-30T08:53:15+00:00",
         "http_status": 200,
         "status": "title_found",
         "detail": "The official page contains the role title. Confirm the Apply option and eligibility manually."
@@ -41,7 +41,7 @@
       "url": "https://www.atlassian.com/company/careers/details/25540",
       "checked_via": "Official Atlassian job details",
       "automated_check": {
-        "checked_at": "2026-10-29T08:48:38+00:00",
+        "checked_at": "2026-10-30T08:53:15+00:00",
         "http_status": 200,
         "status": "title_found",
         "detail": "The official page contains the role title. Confirm the Apply option and eligibility manually."
@@ -56,7 +56,7 @@
       "url": "https://www.atlassian.com/company/careers/details/25700",
       "checked_via": "Official Atlassian job details",
       "automated_check": {
-        "checked_at": "2026-10-29T08:48:38+00:00",
+        "checked_at": "2026-10-30T08:53:15+00:00",
         "http_status": 200,
         "status": "manual_check",
         "detail": "The page responded, but automated text matching could not confirm the role title."
@@ -71,12 +71,12 @@
       "url": "https://careers.microsoft.com/v2/global/en/locations/india.html",
       "checked_via": "Official Microsoft India careers page",
       "automated_check": {
-        "checked_at": "2026-10-29T08:48:38+00:00",
+        "checked_at": "2026-10-30T08:53:15+00:00",
         "http_status": 200,
         "status": "manual_check",
         "detail": "The page responded, but automated text matching could not confirm the role title."
       }
     }
   ],
-  "last_automated_check": "2026-10-29T08:48:38+00:00"
+  "last_automated_check": "2026-10-30T08:53:15+00:00"
 }
