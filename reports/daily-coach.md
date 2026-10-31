@@ -1,16 +1,16 @@
 # Daily Study Coach
 
-Generated: 2026-10-30T19:59:32+00:00 UTC
+Generated: 2026-10-31T19:27:38+00:00 UTC
 
 > Free deterministic coaching mode. No OpenAI API key is needed. Tasks and examples are prepared from a built-in curriculum; progress is only personalized when private Gist sync is configured.
 
 ## Today's Java DSA challenge
 
-**Subarray Sum Equals K** · Pattern: Prefix sum + hash map
+**Two Sum** · Pattern: Hash map
 
-Count prior prefix sums, including the initial zero prefix.
+Return indices of two values that add to a target. Explain why one pass works.
 
-Practice link: https://leetcode.com/problems/subarray-sum-equals-k/
+Practice link: https://leetcode.com/problems/two-sum/
 
 ## 90-minute plan
 
@@ -33,4 +33,4 @@ No private cloud progress was available to this run. Configure private Gist sync
 
 ## Next action
 
-Start a 35-minute timed attempt on [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/). Do not mark it complete until you have solved and tested it.
+Start a 35-minute timed attempt on [Two Sum](https://leetcode.com/problems/two-sum/). Do not mark it complete until you have solved and tested it.
