@@ -1,6 +1,6 @@
 # Daily Career Research
 
-Updated: 2026-11-01T09:51:01+00:00 UTC
+Updated: 2026-11-02T10:11:36+00:00 UTC
 
 > Daily research leads from items published in the last 21 days, not guaranteed vacancies. Verify roles and claims on the linked source before acting.
 
@@ -16,8 +16,6 @@ Source: https://news.google.com/rss/search?q=Google%20software%20engineer%20jobs
 
 - [Google overhauls software engineer interviews with AI fluency checks - TechGig](https://news.google.com/rss/articles/CBMitwFBVV95cUxPanIxN3JHTHRiSENvMzgzSFMxWEhubHYtR0xGaXpCN21rUHlURGtlMEJfRzdGcDktdGJnODNrSmxoSnFRUTNXRUV3R0Z3QUp5Ylp4aFhKV1NrWnpHbGw2UExwMk1FWGVEdWYtYVAyMVdNU2dBU3pWZ1IyRm8xOVFnSXY3Y2o3YXlnQnh1cm54Z0duc2VlU2kyMUlTckxJbktwTUxkYkZGUnNxcE44Z05jTmJEaV9qVlHSAbwBQVVfeXFMTnJVMjYyZXlWRkNPS1FVbF9vYjRyMWl5ekNQeEd0OW41OHZEajU3T2hUUHJlVURzdUhwLTdnNHNWaGJscHlJMjlsdjAyQklaZ3hXNVJqUkxJQVJSZEtpTTBXd1J6T21vUC1zWHFTeFNFenduSzVXdVBqdXUya1dRd0dfdklhSURoUEt6b0N5dHVWYTY5Y2Y5ZmJSUkJycmZ3dnJRMjRXNzl2Nm1HaEQ4Q2dnMFBhUWdzUkR5Vkw?oc=5) — Wed, 21 Oct 2026 07:00:00 GMT
   Google overhauls software engineer interviews with AI fluency checks TechGig
-- [Google DeepMind is hiring engineers with ‘no degree required’: Pay up to Rs 10 crore - Education Times](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNS1WRlhEMG1ZWEdLVzItQ25RQjZhRW1NWDBfOV9NTGg4Y2plU3JHbFlhSGpjNi1uRmlnY2JWUk45d1ViZmNDbUV5eVVKQ3dQaWpVODFFYkYyZml0OGRSaGdUNWxCQUpWYm4zTExZTkNDeVdjT3NkSjBUUTZaZHRzSUZ6VDZPRXRFdTJOMzAxRU5CZk9TQ0xvM2w1UzJycnp3YnFmVmtHZ3BidE01NjhOMTlzdmRaaWFRbGEwV05fTXlLWF9zeDBwM3ctUktRcUNTbWJzcklSaHozbG8?oc=5) — Mon, 12 Oct 2026 07:00:00 GMT
-  Google DeepMind is hiring engineers with ‘no degree required’: Pay up to Rs 10 crore Education Times
 - [88 per cent Indian firms expect demand for AI-focused engineers to rise by 2030 - TechGig](https://news.google.com/rss/articles/CBMizAFBVV95cUxORFdpSXlNNnc4VUl3aUluWDl2amluOUxLd2dKNEtodDBzMG1uWHdnN2wxbjV4NXZEMnZGbHZEUWktLVJpZGhsS0xXa1NxZHM5QzdRSm9vaElqS0lZbDN4cWNBTVFuRDMxN3Vob29acVhrOGI1NWZ4MXFZdWV1WnZHdGlCUzdOQ0FOaV9tNnF5dVlRNzVvY19DQmdWRzJBVUlsMHhPcU9jeWxGcWFoZHVrb3k1b1lzTGdPaEJCc1FSeHRnLTBuOWVQY0tpTGPSAcgBQVVfeXFMUE51cTVzOUlVODlWUXFCZUdHVnljR3NQZlRVVUZIdVZZSU9TY205M0xDUEFXd2VlT25XNllLeXN2TTFiUWpGQWl0YVB6QnlYVUNtaHpuc05YSXhVcTFVMVpxR0FLTXQ2NVF4MVhTX0xZc0Fkc3FDQ194MTVZdHg1MTMwSDRCT0xXazNYbFdoT1N2ZDl3S0J1OENxRXRkZEZYblNGOHotQVFITG9XRU5vU01udkpCOVFZVkFlTUE4ODE5WElyYnRrSUg?oc=5) — Sat, 24 Oct 2026 07:00:00 GMT
   88 per cent Indian firms expect demand for AI-focused engineers to rise by 2030 TechGig
 - [7 High-Income Skills Worth Learning in 2026 - Coursera](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yTHdtWWlTdl80Z0szUGZDenBZcDN4U2VUWmJzbDFqSEQ5b2lmYVMyWVphQzMxQnJZTEJwM1lPUExEQm41TnFUaTJvTmhOR1ptX2RRdnNkSXpybEJCSWQwcV9VdGVmZw?oc=5) — Mon, 19 Oct 2026 07:00:00 GMT
@@ -36,8 +34,6 @@ Source: https://news.google.com/rss/search?q=Google%20engineering%20hiring%20sof
 
 Source: https://news.google.com/rss/search?q=software%20engineering%20interview%20preparation%20DSA%20system%20design&hl=en-IN&gl=IN&ceid=IN:en
 
-- [DSA Learning Roadmap: From Beginner to Expert (2026) - Coursera](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pVWxwTmtUNDNoNE1WY01mdXhwakk1bXBockdRQS1QUzZyTHVVcHhrRG1pQXhQLXRDdGNRa0JTWlVkUl8tVzRRWExNNXBpNjYtUUxHVE05YnBiby1YTTA1SDRaYzZYQQ?oc=5) — Wed, 28 Oct 2026 14:32:00 GMT
-  DSA Learning Roadmap: From Beginner to Expert (2026) Coursera
 - [2. Why Is LPU’s Mechanical Engineering Curriculum Industry-Aligned? - LPU](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ0hHSHZsMm1JdlF1MThPRUQ4R3V5UjVrSUNtbHFSeTRRZEcwazNZSDhFeXZLSDVtN2k0Vmk1RjNGR2h4M0g5TUVnVmxQeGVvMGhoRnBsaUdPYVFtOTBvcW1iTEdmSzI2NG5LQWwtUWlhTTFrV2xud1VoRDJVdUlfVUtselFmZHVkT0pxVkNDUGs2TlFzbGI4RHF0Z2R6Q1FBT3ozTQ?oc=5) — Thu, 22 Oct 2026 07:00:00 GMT
   2. Why Is LPU’s Mechanical Engineering Curriculum Industry-Aligned? LPU
 - [Top 65+ HCL Interview Questions and Answers for 2027 - Simplilearn.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE90RXVYOG52c2dwSWlmR01pQWh5bTAyemhuMXJBMjBpR0F1djRubmRmbl96Vm9HZTRSeC14VWxiZ3NPVHVpcXdXaENuZzBQYWRxUWNnVHF5eEdxNTJvdS0zQ29WMy1MYkp2N2Q0?oc=5) — Mon, 19 Oct 2026 07:00:00 GMT
@@ -49,8 +45,7 @@ Source: https://news.google.com/rss/search?q=software%20engineering%20interview%
 
 Source: https://news.google.com/rss/search?q=software%20engineer%20backend%20full%20stack%20jobs%20India&hl=en-IN&gl=IN&ceid=IN:en
 
-- [Cardboard Hiring 2026: Six Full-Time Design, Engineering and AI Jobs in Bengaluru, India - Global South Opportunities](https://news.google.com/rss/articles/CBMickFVX3lxTFBMVTBGN19GeFZZUlBlS001ZHhYZHRnY0d1SDAxY1Z3WXZ3YU13V2dxSm40cE15RVBNSVFCejR2akdwbm4zVU4zdkRweWtpXzNvX3lIQmZUR2dTRFhvUGoybEgwbWFMUUVQbmJjX0NyZHctQQ?oc=5) — Sat, 24 Oct 2026 15:11:45 GMT
-  Cardboard Hiring 2026: Six Full-Time Design, Engineering and AI Jobs in Bengaluru, India Global South Opportunities
+No items could be retrieved on this run. Status: checked.
 
 ## Stable study resources
 
