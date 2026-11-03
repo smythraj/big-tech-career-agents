@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-02T10:11:36+00:00",
+  "checked_at": "2026-11-03T10:12:48+00:00",
   "timezone": "UTC",
   "google_careers_url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer&location=India",
   "feeds": [
@@ -56,6 +56,12 @@
       "source": "https://news.google.com/rss/search?q=software%20engineering%20interview%20preparation%20DSA%20system%20design&hl=en-IN&gl=IN&ceid=IN:en",
       "status": "checked",
       "items": [
+        {
+          "title": "DSA Learning Roadmap: From Beginner to Expert (2026) - Coursera",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pVWxwTmtUNDNoNE1WY01mdXhwakk1bXBockdRQS1QUzZyTHVVcHhrRG1pQXhQLXRDdGNRa0JTWlVkUl8tVzRRWExNNXBpNjYtUUxHVE05YnBiby1YTTA1SDRaYzZYQQ?oc=5",
+          "published": "Wed, 28 Oct 2026 14:32:00 GMT",
+          "summary": "DSA Learning Roadmap: From Beginner to Expert (2026) Coursera"
+        },
         {
           "title": "2. Why Is LPU’s Mechanical Engineering Curriculum Industry-Aligned? - LPU",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ0hHSHZsMm1JdlF1MThPRUQ4R3V5UjVrSUNtbHFSeTRRZEcwazNZSDhFeXZLSDVtN2k0Vmk1RjNGR2h4M0g5TUVnVmxQeGVvMGhoRnBsaUdPYVFtOTBvcW1iTEdmSzI2NG5LQWwtUWlhTTFrV2xud1VoRDJVdUlfVUtselFmZHVkT0pxVkNDUGs2TlFzbGI4RHF0Z2R6Q1FBT3ozTQ?oc=5",
@@ -120,5 +126,5 @@
     "page_title_detected": "careers",
     "message": "Official search page responded. This does not confirm that any specific role is open."
   },
-  "news_item_count": 8
+  "news_item_count": 9
 }

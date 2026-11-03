@@ -1,6 +1,6 @@
 # Daily Career Research
 
-Updated: 2026-11-02T10:11:36+00:00 UTC
+Updated: 2026-11-03T10:12:48+00:00 UTC
 
 > Daily research leads from items published in the last 21 days, not guaranteed vacancies. Verify roles and claims on the linked source before acting.
 
@@ -34,6 +34,8 @@ Source: https://news.google.com/rss/search?q=Google%20engineering%20hiring%20sof
 
 Source: https://news.google.com/rss/search?q=software%20engineering%20interview%20preparation%20DSA%20system%20design&hl=en-IN&gl=IN&ceid=IN:en
 
+- [DSA Learning Roadmap: From Beginner to Expert (2026) - Coursera](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pVWxwTmtUNDNoNE1WY01mdXhwakk1bXBockdRQS1QUzZyTHVVcHhrRG1pQXhQLXRDdGNRa0JTWlVkUl8tVzRRWExNNXBpNjYtUUxHVE05YnBiby1YTTA1SDRaYzZYQQ?oc=5) — Wed, 28 Oct 2026 14:32:00 GMT
+  DSA Learning Roadmap: From Beginner to Expert (2026) Coursera
 - [2. Why Is LPU’s Mechanical Engineering Curriculum Industry-Aligned? - LPU](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ0hHSHZsMm1JdlF1MThPRUQ4R3V5UjVrSUNtbHFSeTRRZEcwazNZSDhFeXZLSDVtN2k0Vmk1RjNGR2h4M0g5TUVnVmxQeGVvMGhoRnBsaUdPYVFtOTBvcW1iTEdmSzI2NG5LQWwtUWlhTTFrV2xud1VoRDJVdUlfVUtselFmZHVkT0pxVkNDUGs2TlFzbGI4RHF0Z2R6Q1FBT3ozTQ?oc=5) — Thu, 22 Oct 2026 07:00:00 GMT
   2. Why Is LPU’s Mechanical Engineering Curriculum Industry-Aligned? LPU
 - [Top 65+ HCL Interview Questions and Answers for 2027 - Simplilearn.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE90RXVYOG52c2dwSWlmR01pQWh5bTAyemhuMXJBMjBpR0F1djRubmRmbl96Vm9HZTRSeC14VWxiZ3NPVHVpcXdXaENuZzBQYWRxUWNnVHF5eEdxNTJvdS0zQ29WMy1MYkp2N2Q0?oc=5) — Mon, 19 Oct 2026 07:00:00 GMT
