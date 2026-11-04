@@ -1,6 +1,6 @@
 # System Design Coach
 
-Generated: 2026-10-28T20:07:54+00:00 UTC
+Generated: 2026-11-04T21:06:25+00:00 UTC
 
 > Free deterministic coaching mode. No OpenAI API key is needed. Tasks and examples are prepared from a built-in curriculum; progress is only personalized when private Gist sync is configured.
 
