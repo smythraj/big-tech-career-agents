@@ -1,16 +1,16 @@
 # Daily Study Coach
 
-Generated: 2026-11-03T21:12:08+00:00 UTC
+Generated: 2026-11-04T21:26:06+00:00 UTC
 
 > Free deterministic coaching mode. No OpenAI API key is needed. Tasks and examples are prepared from a built-in curriculum; progress is only personalized when private Gist sync is configured.
 
 ## Today's Java DSA challenge
 
-**Best Time to Buy and Sell Stock** · Pattern: One-pass invariant
+**Product of Array Except Self** · Pattern: Prefix and suffix
 
-Track minimum price so far and best profit.
+Solve without division and explain O(1) extra space excluding output.
 
-Practice link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+Practice link: https://leetcode.com/problems/product-of-array-except-self/
 
 ## 90-minute plan
 
@@ -33,4 +33,4 @@ No private cloud progress was available to this run. Configure private Gist sync
 
 ## Next action
 
-Start a 35-minute timed attempt on [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/). Do not mark it complete until you have solved and tested it.
+Start a 35-minute timed attempt on [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/). Do not mark it complete until you have solved and tested it.
