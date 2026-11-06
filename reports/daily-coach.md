@@ -1,16 +1,16 @@
 # Daily Study Coach
 
-Generated: 2026-11-05T21:31:02+00:00 UTC
+Generated: 2026-11-06T20:59:10+00:00 UTC
 
 > Free deterministic coaching mode. No OpenAI API key is needed. Tasks and examples are prepared from a built-in curriculum; progress is only personalized when private Gist sync is configured.
 
 ## Today's Java DSA challenge
 
-**3Sum** · Pattern: Sorting and two pointers
+**Binary Search** · Pattern: Binary search
 
-Avoid duplicate triplets and explain complexity.
+State the loop invariant and test boundaries.
 
-Practice link: https://leetcode.com/problems/3sum/
+Practice link: https://leetcode.com/problems/binary-search/
 
 ## 90-minute plan
 
@@ -33,4 +33,4 @@ No private cloud progress was available to this run. Configure private Gist sync
 
 ## Next action
 
-Start a 35-minute timed attempt on [3Sum](https://leetcode.com/problems/3sum/). Do not mark it complete until you have solved and tested it.
+Start a 35-minute timed attempt on [Binary Search](https://leetcode.com/problems/binary-search/). Do not mark it complete until you have solved and tested it.
