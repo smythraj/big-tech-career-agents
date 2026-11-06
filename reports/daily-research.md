@@ -1,6 +1,6 @@
 # Daily Career Research
 
-Updated: 2026-11-05T09:59:22+00:00 UTC
+Updated: 2026-11-06T10:01:32+00:00 UTC
 
 > Daily research leads from items published in the last 21 days, not guaranteed vacancies. Verify roles and claims on the linked source before acting.
 
