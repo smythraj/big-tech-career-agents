@@ -1,6 +1,6 @@
 # Daily Career Research
 
-Updated: 2026-11-06T10:01:32+00:00 UTC
+Updated: 2026-11-07T09:21:48+00:00 UTC
 
 > Daily research leads from items published in the last 21 days, not guaranteed vacancies. Verify roles and claims on the linked source before acting.
 
@@ -34,14 +34,15 @@ Source: https://news.google.com/rss/search?q=Google%20engineering%20hiring%20sof
 
 Source: https://news.google.com/rss/search?q=software%20engineering%20interview%20preparation%20DSA%20system%20design&hl=en-IN&gl=IN&ceid=IN:en
 
-- [Top Spring Boot Interview Questions And Answers in 2027 - Simplilearn.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE16a0dTb01LX2E3RGRoRXprRzhISHpWdzVWc3NNSXYtWEdOVHp0dzZfWFR0RTNpN2FVNEpYMW8zQnp0eXFwYmk0VlczNnY2cDlNcnZCLXZnUEF6cmdtQ2NXTWxrRVRaX1ZJMTkzajdoa2JOa3Z6M2c?oc=5) — Mon, 19 Oct 2026 07:00:00 GMT
-  Top Spring Boot Interview Questions And Answers in 2027 Simplilearn.com
+- [DSA Learning Roadmap: From Beginner to Expert (2026) - Coursera](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pVWxwTmtUNDNoNE1WY01mdXhwakk1bXBockdRQS1QUzZyTHVVcHhrRG1pQXhQLXRDdGNRa0JTWlVkUl8tVzRRWExNNXBpNjYtUUxHVE05YnBiby1YTTA1SDRaYzZYQQ?oc=5) — Wed, 28 Oct 2026 07:00:00 GMT
+  DSA Learning Roadmap: From Beginner to Expert (2026) Coursera
 
 ## India software engineering openings
 
 Source: https://news.google.com/rss/search?q=software%20engineer%20backend%20full%20stack%20jobs%20India&hl=en-IN&gl=IN&ceid=IN:en
 
-No items could be retrieved on this run. Status: checked.
+- [Cardboard Hiring 2026: Six Full-Time Design, Engineering and AI Jobs in Bengaluru, India - Global South Opportunities](https://news.google.com/rss/articles/CBMickFVX3lxTFBMVTBGN19GeFZZUlBlS001ZHhYZHRnY0d1SDAxY1Z3WXZ3YU13V2dxSm40cE15RVBNSVFCejR2akdwbm4zVU4zdkRweWtpXzNvX3lIQmZUR2dTRFhvUGoybEgwbWFMUUVQbmJjX0NyZHctQQ?oc=5) — Sat, 24 Oct 2026 07:00:00 GMT
+  Cardboard Hiring 2026: Six Full-Time Design, Engineering and AI Jobs in Bengaluru, India Global South Opportunities
 
 ## Stable study resources
 

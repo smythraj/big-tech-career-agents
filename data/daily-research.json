@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-06T10:01:32+00:00",
+  "checked_at": "2026-11-07T09:21:48+00:00",
   "timezone": "UTC",
   "google_careers_url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer&location=India",
   "feeds": [
@@ -57,10 +57,10 @@
       "status": "checked",
       "items": [
         {
-          "title": "Top Spring Boot Interview Questions And Answers in 2027 - Simplilearn.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16a0dTb01LX2E3RGRoRXprRzhISHpWdzVWc3NNSXYtWEdOVHp0dzZfWFR0RTNpN2FVNEpYMW8zQnp0eXFwYmk0VlczNnY2cDlNcnZCLXZnUEF6cmdtQ2NXTWxrRVRaX1ZJMTkzajdoa2JOa3Z6M2c?oc=5",
-          "published": "Mon, 19 Oct 2026 07:00:00 GMT",
-          "summary": "Top Spring Boot Interview Questions And Answers in 2027 Simplilearn.com"
+          "title": "DSA Learning Roadmap: From Beginner to Expert (2026) - Coursera",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pVWxwTmtUNDNoNE1WY01mdXhwakk1bXBockdRQS1QUzZyTHVVcHhrRG1pQXhQLXRDdGNRa0JTWlVkUl8tVzRRWExNNXBpNjYtUUxHVE05YnBiby1YTTA1SDRaYzZYQQ?oc=5",
+          "published": "Wed, 28 Oct 2026 07:00:00 GMT",
+          "summary": "DSA Learning Roadmap: From Beginner to Expert (2026) Coursera"
         }
       ],
       "error": "",
@@ -70,7 +70,14 @@
       "topic": "India software engineering openings",
       "source": "https://news.google.com/rss/search?q=software%20engineer%20backend%20full%20stack%20jobs%20India&hl=en-IN&gl=IN&ceid=IN:en",
       "status": "checked",
-      "items": [],
+      "items": [
+        {
+          "title": "Cardboard Hiring 2026: Six Full-Time Design, Engineering and AI Jobs in Bengaluru, India - Global South Opportunities",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMVTBGN19GeFZZUlBlS001ZHhYZHRnY0d1SDAxY1Z3WXZ3YU13V2dxSm40cE15RVBNSVFCejR2akdwbm4zVU4zdkRweWtpXzNvX3lIQmZUR2dTRFhvUGoybEgwbWFMUUVQbmJjX0NyZHctQQ?oc=5",
+          "published": "Sat, 24 Oct 2026 07:00:00 GMT",
+          "summary": "Cardboard Hiring 2026: Six Full-Time Design, Engineering and AI Jobs in Bengaluru, India Global South Opportunities"
+        }
+      ],
       "error": "",
       "http_status": 200
     }
@@ -108,5 +115,5 @@
     "page_title_detected": "careers",
     "message": "Official search page responded. This does not confirm that any specific role is open."
   },
-  "news_item_count": 6
+  "news_item_count": 7
 }
