@@ -1,16 +1,16 @@
 # Daily Study Coach
 
-Generated: 2026-11-07T19:32:21+00:00 UTC
+Generated: 2026-11-08T19:52:24+00:00 UTC
 
 > Free deterministic coaching mode. No OpenAI API key is needed. Tasks and examples are prepared from a built-in curriculum; progress is only personalized when private Gist sync is configured.
 
 ## Today's Java DSA challenge
 
-**Search in Rotated Sorted Array** · Pattern: Modified binary search
+**Valid Parentheses** · Pattern: Stack
 
-Identify which half is sorted on each iteration.
+Handle mismatched closing brackets and empty input.
 
-Practice link: https://leetcode.com/problems/search-in-rotated-sorted-array/
+Practice link: https://leetcode.com/problems/valid-parentheses/
 
 ## 90-minute plan
 
@@ -33,4 +33,4 @@ No private cloud progress was available to this run. Configure private Gist sync
 
 ## Next action
 
-Start a 35-minute timed attempt on [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/). Do not mark it complete until you have solved and tested it.
+Start a 35-minute timed attempt on [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/). Do not mark it complete until you have solved and tested it.
