@@ -1,6 +1,6 @@
 # Daily Career Research
 
-Updated: 2026-11-07T09:21:48+00:00 UTC
+Updated: 2026-11-08T09:39:11+00:00 UTC
 
 > Daily research leads from items published in the last 21 days, not guaranteed vacancies. Verify roles and claims on the linked source before acting.
 
@@ -36,6 +36,8 @@ Source: https://news.google.com/rss/search?q=software%20engineering%20interview%
 
 - [DSA Learning Roadmap: From Beginner to Expert (2026) - Coursera](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pVWxwTmtUNDNoNE1WY01mdXhwakk1bXBockdRQS1QUzZyTHVVcHhrRG1pQXhQLXRDdGNRa0JTWlVkUl8tVzRRWExNNXBpNjYtUUxHVE05YnBiby1YTTA1SDRaYzZYQQ?oc=5) — Wed, 28 Oct 2026 07:00:00 GMT
   DSA Learning Roadmap: From Beginner to Expert (2026) Coursera
+- [Top Spring Boot Interview Questions And Answers in 2027 - Simplilearn.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE16a0dTb01LX2E3RGRoRXprRzhISHpWdzVWc3NNSXYtWEdOVHp0dzZfWFR0RTNpN2FVNEpYMW8zQnp0eXFwYmk0VlczNnY2cDlNcnZCLXZnUEF6cmdtQ2NXTWxrRVRaX1ZJMTkzajdoa2JOa3Z6M2c?oc=5) — Mon, 19 Oct 2026 07:00:00 GMT
+  Top Spring Boot Interview Questions And Answers in 2027 Simplilearn.com
 
 ## India software engineering openings
 
