@@ -1,16 +1,16 @@
 # Daily Study Coach
 
-Generated: 2026-11-09T23:49:41+00:00 UTC
+Generated: 2026-11-10T21:23:15+00:00 UTC
 
 > Free deterministic coaching mode. No OpenAI API key is needed. Tasks and examples are prepared from a built-in curriculum; progress is only personalized when private Gist sync is configured.
 
 ## Today's Java DSA challenge
 
-**Min Stack** · Pattern: Stack design
+**Reverse Linked List** · Pattern: Linked list
 
-Support push, pop, top and minimum in O(1).
+Explain iterative pointer updates and recursive alternative.
 
-Practice link: https://leetcode.com/problems/min-stack/
+Practice link: https://leetcode.com/problems/reverse-linked-list/
 
 ## 90-minute plan
 
@@ -33,4 +33,4 @@ No private cloud progress was available to this run. Configure private Gist sync
 
 ## Next action
 
-Start a 35-minute timed attempt on [Min Stack](https://leetcode.com/problems/min-stack/). Do not mark it complete until you have solved and tested it.
+Start a 35-minute timed attempt on [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/). Do not mark it complete until you have solved and tested it.
