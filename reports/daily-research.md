@@ -1,6 +1,6 @@
 # Daily Career Research
 
-Updated: 2026-11-10T10:33:27+00:00 UTC
+Updated: 2026-11-11T09:56:33+00:00 UTC
 
 > Daily research leads from items published in the last 21 days, not guaranteed vacancies. Verify roles and claims on the linked source before acting.
 
@@ -14,8 +14,8 @@ Official search page responded. This does not confirm that any specific role is 
 
 Source: https://news.google.com/rss/search?q=Google%20software%20engineer%20jobs%20India&hl=en-IN&gl=IN&ceid=IN:en
 
-- [Google overhauls software engineer interviews with AI fluency checks - TechGig](https://news.google.com/rss/articles/CBMitwFBVV95cUxPanIxN3JHTHRiSENvMzgzSFMxWEhubHYtR0xGaXpCN21rUHlURGtlMEJfRzdGcDktdGJnODNrSmxoSnFRUTNXRUV3R0Z3QUp5Ylp4aFhKV1NrWnpHbGw2UExwMk1FWGVEdWYtYVAyMVdNU2dBU3pWZ1IyRm8xOVFnSXY3Y2o3YXlnQnh1cm54Z0duc2VlU2kyMUlTckxJbktwTUxkYkZGUnNxcE44Z05jTmJEaV9qVlHSAbwBQVVfeXFMTnJVMjYyZXlWRkNPS1FVbF9vYjRyMWl5ekNQeEd0OW41OHZEajU3T2hUUHJlVURzdUhwLTdnNHNWaGJscHlJMjlsdjAyQklaZ3hXNVJqUkxJQVJSZEtpTTBXd1J6T21vUC1zWHFTeFNFenduSzVXdVBqdXUya1dRd0dfdklhSURoUEt6b0N5dHVWYTY5Y2Y5ZmJSUkJycmZ3dnJRMjRXNzl2Nm1HaEQ4Q2dnMFBhUWdzUkR5Vkw?oc=5) — Wed, 21 Oct 2026 07:00:00 GMT
-  Google overhauls software engineer interviews with AI fluency checks TechGig
+- [IBM Consulting ends immigration sponsorship for most roles - TechGig](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMlY2UDJVN0FhLUVuZkNpSlRWSThFOS0xTjZQTVpwTEowRGxLNGROZnRsVmVadHJBdmg3T2p2TnJoN2Rnejd6YlVwcnJCaENCcWFkN0ZVdm9JNmNIdlhhVllBZmVkbkVVaXZQam1ZN1VDVkpSYkdjMFZyTVlzWkQzb2NIYkttY04xRHRLcDRoU2ZRblFaYlhrTk1sa2RQLTNmWnEwVXpUTTU4QQ?oc=5) — Wed, 11 Nov 2026 01:27:54 GMT
+  IBM Consulting ends immigration sponsorship for most roles TechGig
 - [Highest Paying Jobs in India: Roles, Salaries, and How to Become - Simplilearn.com](https://news.google.com/rss/articles/CBMickFVX3lxTE9ZR2dmbGI3eUhWN1JuMDJqU09MMV9MLVdaRERVS2N5dVZVR0VGNDRxLWVNcVlHdm1tS2JnUHJpZkk5VDFFMjU1bkpDUFBuRDcweldqZkRkWFZFeE5kYzdlSHAwMFhpRW1KYnFwMmJfZExUQQ?oc=5) — Tue, 27 Oct 2026 07:00:00 GMT
   Highest Paying Jobs in India: Roles, Salaries, and How to Become Simplilearn.com
 
@@ -23,10 +23,7 @@ Source: https://news.google.com/rss/search?q=Google%20software%20engineer%20jobs
 
 Source: https://news.google.com/rss/search?q=Google%20engineering%20hiring%20software%20careers&hl=en-IN&gl=IN&ceid=IN:en
 
-- [Google overhauls software engineer interviews with AI fluency checks - TechGig](https://news.google.com/rss/articles/CBMitwFBVV95cUxPanIxN3JHTHRiSENvMzgzSFMxWEhubHYtR0xGaXpCN21rUHlURGtlMEJfRzdGcDktdGJnODNrSmxoSnFRUTNXRUV3R0Z3QUp5Ylp4aFhKV1NrWnpHbGw2UExwMk1FWGVEdWYtYVAyMVdNU2dBU3pWZ1IyRm8xOVFnSXY3Y2o3YXlnQnh1cm54Z0duc2VlU2kyMUlTckxJbktwTUxkYkZGUnNxcE44Z05jTmJEaV9qVlHSAbwBQVVfeXFMTnJVMjYyZXlWRkNPS1FVbF9vYjRyMWl5ekNQeEd0OW41OHZEajU3T2hUUHJlVURzdUhwLTdnNHNWaGJscHlJMjlsdjAyQklaZ3hXNVJqUkxJQVJSZEtpTTBXd1J6T21vUC1zWHFTeFNFenduSzVXdVBqdXUya1dRd0dfdklhSURoUEt6b0N5dHVWYTY5Y2Y5ZmJSUkJycmZ3dnJRMjRXNzl2Nm1HaEQ4Q2dnMFBhUWdzUkR5Vkw?oc=5) — Wed, 21 Oct 2026 07:00:00 GMT
-  Google overhauls software engineer interviews with AI fluency checks TechGig
-- [10 Companies Hiring New Graduates in Austin - Built In Austin](https://news.google.com/rss/articles/CBMiggFBVV95cUxNbGtwWnQ2ZlpLWENBdmpXMGFXTW1vY0pQU2NOV3M4R0RRWVBRYlNJYWl0cnp4b2hYVGdVYWN1cFFlV1FlbFNqcktsWldzQ3ZVaHJtcWVGTlhxMF93aV9CSGdTQllxdmFhRGlMSUdGYVZnS0RWdldhUjdtajhJNjVMQ2h3?oc=5) — Mon, 09 Nov 2026 23:16:59 GMT
-  10 Companies Hiring New Graduates in Austin Built In Austin
+No items could be retrieved on this run. Status: checked.
 
 ## Software engineering interview preparation
 
@@ -34,6 +31,8 @@ Source: https://news.google.com/rss/search?q=software%20engineering%20interview%
 
 - [DSA Learning Roadmap: From Beginner to Expert (2026) - Coursera](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pVWxwTmtUNDNoNE1WY01mdXhwakk1bXBockdRQS1QUzZyTHVVcHhrRG1pQXhQLXRDdGNRa0JTWlVkUl8tVzRRWExNNXBpNjYtUUxHVE05YnBiby1YTTA1SDRaYzZYQQ?oc=5) — Wed, 28 Oct 2026 07:00:00 GMT
   DSA Learning Roadmap: From Beginner to Expert (2026) Coursera
+- [224 Blog Posts To Learn About Tech Interviews - HackerNoon](https://news.google.com/rss/articles/CBMid0FVX3lxTE5nODlYX2VGQ1duTy04WXM2VGlFSy1HMUtjUWtMMWVrSld6LUNvRTdjUXkteWQ2cUhBdUg3RWNqckdScDctd0xOSnc0TlFIOWh1VldqR1ZxT2x6aF9PYkF3a0hzdTJ3UEQydHd4RTJFTURMaU1kQXln?oc=5) — Wed, 11 Nov 2026 03:04:21 GMT
+  224 Blog Posts To Learn About Tech Interviews HackerNoon
 
 ## India software engineering openings
 
