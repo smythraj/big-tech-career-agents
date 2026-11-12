@@ -1,6 +1,6 @@
 # Daily Career Research
 
-Updated: 2026-11-11T09:56:33+00:00 UTC
+Updated: 2026-11-12T10:25:41+00:00 UTC
 
 > Daily research leads from items published in the last 21 days, not guaranteed vacancies. Verify roles and claims on the linked source before acting.
 
@@ -14,6 +14,8 @@ Official search page responded. This does not confirm that any specific role is 
 
 Source: https://news.google.com/rss/search?q=Google%20software%20engineer%20jobs%20India&hl=en-IN&gl=IN&ceid=IN:en
 
+- [India GCCs boost AI, data, cybersecurity hiring amid talent gap - TechGig](https://news.google.com/rss/articles/CBMirgFBVV95cUxNM0VmOEFBd29vb1I3YmNmNVNNRF85SjBScFVvbnZIdjlueExuTE5oTVU1ZWtET0lzdGRlNjdDWUFoUFE5MkhwNnRVaFhqZmxtZnhTX1ltVFEycGVncTUxTnE0TDdnb2MtV1BkTnFzTHpHNl9BU0JNUWR1TzY3d1N3clBLWDBRbUxxRWViNFMyQ2c3SDNadV83V0s5RG5WMVlpOGU5NWNha25vNndiTmfSAbMBQVVfeXFMUG9IaTliX054N2Mtc3pHcG9ETVp6UHFJeHpSSDVBMHhxZllpY0dCdlB0Qm1uRF91WEIzRkZnVDJaMFdtZFkzN1hFeXc2VzVxM2xWbUJXWHFrQkkxOWdPUTJwMlJxNGJwTDRSXzRsMXAwWDJ5bUduSjJUTkkwODl1dFJkUXFFQWdyYl9TcmwyNjdRVWI4WjVzM1Vrc2pNTWk4UTRfNmRLU2U0SmlPM2ZQMngzY1U?oc=5) — Fri, 06 Nov 2026 10:11:08 GMT
+  India GCCs boost AI, data, cybersecurity hiring amid talent gap TechGig
 - [IBM Consulting ends immigration sponsorship for most roles - TechGig](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMlY2UDJVN0FhLUVuZkNpSlRWSThFOS0xTjZQTVpwTEowRGxLNGROZnRsVmVadHJBdmg3T2p2TnJoN2Rnejd6YlVwcnJCaENCcWFkN0ZVdm9JNmNIdlhhVllBZmVkbkVVaXZQam1ZN1VDVkpSYkdjMFZyTVlzWkQzb2NIYkttY04xRHRLcDRoU2ZRblFaYlhrTk1sa2RQLTNmWnEwVXpUTTU4QQ?oc=5) — Wed, 11 Nov 2026 01:27:54 GMT
   IBM Consulting ends immigration sponsorship for most roles TechGig
 - [Highest Paying Jobs in India: Roles, Salaries, and How to Become - Simplilearn.com](https://news.google.com/rss/articles/CBMickFVX3lxTE9ZR2dmbGI3eUhWN1JuMDJqU09MMV9MLVdaRERVS2N5dVZVR0VGNDRxLWVNcVlHdm1tS2JnUHJpZkk5VDFFMjU1bkpDUFBuRDcweldqZkRkWFZFeE5kYzdlSHAwMFhpRW1KYnFwMmJfZExUQQ?oc=5) — Tue, 27 Oct 2026 07:00:00 GMT
@@ -23,7 +25,8 @@ Source: https://news.google.com/rss/search?q=Google%20software%20engineer%20jobs
 
 Source: https://news.google.com/rss/search?q=Google%20engineering%20hiring%20software%20careers&hl=en-IN&gl=IN&ceid=IN:en
 
-No items could be retrieved on this run. Status: checked.
+- [Software engineer from small town in Bengal lands Rs 54 LPA job at Google without IIT or NIT degree - Moneycontrol.com](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc0dkZDNxT3FlNXF3TmluWkdZeUhObmVzZTdZcmRYNVBNM2ZGeGFzVTI1OGl4T0ZabXFJRld6QV9KWkt6MDlwVmlRdlc5eGp2dkoxQ1BST19GV1lRNk9qdXdHbEx0elJTLTJUZlVRZGh5Y1RfUDlIODNoekRjTHlvRXZkVUdMcVo2Tk05RlpFTFpKUjMxTy1QM3VQQkFnTjhiVmdMZ1c0ZzJMRlZWbjBPbTQ4cVhCZW92WkJkWUlwcHZiVWtKMWR5ekJhUWJwZUZDZlFWVE1HVzROQdIB3wFBVV95cUxNTzJLSG9MbmoxZmxmMDN3X1lld0twMW1FU2QzY1dnVVljYmF2OHFvdTd5d2NwdWotTFNfTC0tcTNKUjJjUDFjMnVlQ3h4Y05HWmdvTC15VmNaYy1vVmZiT0NEcUYyUU1iNnNkVXJNV0JIRHRQajRnV2ZxOEdRSzN0NkYxNl9SNnhUUmVzUUpaY0QtZ2cwcERqVEthRVdZRXZaTG9Sdkx2NXRhVHNBSnd0MHFaQVZYV05nbUVYQWNOVzdNQ3FOTm9oTWZhNl8wZHM0aWM4eFZUbFlZS2NvUHE0?oc=5) — Wed, 11 Nov 2026 10:28:26 GMT
+  Software engineer from small town in Bengal lands Rs 54 LPA job at Google without IIT or NIT degree Moneycontrol.com
 
 ## Software engineering interview preparation
 
