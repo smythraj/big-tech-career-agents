@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-12T10:25:41+00:00",
+  "checked_at": "2026-11-13T10:12:30+00:00",
   "timezone": "UTC",
   "google_careers_url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer&location=India",
   "feeds": [
@@ -8,12 +8,6 @@
       "source": "https://news.google.com/rss/search?q=Google%20software%20engineer%20jobs%20India&hl=en-IN&gl=IN&ceid=IN:en",
       "status": "checked",
       "items": [
-        {
-          "title": "India GCCs boost AI, data, cybersecurity hiring amid talent gap - TechGig",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM0VmOEFBd29vb1I3YmNmNVNNRF85SjBScFVvbnZIdjlueExuTE5oTVU1ZWtET0lzdGRlNjdDWUFoUFE5MkhwNnRVaFhqZmxtZnhTX1ltVFEycGVncTUxTnE0TDdnb2MtV1BkTnFzTHpHNl9BU0JNUWR1TzY3d1N3clBLWDBRbUxxRWViNFMyQ2c3SDNadV83V0s5RG5WMVlpOGU5NWNha25vNndiTmfSAbMBQVVfeXFMUG9IaTliX054N2Mtc3pHcG9ETVp6UHFJeHpSSDVBMHhxZllpY0dCdlB0Qm1uRF91WEIzRkZnVDJaMFdtZFkzN1hFeXc2VzVxM2xWbUJXWHFrQkkxOWdPUTJwMlJxNGJwTDRSXzRsMXAwWDJ5bUduSjJUTkkwODl1dFJkUXFFQWdyYl9TcmwyNjdRVWI4WjVzM1Vrc2pNTWk4UTRfNmRLU2U0SmlPM2ZQMngzY1U?oc=5",
-          "published": "Fri, 06 Nov 2026 10:11:08 GMT",
-          "summary": "India GCCs boost AI, data, cybersecurity hiring amid talent gap TechGig"
-        },
         {
           "title": "IBM Consulting ends immigration sponsorship for most roles - TechGig",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMlY2UDJVN0FhLUVuZkNpSlRWSThFOS0xTjZQTVpwTEowRGxLNGROZnRsVmVadHJBdmg3T2p2TnJoN2Rnejd6YlVwcnJCaENCcWFkN0ZVdm9JNmNIdlhhVllBZmVkbkVVaXZQam1ZN1VDVkpSYkdjMFZyTVlzWkQzb2NIYkttY04xRHRLcDRoU2ZRblFaYlhrTk1sa2RQLTNmWnEwVXpUTTU4QQ?oc=5",
@@ -51,16 +45,10 @@
       "status": "checked",
       "items": [
         {
-          "title": "DSA Learning Roadmap: From Beginner to Expert (2026) - Coursera",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pVWxwTmtUNDNoNE1WY01mdXhwakk1bXBockdRQS1QUzZyTHVVcHhrRG1pQXhQLXRDdGNRa0JTWlVkUl8tVzRRWExNNXBpNjYtUUxHVE05YnBiby1YTTA1SDRaYzZYQQ?oc=5",
-          "published": "Wed, 28 Oct 2026 07:00:00 GMT",
-          "summary": "DSA Learning Roadmap: From Beginner to Expert (2026) Coursera"
-        },
-        {
-          "title": "224 Blog Posts To Learn About Tech Interviews - HackerNoon",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nODlYX2VGQ1duTy04WXM2VGlFSy1HMUtjUWtMMWVrSld6LUNvRTdjUXkteWQ2cUhBdUg3RWNqckdScDctd0xOSnc0TlFIOWh1VldqR1ZxT2x6aF9PYkF3a0hzdTJ3UEQydHd4RTJFTURMaU1kQXln?oc=5",
-          "published": "Wed, 11 Nov 2026 03:04:21 GMT",
-          "summary": "224 Blog Posts To Learn About Tech Interviews HackerNoon"
+          "title": "Sumo Logic SDE2 Interview Experience | DSA, LLD, DB , HM Round & Project Deep Dive | @sumologic - YouTube",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFbUhiWkVaeHE2SDRyYXhLbWhmWDRRUTZmSTdvb01HVlVoZW9rYjF2VlZCeGF4VmZwTWRDSGlIeldRVnlfWkxYLTNCZjBWNE12cGVwSEtZVU9mV2hK?oc=5",
+          "published": "Mon, 26 Oct 2026 07:00:00 GMT",
+          "summary": "Sumo Logic SDE2 Interview Experience | DSA, LLD, DB , HM Round & Project Deep Dive | @sumologic YouTube"
         }
       ],
       "error": "",
@@ -115,5 +103,5 @@
     "page_title_detected": "careers",
     "message": "Official search page responded. This does not confirm that any specific role is open."
   },
-  "news_item_count": 7
+  "news_item_count": 5
 }
