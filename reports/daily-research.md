@@ -1,6 +1,6 @@
 # Daily Career Research
 
-Updated: 2026-11-13T10:12:30+00:00 UTC
+Updated: 2026-11-14T09:35:12+00:00 UTC
 
 > Daily research leads from items published in the last 21 days, not guaranteed vacancies. Verify roles and claims on the linked source before acting.
 
@@ -18,6 +18,8 @@ Source: https://news.google.com/rss/search?q=Google%20software%20engineer%20jobs
   IBM Consulting ends immigration sponsorship for most roles TechGig
 - [Highest Paying Jobs in India: Roles, Salaries, and How to Become - Simplilearn.com](https://news.google.com/rss/articles/CBMickFVX3lxTE9ZR2dmbGI3eUhWN1JuMDJqU09MMV9MLVdaRERVS2N5dVZVR0VGNDRxLWVNcVlHdm1tS2JnUHJpZkk5VDFFMjU1bkpDUFBuRDcweldqZkRkWFZFeE5kYzdlSHAwMFhpRW1KYnFwMmJfZExUQQ?oc=5) — Tue, 27 Oct 2026 07:00:00 GMT
   Highest Paying Jobs in India: Roles, Salaries, and How to Become Simplilearn.com
+- [Top 10 Highest Paying Engineering Jobs - Simplilearn.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE04WkVueTBld1kxTHFQck5xZW92LV9EWDg1dXdyTUtFMXV3dTBzSFhhWHNqaTZGWWZwWU9yRzNudTRYbHpPLS02cUFiSVJidlBHTTFGMDhlaXpCazBRTHJpMVlscUxXTXJTZHFFVWNvdGY4d3hSM1E?oc=5) — Tue, 27 Oct 2026 07:00:00 GMT
+  Top 10 Highest Paying Engineering Jobs Simplilearn.com
 
 ## Google engineering and hiring updates
 
@@ -30,15 +32,13 @@ Source: https://news.google.com/rss/search?q=Google%20engineering%20hiring%20sof
 
 Source: https://news.google.com/rss/search?q=software%20engineering%20interview%20preparation%20DSA%20system%20design&hl=en-IN&gl=IN&ceid=IN:en
 
-- [Sumo Logic SDE2 Interview Experience | DSA, LLD, DB , HM Round & Project Deep Dive | @sumologic - YouTube](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFbUhiWkVaeHE2SDRyYXhLbWhmWDRRUTZmSTdvb01HVlVoZW9rYjF2VlZCeGF4VmZwTWRDSGlIeldRVnlfWkxYLTNCZjBWNE12cGVwSEtZVU9mV2hK?oc=5) — Mon, 26 Oct 2026 07:00:00 GMT
-  Sumo Logic SDE2 Interview Experience | DSA, LLD, DB , HM Round & Project Deep Dive | @sumologic YouTube
+No items could be retrieved on this run. Status: checked.
 
 ## India software engineering openings
 
 Source: https://news.google.com/rss/search?q=software%20engineer%20backend%20full%20stack%20jobs%20India&hl=en-IN&gl=IN&ceid=IN:en
 
-- [Cardboard Hiring 2026: Six Full-Time Design, Engineering and AI Jobs in Bengaluru, India - Global South Opportunities](https://news.google.com/rss/articles/CBMickFVX3lxTFBMVTBGN19GeFZZUlBlS001ZHhYZHRnY0d1SDAxY1Z3WXZ3YU13V2dxSm40cE15RVBNSVFCejR2akdwbm4zVU4zdkRweWtpXzNvX3lIQmZUR2dTRFhvUGoybEgwbWFMUUVQbmJjX0NyZHctQQ?oc=5) — Sat, 24 Oct 2026 07:00:00 GMT
-  Cardboard Hiring 2026: Six Full-Time Design, Engineering and AI Jobs in Bengaluru, India Global South Opportunities
+No items could be retrieved on this run. Status: checked.
 
 ## Stable study resources
 

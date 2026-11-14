@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-13T10:12:30+00:00",
+  "checked_at": "2026-11-14T09:35:12+00:00",
   "timezone": "UTC",
   "google_careers_url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer&location=India",
   "feeds": [
@@ -19,6 +19,12 @@
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZR2dmbGI3eUhWN1JuMDJqU09MMV9MLVdaRERVS2N5dVZVR0VGNDRxLWVNcVlHdm1tS2JnUHJpZkk5VDFFMjU1bkpDUFBuRDcweldqZkRkWFZFeE5kYzdlSHAwMFhpRW1KYnFwMmJfZExUQQ?oc=5",
           "published": "Tue, 27 Oct 2026 07:00:00 GMT",
           "summary": "Highest Paying Jobs in India: Roles, Salaries, and How to Become Simplilearn.com"
+        },
+        {
+          "title": "Top 10 Highest Paying Engineering Jobs - Simplilearn.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04WkVueTBld1kxTHFQck5xZW92LV9EWDg1dXdyTUtFMXV3dTBzSFhhWHNqaTZGWWZwWU9yRzNudTRYbHpPLS02cUFiSVJidlBHTTFGMDhlaXpCazBRTHJpMVlscUxXTXJTZHFFVWNvdGY4d3hSM1E?oc=5",
+          "published": "Tue, 27 Oct 2026 07:00:00 GMT",
+          "summary": "Top 10 Highest Paying Engineering Jobs Simplilearn.com"
         }
       ],
       "error": "",
@@ -43,14 +49,7 @@
       "topic": "Software engineering interview preparation",
       "source": "https://news.google.com/rss/search?q=software%20engineering%20interview%20preparation%20DSA%20system%20design&hl=en-IN&gl=IN&ceid=IN:en",
       "status": "checked",
-      "items": [
-        {
-          "title": "Sumo Logic SDE2 Interview Experience | DSA, LLD, DB , HM Round & Project Deep Dive | @sumologic - YouTube",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFbUhiWkVaeHE2SDRyYXhLbWhmWDRRUTZmSTdvb01HVlVoZW9rYjF2VlZCeGF4VmZwTWRDSGlIeldRVnlfWkxYLTNCZjBWNE12cGVwSEtZVU9mV2hK?oc=5",
-          "published": "Mon, 26 Oct 2026 07:00:00 GMT",
-          "summary": "Sumo Logic SDE2 Interview Experience | DSA, LLD, DB , HM Round & Project Deep Dive | @sumologic YouTube"
-        }
-      ],
+      "items": [],
       "error": "",
       "http_status": 200
     },
@@ -58,14 +57,7 @@
       "topic": "India software engineering openings",
       "source": "https://news.google.com/rss/search?q=software%20engineer%20backend%20full%20stack%20jobs%20India&hl=en-IN&gl=IN&ceid=IN:en",
       "status": "checked",
-      "items": [
-        {
-          "title": "Cardboard Hiring 2026: Six Full-Time Design, Engineering and AI Jobs in Bengaluru, India - Global South Opportunities",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMVTBGN19GeFZZUlBlS001ZHhYZHRnY0d1SDAxY1Z3WXZ3YU13V2dxSm40cE15RVBNSVFCejR2akdwbm4zVU4zdkRweWtpXzNvX3lIQmZUR2dTRFhvUGoybEgwbWFMUUVQbmJjX0NyZHctQQ?oc=5",
-          "published": "Sat, 24 Oct 2026 07:00:00 GMT",
-          "summary": "Cardboard Hiring 2026: Six Full-Time Design, Engineering and AI Jobs in Bengaluru, India Global South Opportunities"
-        }
-      ],
+      "items": [],
       "error": "",
       "http_status": 200
     }
@@ -103,5 +95,5 @@
     "page_title_detected": "careers",
     "message": "Official search page responded. This does not confirm that any specific role is open."
   },
-  "news_item_count": 5
+  "news_item_count": 4
 }
