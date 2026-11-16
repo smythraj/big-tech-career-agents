@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-15T10:02:37+00:00",
+  "checked_at": "2026-11-16T10:16:46+00:00",
   "timezone": "UTC",
   "google_careers_url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer&location=India",
   "feeds": [
@@ -42,6 +42,12 @@
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pVWxwTmtUNDNoNE1WY01mdXhwakk1bXBockdRQS1QUzZyTHVVcHhrRG1pQXhQLXRDdGNRa0JTWlVkUl8tVzRRWExNNXBpNjYtUUxHVE05YnBiby1YTTA1SDRaYzZYQQ?oc=5",
           "published": "Wed, 28 Oct 2026 07:00:00 GMT",
           "summary": "DSA Learning Roadmap: From Beginner to Expert (2026) Coursera"
+        },
+        {
+          "title": "Top 10 Best Coding Bootcamps In India In 2027 - Inventiva",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY0Y0Y0UyeXRQbkZ0Yi1ITFlMNWJqSEh1R0t0Qk1ERTlFN25KcEp3SkN5R3F5UmJXTjFhWDh5MEV3TUY5QUIzcER5Y2dJOG9HOWVGSHRrUmFZUFhPOS05TnF5bFpjajBZbkhYZGNjQ1dLZk9GZmlDT2xLWjllSF9TWlJ3OHFsODN6?oc=5",
+          "published": "Mon, 16 Nov 2026 04:45:12 GMT",
+          "summary": "Top 10 Best Coding Bootcamps In India In 2027 Inventiva"
         }
       ],
       "error": "",
@@ -89,5 +95,5 @@
     "page_title_detected": "careers",
     "message": "Official search page responded. This does not confirm that any specific role is open."
   },
-  "news_item_count": 3
+  "news_item_count": 4
 }

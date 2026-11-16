@@ -1,6 +1,6 @@
 # Daily Career Research
 
-Updated: 2026-11-15T10:02:37+00:00 UTC
+Updated: 2026-11-16T10:16:46+00:00 UTC
 
 > Daily research leads from items published in the last 21 days, not guaranteed vacancies. Verify roles and claims on the linked source before acting.
 
@@ -31,6 +31,8 @@ Source: https://news.google.com/rss/search?q=software%20engineering%20interview%
 
 - [DSA Learning Roadmap: From Beginner to Expert (2026) - Coursera](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pVWxwTmtUNDNoNE1WY01mdXhwakk1bXBockdRQS1QUzZyTHVVcHhrRG1pQXhQLXRDdGNRa0JTWlVkUl8tVzRRWExNNXBpNjYtUUxHVE05YnBiby1YTTA1SDRaYzZYQQ?oc=5) — Wed, 28 Oct 2026 07:00:00 GMT
   DSA Learning Roadmap: From Beginner to Expert (2026) Coursera
+- [Top 10 Best Coding Bootcamps In India In 2027 - Inventiva](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY0Y0Y0UyeXRQbkZ0Yi1ITFlMNWJqSEh1R0t0Qk1ERTlFN25KcEp3SkN5R3F5UmJXTjFhWDh5MEV3TUY5QUIzcER5Y2dJOG9HOWVGSHRrUmFZUFhPOS05TnF5bFpjajBZbkhYZGNjQ1dLZk9GZmlDT2xLWjllSF9TWlJ3OHFsODN6?oc=5) — Mon, 16 Nov 2026 04:45:12 GMT
+  Top 10 Best Coding Bootcamps In India In 2027 Inventiva
 
 ## India software engineering openings
 
