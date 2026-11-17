@@ -1,6 +1,6 @@
 # Daily Career Research
 
-Updated: 2026-11-16T10:16:46+00:00 UTC
+Updated: 2026-11-17T11:16:31+00:00 UTC
 
 > Daily research leads from items published in the last 21 days, not guaranteed vacancies. Verify roles and claims on the linked source before acting.
 
@@ -14,16 +14,16 @@ Official search page responded. This does not confirm that any specific role is 
 
 Source: https://news.google.com/rss/search?q=Google%20software%20engineer%20jobs%20India&hl=en-IN&gl=IN&ceid=IN:en
 
-- [IBM Consulting ends immigration sponsorship for most roles - TechGig](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMlY2UDJVN0FhLUVuZkNpSlRWSThFOS0xTjZQTVpwTEowRGxLNGROZnRsVmVadHJBdmg3T2p2TnJoN2Rnejd6YlVwcnJCaENCcWFkN0ZVdm9JNmNIdlhhVllBZmVkbkVVaXZQam1ZN1VDVkpSYkdjMFZyTVlzWkQzb2NIYkttY04xRHRLcDRoU2ZRblFaYlhrTk1sa2RQLTNmWnEwVXpUTTU4QQ?oc=5) — Wed, 11 Nov 2026 01:27:54 GMT
-  IBM Consulting ends immigration sponsorship for most roles TechGig
-- [Highest Paying Jobs in India: Roles, Salaries, and How to Become - Simplilearn.com](https://news.google.com/rss/articles/CBMickFVX3lxTE9ZR2dmbGI3eUhWN1JuMDJqU09MMV9MLVdaRERVS2N5dVZVR0VGNDRxLWVNcVlHdm1tS2JnUHJpZkk5VDFFMjU1bkpDUFBuRDcweldqZkRkWFZFeE5kYzdlSHAwMFhpRW1KYnFwMmJfZExUQQ?oc=5) — Tue, 27 Oct 2026 07:00:00 GMT
-  Highest Paying Jobs in India: Roles, Salaries, and How to Become Simplilearn.com
+No items could be retrieved on this run. Status: checked.
 
 ## Google engineering and hiring updates
 
 Source: https://news.google.com/rss/search?q=Google%20engineering%20hiring%20software%20careers&hl=en-IN&gl=IN&ceid=IN:en
 
-No items could be retrieved on this run. Status: checked.
+- [What Is an AI Engineer? (And How to Become One) - Coursera](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XR2dPdGtZRjZWOXZUM3pVcmQ0MHhLcS1UTlJ6UUw1WGhrT25BNzN5MjN6TDROZnMtb0N1Y2FlazZ6OW1wLTNyNVlnNlNCMlVZRFJtalRPOUE?oc=5) — Thu, 12 Nov 2026 08:00:00 GMT
+  What Is an AI Engineer? (And How to Become One) Coursera
+- [10 Companies Hiring Back-End Engineers - Built In](https://news.google.com/rss/articles/CBMickFVX3lxTFBhZ3lmRnRGWmppeHZKY0FQbUl4empYQXN2akVjLVZjSXJ5clRBZV9yckhQTEN0em82eGY1SWhMTi1oYzRCSjFkcDNvbUFxQnBwVVdZRG9uTU5lSGtfc0NPeXNuV1htYVhQY2E2QW54MVhvdw?oc=5) — Mon, 16 Nov 2026 21:12:01 GMT
+  10 Companies Hiring Back-End Engineers Built In
 
 ## Software engineering interview preparation
 
