@@ -1,6 +1,6 @@
 # Daily Career Research
 
-Updated: 2026-11-17T11:16:31+00:00 UTC
+Updated: 2026-11-18T10:49:37+00:00 UTC
 
 > Daily research leads from items published in the last 21 days, not guaranteed vacancies. Verify roles and claims on the linked source before acting.
 
@@ -14,23 +14,20 @@ Official search page responded. This does not confirm that any specific role is 
 
 Source: https://news.google.com/rss/search?q=Google%20software%20engineer%20jobs%20India&hl=en-IN&gl=IN&ceid=IN:en
 
-No items could be retrieved on this run. Status: checked.
+- [Highest Paying Tech Jobs in 2027: Top 25 Roles to Consider - Simplilearn.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE9zd0FuU2VqVnl3SzNpNHUycUFCTGpyQmNCZms0TktvdHdMNU1EQnhpSWVFM0lWYVpXSU42Ul9rTDFzUWlxd05JaWVhaGxCQ0l6UzZaT0xpNVlGbjZHNDYzemFvUkw3Q1RpaVNnMg?oc=5) — Mon, 16 Nov 2026 08:00:00 GMT
+  Highest Paying Tech Jobs in 2027: Top 25 Roles to Consider Simplilearn.com
 
 ## Google engineering and hiring updates
 
 Source: https://news.google.com/rss/search?q=Google%20engineering%20hiring%20software%20careers&hl=en-IN&gl=IN&ceid=IN:en
 
-- [What Is an AI Engineer? (And How to Become One) - Coursera](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XR2dPdGtZRjZWOXZUM3pVcmQ0MHhLcS1UTlJ6UUw1WGhrT25BNzN5MjN6TDROZnMtb0N1Y2FlazZ6OW1wLTNyNVlnNlNCMlVZRFJtalRPOUE?oc=5) — Thu, 12 Nov 2026 08:00:00 GMT
-  What Is an AI Engineer? (And How to Become One) Coursera
-- [10 Companies Hiring Back-End Engineers - Built In](https://news.google.com/rss/articles/CBMickFVX3lxTFBhZ3lmRnRGWmppeHZKY0FQbUl4empYQXN2akVjLVZjSXJ5clRBZV9yckhQTEN0em82eGY1SWhMTi1oYzRCSjFkcDNvbUFxQnBwVVdZRG9uTU5lSGtfc0NPeXNuV1htYVhQY2E2QW54MVhvdw?oc=5) — Mon, 16 Nov 2026 21:12:01 GMT
-  10 Companies Hiring Back-End Engineers Built In
+- [Highest Paying Tech Jobs in 2027: Top 25 Roles to Consider - Simplilearn.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE9zd0FuU2VqVnl3SzNpNHUycUFCTGpyQmNCZms0TktvdHdMNU1EQnhpSWVFM0lWYVpXSU42Ul9rTDFzUWlxd05JaWVhaGxCQ0l6UzZaT0xpNVlGbjZHNDYzemFvUkw3Q1RpaVNnMg?oc=5) — Mon, 16 Nov 2026 08:00:00 GMT
+  Highest Paying Tech Jobs in 2027: Top 25 Roles to Consider Simplilearn.com
 
 ## Software engineering interview preparation
 
 Source: https://news.google.com/rss/search?q=software%20engineering%20interview%20preparation%20DSA%20system%20design&hl=en-IN&gl=IN&ceid=IN:en
 
-- [DSA Learning Roadmap: From Beginner to Expert (2026) - Coursera](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pVWxwTmtUNDNoNE1WY01mdXhwakk1bXBockdRQS1QUzZyTHVVcHhrRG1pQXhQLXRDdGNRa0JTWlVkUl8tVzRRWExNNXBpNjYtUUxHVE05YnBiby1YTTA1SDRaYzZYQQ?oc=5) — Wed, 28 Oct 2026 07:00:00 GMT
-  DSA Learning Roadmap: From Beginner to Expert (2026) Coursera
 - [Top 10 Best Coding Bootcamps In India In 2027 - Inventiva](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY0Y0Y0UyeXRQbkZ0Yi1ITFlMNWJqSEh1R0t0Qk1ERTlFN25KcEp3SkN5R3F5UmJXTjFhWDh5MEV3TUY5QUIzcER5Y2dJOG9HOWVGSHRrUmFZUFhPOS05TnF5bFpjajBZbkhYZGNjQ1dLZk9GZmlDT2xLWjllSF9TWlJ3OHFsODN6?oc=5) — Mon, 16 Nov 2026 04:45:12 GMT
   Top 10 Best Coding Bootcamps In India In 2027 Inventiva
 
