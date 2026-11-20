@@ -1,6 +1,6 @@
 # Daily Career Research
 
-Updated: 2026-11-19T10:50:11+00:00 UTC
+Updated: 2026-11-20T10:39:52+00:00 UTC
 
 > Daily research leads from items published in the last 21 days, not guaranteed vacancies. Verify roles and claims on the linked source before acting.
 
@@ -14,8 +14,7 @@ Official search page responded. This does not confirm that any specific role is 
 
 Source: https://news.google.com/rss/search?q=Google%20software%20engineer%20jobs%20India&hl=en-IN&gl=IN&ceid=IN:en
 
-- [Highest Paying Tech Jobs in 2027: Top 25 Roles to Consider - Simplilearn.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE9zd0FuU2VqVnl3SzNpNHUycUFCTGpyQmNCZms0TktvdHdMNU1EQnhpSWVFM0lWYVpXSU42Ul9rTDFzUWlxd05JaWVhaGxCQ0l6UzZaT0xpNVlGbjZHNDYzemFvUkw3Q1RpaVNnMg?oc=5) — Mon, 16 Nov 2026 08:00:00 GMT
-  Highest Paying Tech Jobs in 2027: Top 25 Roles to Consider Simplilearn.com
+No items could be retrieved on this run. Status: checked.
 
 ## Google engineering and hiring updates
 
