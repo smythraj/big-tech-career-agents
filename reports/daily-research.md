@@ -1,6 +1,6 @@
 # Daily Career Research
 
-Updated: 2026-11-22T10:26:46+00:00 UTC
+Updated: 2026-11-23T11:25:59+00:00 UTC
 
 > Daily research leads from items published in the last 21 days, not guaranteed vacancies. Verify roles and claims on the linked source before acting.
 
@@ -18,6 +18,8 @@ Source: https://news.google.com/rss/search?q=Google%20software%20engineer%20jobs
   H-1B Visa Workers Are Fed Up and Abandoning American Tech Jobs Bloomberg.com
 - [‘Golden Prison’: Indian Google engineer leaves US after six years on H-1B visa - The Indian Express](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRVl6dDhjazhnSEtpNDUxeDNjYV9BbHJoeDZUUUxFSGlOUHY3cmplX2YtSldyclNLR3ZDNTF1TVFaNUU3c2hZaUgzemwyTVFTR0daLWxrRkJ5TWpVZDRJRk1uNEYyaE1heExVMkx4dUVmNzV6WFVseDBoWS15UUEzUV9hS0hfakRtazloRVhwOTBBZ24tT0ZNT2ZTcndjNU1JLXg5aS04YWV0WmdXLUdraS1IUVoyOWltNmxWXzZsTmvSAccBQVVfeXFMUEN5Njc0Z2RYUXpuckstcFNhNldoWjFzcmpqUGlBVWdWVkY2bVhvZG03NkZHdlJ4c0QwSjFEUzFRRlVSdnVKelNES2ZyMnFhNzVlN1FUMk9MbnpVR01ZSm1qZ0lCVVNrcGFGQWY2RURyZmdTNU1tOVg2dnE4NGlESXUzVlBRel9LZ3lLeWl5NGktMVNXM0VnMWppMDR6eFpEdjllQlVSMFZRUUo0M0MtUW8zQ2d5RTFsaFBFMXUyLUxKaFJERF8zMA?oc=5) — Sun, 22 Nov 2026 07:27:01 GMT
   ‘Golden Prison’: Indian Google engineer leaves US after six years on H-1B visa The Indian Express
+- [72% of India’s tech workers would switch careers tomorrow if they could: Survey - ETHRWorld.com](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeTZxU2tKYm9ZdnNuOVBBMnpYMmVST2VMRVpSWXIxb2ZUbHRuSXMzU3VuREdzT0h2eWkwUVRrUmxHaV9SVkhjd0d1Zl90RHA5MUVBeTNxVTBWZkpZc1VPNy16dDNuUVZUMm9PdllwVGJiRFVaV3NTeG5IbExqX2dNblFvbEJ4SzBnZDV3cW82UmRzVlVfUk00WGlXLXpldDMwcXlER1VtYllkQkMxQm9EVVRVTllkVk1aVUlEZVRxU29tcl9FLU42TWh5LTVoY19aalAzUmFIUFRzZDMzWi1ENm01TVItQdIB6wFBVV95cUxPSzVPamY1ZTZVX2NpdWxsV3Q1aWFBX3NfbmJzNEM1Uzk0SWFjb3BDZjA4SzluRnktVEU2ZTh6YW83RmU5WkVGejE1cDdWZVZLRWlCNHJGSGVnYjdXRXFQQmg1YlFXUWNPX1djZV9TVWQ2cXpZNnVpZDhPU2h0M1dBbGkwc0E1S1dnT285N1BmanhJTndrQWV2d2pfZjBRRWVLTFh5eXBSSVpsUnNvcjc0R0wtRGMwZHFQQm81QjgtNS1pMU9oSjQ3UEFpRmQyS2g0aGxLTGV3NlUyb1JZekp3OHR6aU1RdGdjV1JF?oc=5) — Mon, 23 Nov 2026 07:05:38 GMT
+  72% of India’s tech workers would switch careers tomorrow if they could: Survey ETHRWorld.com
 - [US visa holders are fed up and leaving tech jobs - Taipei Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE5maHVmNnI0Qlo3dmtuT3ZqQnE1Ri0xSHcybUFtWUZ3VHJXbmdxdTNoZXRIdHVtTmxibUI5c09QeG5JbGdPRnktZEVfemZVTEtUamhPYi1PZE5FaW4wVnZNazFnd1d4ZWdfXzNFaEU2UDJMTlhKZVE?oc=5) — Sat, 21 Nov 2026 16:00:00 GMT
   US visa holders are fed up and leaving tech jobs Taipei Times
 - [Skilled Visa Workers Leave Tech Jobs Amid Rule Changes - Wisevoter](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbVRzbHR5TEJvN0Q1NzlvejR6b1B0eG9vLXVPc3JxcE96dVZ2SjM5cTFTR09ybnMtYXJXQ2lXdGNKVWRyTjZpQlFVYXZZLVlJWjZ1UnRTUnIyLTBGRVdSTEdiMUNKbjdtR0dwWWt0YV9RZHVOb2xFaGt1VVlsdmI1bVgzRnUwbVh6?oc=5) — Fri, 20 Nov 2026 12:28:44 GMT
@@ -31,6 +33,8 @@ Source: https://news.google.com/rss/search?q=Google%20engineering%20hiring%20sof
   US feels like a golden prison: Google engineer on H-1B visa says he's moving to the UK without a job, say The Times of India
 - [I'm an ex-Googler who became a forward deployed engineer. Here's why I feel it was the right career move. - Business Insider](https://news.google.com/rss/articles/CBMihwFBVV95cUxORXc5SFpTMVhra1Q0di1RdEVaejFkdTc1NUd2SW9NQXd3blRvZnZzanBIWU5FbHJMODZSSnpRYUtMS1YyU05lcmJsb25Nd0dzRjEzQk9TTkhQUy1DYkxCM0YtemJ3dU95UlVXTGpiRl9ReUdpZUNZRWtLZ2VEcGd2Rk9vSEhnUzA?oc=5) — Sat, 21 Nov 2026 10:17:00 GMT
   I'm an ex-Googler who became a forward deployed engineer. Here's why I feel it was the right career move. Business Insider
+- [Google StarSearch, AIGC, Zero-History Discovery, Feed Ranking In Discover Job Posting - Search Engine Roundtable](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qbkcyaEpHamEwZjF0SHJ2OEVOdFVRTmp5M1lmcDliMkFmSFRlWjFWUVBmeElmVjJsSHo4OV9KdnI0R1plSXdjeFFsYkUxMFdfRjJ2OXJ4WmN3eVlXcFN2M3kxNVNfM1RB?oc=5) — Mon, 23 Nov 2026 00:30:00 GMT
+  Google StarSearch, AIGC, Zero-History Discovery, Feed Ranking In Discover Job Posting Search Engine Roundtable
 - [Highest Paying Tech Jobs in 2027: Top 25 Roles to Consider - Simplilearn.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE9zd0FuU2VqVnl3SzNpNHUycUFCTGpyQmNCZms0TktvdHdMNU1EQnhpSWVFM0lWYVpXSU42Ul9rTDFzUWlxd05JaWVhaGxCQ0l6UzZaT0xpNVlGbjZHNDYzemFvUkw3Q1RpaVNnMg?oc=5) — Mon, 16 Nov 2026 08:00:00 GMT
   Highest Paying Tech Jobs in 2027: Top 25 Roles to Consider Simplilearn.com
 - [H-1B Visa Workers Are Fed Up and Abandoning American Tech Jobs - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPRm9XeVRwWXJ0ZzVzNmw3eklTY05RMWVLdFJ0U0RJb3lCSk14VDhVaFRKbGJlNDFuemRqRFJ4YnZ1WHl3MHM5YVNtaUJHYWxWTnVGOE85cUxKX1MtRnBIWWNuMjVFQkd1MXRZNjViclQ3VHN1bmF2Wl9Sd3ZLZVhjc1E5RzQ4M3ZmcHk3MTMyY3lGU05IMFp5Ny1hbWFvZjhNM3hzQVZqUV9jeVN3MVFaNG40SkU?oc=5) — Fri, 20 Nov 2026 11:30:02 GMT
@@ -46,7 +50,7 @@ No items could be retrieved on this run. Status: checked.
 
 Source: https://news.google.com/rss/search?q=software%20engineer%20backend%20full%20stack%20jobs%20India&hl=en-IN&gl=IN&ceid=IN:en
 
-No items could be retrieved on this run. Status: checked.
+No items could be retrieved on this run. Status: unavailable, error: HTTPError.
 
 ## Stable study resources
 

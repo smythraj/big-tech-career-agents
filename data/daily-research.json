@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-22T10:26:46+00:00",
+  "checked_at": "2026-11-23T11:25:59+00:00",
   "timezone": "UTC",
   "google_careers_url": "https://www.google.com/about/careers/applications/jobs/results/?q=software%20engineer&location=India",
   "feeds": [
@@ -19,6 +19,12 @@
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRVl6dDhjazhnSEtpNDUxeDNjYV9BbHJoeDZUUUxFSGlOUHY3cmplX2YtSldyclNLR3ZDNTF1TVFaNUU3c2hZaUgzemwyTVFTR0daLWxrRkJ5TWpVZDRJRk1uNEYyaE1heExVMkx4dUVmNzV6WFVseDBoWS15UUEzUV9hS0hfakRtazloRVhwOTBBZ24tT0ZNT2ZTcndjNU1JLXg5aS04YWV0WmdXLUdraS1IUVoyOWltNmxWXzZsTmvSAccBQVVfeXFMUEN5Njc0Z2RYUXpuckstcFNhNldoWjFzcmpqUGlBVWdWVkY2bVhvZG03NkZHdlJ4c0QwSjFEUzFRRlVSdnVKelNES2ZyMnFhNzVlN1FUMk9MbnpVR01ZSm1qZ0lCVVNrcGFGQWY2RURyZmdTNU1tOVg2dnE4NGlESXUzVlBRel9LZ3lLeWl5NGktMVNXM0VnMWppMDR6eFpEdjllQlVSMFZRUUo0M0MtUW8zQ2d5RTFsaFBFMXUyLUxKaFJERF8zMA?oc=5",
           "published": "Sun, 22 Nov 2026 07:27:01 GMT",
           "summary": "‘Golden Prison’: Indian Google engineer leaves US after six years on H-1B visa The Indian Express"
+        },
+        {
+          "title": "72% of India’s tech workers would switch careers tomorrow if they could: Survey - ETHRWorld.com",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeTZxU2tKYm9ZdnNuOVBBMnpYMmVST2VMRVpSWXIxb2ZUbHRuSXMzU3VuREdzT0h2eWkwUVRrUmxHaV9SVkhjd0d1Zl90RHA5MUVBeTNxVTBWZkpZc1VPNy16dDNuUVZUMm9PdllwVGJiRFVaV3NTeG5IbExqX2dNblFvbEJ4SzBnZDV3cW82UmRzVlVfUk00WGlXLXpldDMwcXlER1VtYllkQkMxQm9EVVRVTllkVk1aVUlEZVRxU29tcl9FLU42TWh5LTVoY19aalAzUmFIUFRzZDMzWi1ENm01TVItQdIB6wFBVV95cUxPSzVPamY1ZTZVX2NpdWxsV3Q1aWFBX3NfbmJzNEM1Uzk0SWFjb3BDZjA4SzluRnktVEU2ZTh6YW83RmU5WkVGejE1cDdWZVZLRWlCNHJGSGVnYjdXRXFQQmg1YlFXUWNPX1djZV9TVWQ2cXpZNnVpZDhPU2h0M1dBbGkwc0E1S1dnT285N1BmanhJTndrQWV2d2pfZjBRRWVLTFh5eXBSSVpsUnNvcjc0R0wtRGMwZHFQQm81QjgtNS1pMU9oSjQ3UEFpRmQyS2g0aGxLTGV3NlUyb1JZekp3OHR6aU1RdGdjV1JF?oc=5",
+          "published": "Mon, 23 Nov 2026 07:05:38 GMT",
+          "summary": "72% of India’s tech workers would switch careers tomorrow if they could: Survey ETHRWorld.com"
         },
         {
           "title": "US visa holders are fed up and leaving tech jobs - Taipei Times",
@@ -54,6 +60,12 @@
           "summary": "I'm an ex-Googler who became a forward deployed engineer. Here's why I feel it was the right career move. Business Insider"
         },
         {
+          "title": "Google StarSearch, AIGC, Zero-History Discovery, Feed Ranking In Discover Job Posting - Search Engine Roundtable",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qbkcyaEpHamEwZjF0SHJ2OEVOdFVRTmp5M1lmcDliMkFmSFRlWjFWUVBmeElmVjJsSHo4OV9KdnI0R1plSXdjeFFsYkUxMFdfRjJ2OXJ4WmN3eVlXcFN2M3kxNVNfM1RB?oc=5",
+          "published": "Mon, 23 Nov 2026 00:30:00 GMT",
+          "summary": "Google StarSearch, AIGC, Zero-History Discovery, Feed Ranking In Discover Job Posting Search Engine Roundtable"
+        },
+        {
           "title": "Highest Paying Tech Jobs in 2027: Top 25 Roles to Consider - Simplilearn.com",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zd0FuU2VqVnl3SzNpNHUycUFCTGpyQmNCZms0TktvdHdMNU1EQnhpSWVFM0lWYVpXSU42Ul9rTDFzUWlxd05JaWVhaGxCQ0l6UzZaT0xpNVlGbjZHNDYzemFvUkw3Q1RpaVNnMg?oc=5",
           "published": "Mon, 16 Nov 2026 08:00:00 GMT",
@@ -80,10 +92,9 @@
     {
       "topic": "India software engineering openings",
       "source": "https://news.google.com/rss/search?q=software%20engineer%20backend%20full%20stack%20jobs%20India&hl=en-IN&gl=IN&ceid=IN:en",
-      "status": "checked",
+      "status": "unavailable",
       "items": [],
-      "error": "",
-      "http_status": 200
+      "error": "HTTPError"
     }
   ],
   "resources": [
@@ -119,5 +130,5 @@
     "page_title_detected": "careers",
     "message": "Official search page responded. This does not confirm that any specific role is open."
   },
-  "news_item_count": 8
+  "news_item_count": 10
 }
