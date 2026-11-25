@@ -1,6 +1,6 @@
 # Daily Career Research
 
-Updated: 2026-11-24T13:00:51+00:00 UTC
+Updated: 2026-11-25T11:49:46+00:00 UTC
 
 > Daily research leads from items published in the last 21 days, not guaranteed vacancies. Verify roles and claims on the linked source before acting.
 
@@ -16,14 +16,14 @@ Source: https://news.google.com/rss/search?q=Google%20software%20engineer%20jobs
 
 - [Google breaks silence on India layoff rumours, reveals how many jobs were actually cut - The Times of India](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOV1poaU04ZDExQUNHYXg0ZmhYcXNBTzlOeTNKN0tDWndNczg5N2dWOGZmenJXTnIxVkF0Z05xd215MnRoYnZXMjdzaExjUjBLY1hvZ01xWUVFUWNQaXk3Q1huVGtSWU5YeUhDT09tbUlsQlZ4QjZSQ2J6VUdkUEM0YzlMcWEwT3l0dGZYNTU4c0EyR090TTd5WWE5dkl0Vmp6R3pGSG5KSm5Cd0VHWjdhaWtjZmJDbEtXS29SLWwwWktMMWsxbldOcXRLcUJlaXpSOEhud1I0ZU4wWlM4Szd1Y1lGSEZseGdHZ2JlcXpzWHhEb1NlekHSAfsBQVVfeXFMTTJaSG10T3NCTmNldFZGVk1NOWZFTWFVaDBReTZLTnRWTXFfdEdKTElIUTZQc2J0Szc1V1Vlb2ctNXhtR0podjBRUlNBY1lMUUNfWVJvYzZtZjhBTlpGbU1oZld4R0QyT2prVkxYSlU4b1I3cnFsUWtZX21SV25nSGpmWndXempfMERxSlU2b211aUh3WkduczRRWjZsWW9BQlJGWF9KOHdoRjFiY0NDcjVnM3hsNFNRb2lKOWJyTTV5MTRGdmxSRkpzVGJfc3NiYzZsS29RZjJJNWtEMXoyVVM3V1JJQnRhaE56WHpUZ3BjQ3JMdWRiZjl5RE0?oc=5) — Tue, 24 Nov 2026 04:41:00 GMT
   Google breaks silence on India layoff rumours, reveals how many jobs were actually cut The Times of India
-- [US visa holders are fed up and leaving tech jobs - Taipei Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE5maHVmNnI0Qlo3dmtuT3ZqQnE1Ri0xSHcybUFtWUZ3VHJXbmdxdTNoZXRIdHVtTmxibUI5c09QeG5JbGdPRnktZEVfemZVTEtUamhPYi1PZE5FaW4wVnZNazFnd1d4ZWdfXzNFaEU2UDJMTlhKZVE?oc=5) — Sat, 21 Nov 2026 16:00:00 GMT
-  US visa holders are fed up and leaving tech jobs Taipei Times
-- [H-1B Visa Workers Are Fed Up and Abandoning American Tech Jobs - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPRm9XeVRwWXJ0ZzVzNmw3eklTY05RMWVLdFJ0U0RJb3lCSk14VDhVaFRKbGJlNDFuemRqRFJ4YnZ1WHl3MHM5YVNtaUJHYWxWTnVGOE85cUxKX1MtRnBIWWNuMjVFQkd1MXRZNjViclQ3VHN1bmF2Wl9Sd3ZLZVhjc1E5RzQ4M3ZmcHk3MTMyY3lGU05IMFp5Ny1hbWFvZjhNM3hzQVZqUV9jeVN3MVFaNG40SkU?oc=5) — Fri, 20 Nov 2026 11:30:02 GMT
-  H-1B Visa Workers Are Fed Up and Abandoning American Tech Jobs Bloomberg.com
+- [H-1B Visa Workers Are Fed Up and Abandoning American Tech Jobs - Bloomberg](https://news.google.com/rss/articles/CBMitAFBVV95cUxPRm9XeVRwWXJ0ZzVzNmw3eklTY05RMWVLdFJ0U0RJb3lCSk14VDhVaFRKbGJlNDFuemRqRFJ4YnZ1WHl3MHM5YVNtaUJHYWxWTnVGOE85cUxKX1MtRnBIWWNuMjVFQkd1MXRZNjViclQ3VHN1bmF2Wl9Sd3ZLZVhjc1E5RzQ4M3ZmcHk3MTMyY3lGU05IMFp5Ny1hbWFvZjhNM3hzQVZqUV9jeVN3MVFaNG40SkU?oc=5) — Fri, 20 Nov 2026 11:30:02 GMT
+  H-1B Visa Workers Are Fed Up and Abandoning American Tech Jobs Bloomberg
 - [‘Golden Prison’: Indian Google engineer leaves US after six years on H-1B visa - The Indian Express](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRVl6dDhjazhnSEtpNDUxeDNjYV9BbHJoeDZUUUxFSGlOUHY3cmplX2YtSldyclNLR3ZDNTF1TVFaNUU3c2hZaUgzemwyTVFTR0daLWxrRkJ5TWpVZDRJRk1uNEYyaE1heExVMkx4dUVmNzV6WFVseDBoWS15UUEzUV9hS0hfakRtazloRVhwOTBBZ24tT0ZNT2ZTcndjNU1JLXg5aS04YWV0WmdXLUdraS1IUVoyOWltNmxWXzZsTmvSAccBQVVfeXFMUEN5Njc0Z2RYUXpuckstcFNhNldoWjFzcmpqUGlBVWdWVkY2bVhvZG03NkZHdlJ4c0QwSjFEUzFRRlVSdnVKelNES2ZyMnFhNzVlN1FUMk9MbnpVR01ZSm1qZ0lCVVNrcGFGQWY2RURyZmdTNU1tOVg2dnE4NGlESXUzVlBRel9LZ3lLeWl5NGktMVNXM0VnMWppMDR6eFpEdjllQlVSMFZRUUo0M0MtUW8zQ2d5RTFsaFBFMXUyLUxKaFJERF8zMA?oc=5) — Sun, 22 Nov 2026 07:27:01 GMT
   ‘Golden Prison’: Indian Google engineer leaves US after six years on H-1B visa The Indian Express
-- [5 Popular DevOps Certifications in 2027 - Coursera](https://news.google.com/rss/articles/CBMiakFVX3lxTE1jS3F6ZjdpbzhFNXRndHV1MFpZUGtaNExGNWdqUDFzeF9kU1NkRXhYREd2SVdHY1FwQVZSUlc4MnhzT3VpWEZ2SWFidTJLYzdGTUFoSk14eTJ4VXhnVnppMnlpRWtfZEpOYXc?oc=5) — Thu, 19 Nov 2026 08:00:00 GMT
-  5 Popular DevOps Certifications in 2027 Coursera
+- [72% of India’s tech workers would switch careers tomorrow if they could: Survey - ETHRWorld.com](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeTZxU2tKYm9ZdnNuOVBBMnpYMmVST2VMRVpSWXIxb2ZUbHRuSXMzU3VuREdzT0h2eWkwUVRrUmxHaV9SVkhjd0d1Zl90RHA5MUVBeTNxVTBWZkpZc1VPNy16dDNuUVZUMm9PdllwVGJiRFVaV3NTeG5IbExqX2dNblFvbEJ4SzBnZDV3cW82UmRzVlVfUk00WGlXLXpldDMwcXlER1VtYllkQkMxQm9EVVRVTllkVk1aVUlEZVRxU29tcl9FLU42TWh5LTVoY19aalAzUmFIUFRzZDMzWi1ENm01TVItQdIB6wFBVV95cUxPSzVPamY1ZTZVX2NpdWxsV3Q1aWFBX3NfbmJzNEM1Uzk0SWFjb3BDZjA4SzluRnktVEU2ZTh6YW83RmU5WkVGejE1cDdWZVZLRWlCNHJGSGVnYjdXRXFQQmg1YlFXUWNPX1djZV9TVWQ2cXpZNnVpZDhPU2h0M1dBbGkwc0E1S1dnT285N1BmanhJTndrQWV2d2pfZjBRRWVLTFh5eXBSSVpsUnNvcjc0R0wtRGMwZHFQQm81QjgtNS1pMU9oSjQ3UEFpRmQyS2g0aGxLTGV3NlUyb1JZekp3OHR6aU1RdGdjV1JF?oc=5) — Mon, 23 Nov 2026 07:05:38 GMT
+  72% of India’s tech workers would switch careers tomorrow if they could: Survey ETHRWorld.com
+- [US visa holders are fed up and leaving tech jobs - Taipei Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE5maHVmNnI0Qlo3dmtuT3ZqQnE1Ri0xSHcybUFtWUZ3VHJXbmdxdTNoZXRIdHVtTmxibUI5c09QeG5JbGdPRnktZEVfemZVTEtUamhPYi1PZE5FaW4wVnZNazFnd1d4ZWdfXzNFaEU2UDJMTlhKZVE?oc=5) — Sat, 21 Nov 2026 16:00:00 GMT
+  US visa holders are fed up and leaving tech jobs Taipei Times
 
 ## Google engineering and hiring updates
 
@@ -41,7 +41,16 @@ No items could be retrieved on this run. Status: checked.
 
 Source: https://news.google.com/rss/search?q=software%20engineer%20backend%20full%20stack%20jobs%20India&hl=en-IN&gl=IN&ceid=IN:en
 
-No items could be retrieved on this run. Status: checked.
+- [Best laptop for programming 2026: Top picks for coders - TechRadar](https://news.google.com/rss/articles/CBMiakFVX3lxTFAzSFRjUFNxRFJpdVZPWUNVR3FJUWN6MVp2NklTTmJIVUhLN3lLVVJUMW9SREpGcXZlQ2RiMFZBTEp4SFlZcXFTV0p0dEQwTUI5dTEwX1VTcGhrYTNUMW9aZ0pfZV9fYzk1VlE?oc=5) — Tue, 10 Nov 2026 08:00:00 GMT
+  Best laptop for programming 2026: Top picks for coders TechRadar
+- [Best Paying IT Jobs in India 2027: Top 10 Careers - Jaro Education](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPbE9tX0FianFVRnp3X01VMExFazFlYmg5eElYNGxfUGc0QkRTN2JBUFpocVVNTnJBbVlpWDFTaXYtRjY5eEFjQVFpSXl4NlJBX040cTRXcDk0eExXVmQtU2pKdjc0d1Y2?oc=5) — Fri, 20 Nov 2026 08:00:00 GMT
+  Best Paying IT Jobs in India 2027: Top 10 Careers Jaro Education
+- [How to Get an IT Job Without a Degree? \[Facts & Top Jobs\] - Simplilearn.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxNRmVqVHRobHQ3dG5DSkw0eUYzLTNHdEFvTW80b2piazNncTdBLTNvam1WcjFSbkVxamt6MnZYOUtGaG5BUkVEX2FvUjFnSFBXZEc1bV9TRVoxc1BTaE14M2paV2ZleURqZWlZLWw0cGRCdWJmSG1Bd3pVZWM2RXpGdnUyY2hjRUNORHc?oc=5) — Sat, 07 Nov 2026 08:00:00 GMT
+  How to Get an IT Job Without a Degree? [Facts & Top Jobs] Simplilearn.com
+- [25 web developer portfolio examples for your inspiration - Hostinger](https://news.google.com/rss/articles/CBMicEFVX3lxTE1tV2N6dENRMlg3NlFFTFM0VjJyVmxjU2Y2bzh5SnBBRmx3emcxTXRlSGdaM0Z1TWxna1g3MmNNTjMwM1dBMy1xTWN6M284U3hSNnltNEZRVFNVQUswTU16ZE0xbGFueTVHSGN1aVJCNXU?oc=5) — Tue, 10 Nov 2026 08:00:00 GMT
+  25 web developer portfolio examples for your inspiration Hostinger
+- [ABDM Recruitment 2026: Walk-in for 20 Vacancies - FreeJobAlert.Com](https://news.google.com/rss/articles/CBMiogFBVV95cUxPamZsdEpfNGVsTU5XVDR2MmVXWW1KRHNmVGkwNVR0a0ZHcllCallsdm5uUW5wVFU1bWZxTDNtVUVCLWdkOTlpNENTNTNzaTFpQ2N1cHYxckFBbDNfQm1lTXlnMklrV2lhLURGaEVaeDRvTnJhRFVHaDU0Y2ZxN0p5WkJLVWdNM0hYSHNGUHdvTVNiNGt2OTdqMDc5bE1NNnhRdEE?oc=5) — Mon, 09 Nov 2026 08:00:00 GMT
+  ABDM Recruitment 2026: Walk-in for 20 Vacancies FreeJobAlert.Com
 
 ## Stable study resources
 
